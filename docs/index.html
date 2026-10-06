@@ -76,7 +76,12 @@ select, input[type="search"] {
   font: inherit; font-size: 14px; color: var(--ink); background: var(--bg); border: 1px solid var(--axis);
   border-radius: 4px; padding: 7px 9px; width: 100%; min-width: 0;
 }
-input[type="range"] { width: 100%; accent-color: var(--s1); }
+input[type="range"] { -webkit-appearance: none; appearance: none; width: 100%; height: 28px; margin: 0; background: transparent; cursor: pointer; }
+input[type="range"]::-webkit-slider-runnable-track { height: 4px; border-radius: 2px; background: var(--axis); }
+input[type="range"]::-moz-range-track { height: 4px; border-radius: 2px; background: var(--axis); }
+input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 20px; height: 20px; margin-top: -8px; border-radius: 50%; background: var(--s1); border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--s1); }
+input[type="range"]::-moz-range-thumb { width: 16px; height: 16px; border-radius: 50%; background: var(--s1); border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--s1); }
+input[type="range"]:focus-visible { outline: 2px solid var(--s1); outline-offset: 2px; border-radius: 4px; }
 .seg { align-self: flex-start; display: inline-flex; border: 1px solid var(--axis); border-radius: 4px; overflow: hidden; max-width: 100%; flex-wrap: wrap; }
 .seg label { cursor: pointer; }
 .seg input { position: absolute; opacity: 0; pointer-events: none; }
@@ -196,9 +201,9 @@ footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line)
     <h3>Try it</h3>
     <div class="controls">
       <div class="field"><label for="c1">Player 1 needs</label>
-        <select id="c1"><option value="i" selected>only a draw</option><option value="ii">a win</option><option value="iii">nothing: secured or out of reach</option></select></div>
+        <select id="c1"><option value="i" selected>only a draw</option><option value="ii">a win</option><option value="iii">nothing at stake</option></select></div>
       <div class="field"><label for="c2">Player 2 needs</label>
-        <select id="c2"><option value="i">only a draw</option><option value="ii" selected>a win</option><option value="iii">nothing: secured or out of reach</option></select></div>
+        <select id="c2"><option value="i">only a draw</option><option value="ii" selected>a win</option><option value="iii">nothing at stake</option></select></div>
       <div class="field"><label for="q">Player 1 wins a decisive game with probability <output id="qv" for="q">0.55</output></label>
         <input id="q" type="range" min="0.02" max="0.98" step="0.01" value="0.55"></div>
       <div class="field"><label for="eps">Value of each extra point, as a share of the prize <output id="epsv" for="eps">0.05</output></label>

@@ -1,0 +1,91 @@
+board,white,white_title,white_rank,white_score_before,white_elo,white_fed,black,black_title,black_rank,black_score_before,black_elo,black_fed,result,kind,white_pts,black_pts,draw
+1,Suyarov Mukhammadzokhid,IM,62,6.0,2449,,Nepomniachtchi Ian,GM,1,7.0,2723,,½-½,played,0.5,0.5,1
+2,Nesterov Arseniy,GM,16,6.0,2598,,Shimanov Aleksandr,GM,21,6.0,2578,,½-½,played,0.5,0.5,1
+3,Muradli Mahammad,GM,20,6.0,2581,,Paravyan David,GM,19,6.0,2582,,½-½,played,0.5,0.5,1
+4,Esipenko Andrey,GM,2,5.5,2698,,Siddharth Jagadeesh,GM,41,6.0,2496,,1-0,played,1.0,0.0,0
+5,Goganov Aleksey,GM,42,5.5,2491,,Sargsyan Shant,GM,4,5.5,2659,,½-½,played,0.5,0.5,1
+6,Sadhwani Raunak,GM,6,5.5,2638,,Prraneeth Vuppala,GM,36,5.5,2515,,1-0,played,1.0,0.0,0
+7,Rozum Ivan,GM,66,5.5,2444,,Martirosyan Haik M.,GM,7,5.5,2626,,0-1,played,0.0,1.0,0
+8,Grebnev Aleksey,GM,8,5.5,2621,,Oro Faustino,IM,35,5.5,2516,,1-0,played,1.0,0.0,0
+9,Hakobyan Aram,GM,10,5.5,2619,,Tsydypov Zhamsaran,GM,37,5.5,2507,,1-0,played,1.0,0.0,0
+10,Yurasov Matfey,FM,163,5.5,2270,,Daneshvar Bardiya,GM,17,5.5,2597,,0-1,played,0.0,1.0,0
+11,Zvjaginsev Vadim,GM,28,5.5,2539,,Shubin Kirill,IM,47,5.5,2477,,1-0,played,1.0,0.0,0
+12,Chertkov Maksim,FM,157,5.5,2298,,Makarian Rudik,GM,30,5.5,2535,,0-1,played,0.0,1.0,0
+13,Uskov Artem,GM,32,5.5,2521,,Zakhartsov Vladimir,GM,51,5.5,2469,,1-0,played,1.0,0.0,0
+14,Vetokhin Savva,GM,22,5.0,2572,,Nurgaliyev Sauat,IM,74,5.5,2423,,0-1,played,0.0,1.0,0
+15,Zverev Lev,IM,60,5.0,2453,,Dubov Daniil,GM,3,5.0,2672,,½-½,played,0.5,0.5,1
+16,Ajay Santhosh Parvathareddy,IM,52,5.0,2465,,Grischuk Alexander,GM,5,5.0,2645,,0-1,played,0.0,1.0,0
+17,Rostovtsev Dmitry,IM,56,5.0,2457,,Matlakov Maxim,GM,13,5.0,2609,,½-½,played,0.5,0.5,1
+18,Bocharov Dmitry,GM,26,5.0,2553,,Frolyanov Dmitry,GM,55,5.0,2457,,½-½,played,0.5,0.5,1
+19,Novozhilov Semen,IM,61,5.0,2450,,Afanasiev Nikita,GM,29,5.0,2536,,0-1,played,0.0,1.0,0
+20,Savchenko Boris,GM,65,5.0,2445,,Iljiushenok Ilia,GM,33,5.0,2518,,1-0,played,1.0,0.0,0
+21,Riazantsev Alexander,GM,11,4.5,2612,,Pingin Artem,IM,57,4.5,2456,,½-½,played,0.5,0.5,1
+22,Mendonca Leon Luke,GM,12,4.5,2610,,Parpiev Isaak,CM,67,4.5,2433,,½-½,played,0.5,0.5,1
+23,Sjugirov Sanan,GM,14,4.5,2608,,Smirnov Mark,IM,71,4.5,2425,,1-0,played,1.0,0.0,0
+24,Talibov Shiroghlan,IM,68,4.5,2431,,Movahed Sina,GM,18,4.5,2596,,1-0,played,1.0,0.0,0
+25,Triapishko Alexandr,IM,69,4.5,2430,,Lysyj Igor,GM,25,4.5,2560,,½-½,played,0.5,0.5,1
+26,Ravi Teja S.,IM,75,4.5,2423,,Sakaev Konstantin,GM,27,4.5,2543,,0-1,played,0.0,1.0,0
+27,Khismatullin Denis,GM,31,4.5,2532,,Gabrielian Artur,GM,85,4.5,2407,,1-0,played,1.0,0.0,0
+28,Tsaruk Maksim,GM,38,4.5,2506,,Khamdamova Afruza,WGM,90,4.5,2403,,½-½,played,0.5,0.5,1
+29,Pavlov Danila,FM,84,4.5,2408,,Khubukshanov Erdem,IM,39,4.5,2502,,0-1,played,0.0,1.0,0
+30,Dau Khuong Duy,IM,43,4.5,2490,,Bardyk Artem,FM,97,4.5,2390,,1-0,played,1.0,0.0,0
+31,Mahdavi Reza,IM,44,4.5,2490,,Manvelyan Mikayel,FM,96,4.5,2391,,0-1,played,0.0,1.0,0
+32,Averin Nikolay,IM,88,4.5,2404,,Nikitenko Mihail,GM,45,4.5,2486,,0-1,played,0.0,1.0,0
+33,Timoshin Maxim,FM,87,4.5,2405,,Remizov Yaroslav,IM,46,4.5,2478,,½-½,played,0.5,0.5,1
+34,Ansat Aldiyar,IM,50,4.5,2470,,Faizrakhmanov Ramil,IM,104,4.5,2379,,1-0,played,1.0,0.0,0
+35,Jiang Haochen,IM,54,4.5,2458,,Kalinin Nikita An.,FM,154,4.5,2300,,1-0,played,1.0,0.0,0
+36,Najer Evgeniy,GM,9,4.0,2619,,Melnikov Fedor,FM,164,4.5,2270,,½-½,played,0.5,0.5,1
+37,Narayanan S L,GM,15,4.0,2608,,Volodin Alexandr E.,FM,102,4.0,2384,,½-½,played,0.5,0.5,1
+38,Meng Yihan,IM,40,4.0,2502,,Khripachenko Alexander,IM,108,4.0,2370,,½-½,played,0.5,0.5,1
+39,Ermakov Maksim *),FM,138,2.0,2331,,Shonazarov Orash,FM,146,2.5,2317,,½-½,played,0.5,0.5,1
+40,Scheglov Gleb,FM,112,4.0,2365,,Stribuk Artiom,IM,49,4.0,2471,,½-½,played,0.5,0.5,1
+41,Moosavifar Seyed Abolfazl,FM,106,4.0,2379,,Sapenov Daniyal,IM,53,4.0,2465,,½-½,played,0.5,0.5,1
+42,Garifullina Leya,WGM,58,4.0,2454,,Obgolts Erik,IM,123,4.0,2351,,½-½,played,0.5,0.5,1
+43,Lavrik Dmitry,IM,64,4.0,2447,,Lebedev Artem S.,FM,128,4.0,2344,,0-1,played,0.0,1.0,0
+44,Grachev Alexey,IM,72,4.0,2424,,Lad Mandar Pradip,,135,4.0,2334,,1-0,played,1.0,0.0,0
+45,Yeletsky Ivan,FM,76,4.0,2421,,Galaktionov Artem,FM,136,4.0,2333,,½-½,played,0.5,0.5,1
+46,Kozlov Alexei,FM,143,4.0,2320,,Valiyev Shahin,FM,78,4.0,2421,,½-½,played,0.5,0.5,1
+47,Lavrov Maxim,IM,125,4.0,2348,,Sklokin Sergey,FM,82,4.0,2414,,0-1,played,0.0,1.0,0
+48,Tsvetkov Andrey,IM,83,4.0,2411,,George Samir David,IM,140,4.0,2327,,1-0,played,1.0,0.0,0
+49,Usov Aleksandr E.,FM,91,4.0,2402,,Preobrazhenskaya Diana,WFM,165,4.0,2251,,1-0,played,1.0,0.0,0
+50,Ganiev Artur,FM,149,4.0,2306,,Zarubitski Viachaslau,IM,95,4.0,2393,,1-0,played,1.0,0.0,0
+51,Nurgaliyeva Zarina,WIM,160,4.0,2286,,Kuandykuly Danis,FM,100,4.0,2386,,0-1,played,0.0,1.0,0
+52,Kezin Roman,IM,48,3.5,2474,,Lyutsinger Iren,FM,168,4.0,2182,,1-0,played,1.0,0.0,0
+53,Vastrukhin Oleg,IM,127,3.5,2344,,Korchmar Vasiliy,IM,70,3.5,2427,,½-½,played,0.5,0.5,1
+54,Airapetian Gor,IM,80,3.5,2418,,Koshulyan Egor A.,FM,115,3.5,2363,,0-1,played,0.0,1.0,0
+55,Audi Ameya,IM,81,3.5,2418,,Sutormin Danila,FM,116,3.5,2361,,0-1,played,0.0,1.0,0
+56,Danielyan Vahe,IM,141,3.5,2321,,Kornienko Konstantin,FM,93,3.5,2402,,0-1,played,0.0,1.0,0
+57,Khayrullin Denis,IM,99,3.5,2386,,Kishiev Famil,FM,122,3.5,2353,,½-½,played,0.5,0.5,1
+58,Bivol Alina,WGM,109,3.5,2367,,Zhurova Anna,WFM,147,3.5,2311,,0-1,played,0.0,1.0,0
+59,Plotnikov Boris,FM,110,3.5,2367,,Plyasunov Daniil,FM,161,3.5,2279,,1-0,played,1.0,0.0,0
+60,Hakobyan Menua,FM,150,3.5,2304,,Volkov Maksim,FM,111,3.5,2366,,0-1,played,0.0,1.0,0
+61,Tregubenko Nikolay,FM,162,3.5,2273,,Goltseva Ekaterina,WGM,113,3.5,2364,,½-½,played,0.5,0.5,1
+62,Shturman Arseniy,FM,114,3.5,2364,,Karmanova Olga Dm.,WIM,167,3.5,2235,,1-0,played,1.0,0.0,0
+63,Salemgareev Tagir,IM,73,3.0,2423,,Lisenkov Svyatoslav,FM,126,3.0,2347,,0-1,played,0.0,1.0,0
+64,Gong Sunle,IM,89,3.0,2404,,Temirbekov Taimaz,FM,121,3.0,2353,,½-½,played,0.5,0.5,1
+65,Rumyantsev Semen,FM,155,3.0,2300,,Poormosavi Seyed Kian,IM,94,3.0,2399,,1-0,played,1.0,0.0,0
+66,Girya Olga,GM,98,3.0,2389,,Efimov Leonid,FM,129,3.0,2342,,½-½,played,0.5,0.5,1
+67,Peng Hongchi,,101,3.0,2386,,Gadzhiev Ruslan,FM,132,3.0,2339,,½-½,played,0.5,0.5,1
+68,Pogosyan Stefan,IM,103,3.0,2381,,Suleymanli Suleyman,FM,131,3.0,2340,,0-1,played,0.0,1.0,0
+69,Ivanov Oleg V,IM,105,3.0,2379,,Ghoreishi Amiri Seyed Kian,FM,153,3.0,2302,,1-0,played,1.0,0.0,0
+70,Hayrapetyan Edgar,FM,107,3.0,2377,,Putrenko Kirill,FM,133,3.0,2339,,½-½,played,0.5,0.5,1
+71,Pogonina Natalija,WGM,142,2.5,2320,,Sukiasyan Vahe A.,IM,63,2.5,2448,,½-½,played,0.5,0.5,1
+72,Gilfanov Marat I,FM,134,2.5,2337,,Piskov Yury,GM,77,2.5,2421,,1-0,played,1.0,0.0,0
+73,Vershinin Igor,FM,144,2.5,2320,,Bukreev Stanislav,FM,92,2.5,2402,,½-½,played,0.5,0.5,1
+74,Arakelyan Manvel,FM,152,2.5,2302,,Kudrin Ivan,FM,117,2.5,2360,,1-0,played,1.0,0.0,0
+75,Yonal Timur,FM,159,2.5,2294,,Bodnaruk Anastasia,WGM,118,2.5,2357,,--+,forfeit,0.0,1.0,0
+76,Polkovnikyan Artem,FM,119,2.5,2357,,Vasilkov Nikolay,FM,156,2.5,2300,,0-1,played,0.0,1.0,0
+77,Vorotnikov Vladislav V,GM,169,2.0,2160,,Sheremetev Vladislav,FM,124,2.0,2351,,1-0,played,1.0,0.0,0
+78,Ismagilov Igor,,139,2.0,2330,,Pashikyan Rudolf,FM,148,2.0,2307,,+--,forfeit,1.0,0.0,0
+79,Zhapova Yana,WGM,166,2.0,2240,,Kurmangaliyeva Liya,WGM,145,2.0,2319,,½-½,played,0.5,0.5,1
+80,Khafizova Diana,WIM,158,1.0,2294,,,,,,,,1,bye,1.0,,0
+81,Drygalov Sergey,GM,23,3.0,2571,,,,,,,,0,absent,0.0,,0
+82,Ponkratov Pavel,GM,24,4.5,2565,,,,,,,,0,absent,0.0,,0
+83,Sychev Klementy,GM,34,2.0,2517,,,,,,,,0,absent,0.0,,0
+84,Samusenko Maksim,IM,59,2.0,2453,,,,,,,,0,absent,0.0,,0
+85,Krishna C R G,IM,79,2.5,2419,,,,,,,,0,absent,0.0,,0
+86,Matinian Nikita,GM,86,1.0,2405,,,,,,,,0,absent,0.0,,0
+87,Sitnikov Anton,IM,120,1.0,2355,,,,,,,,0,absent,0.0,,0
+88,Bazeev German,FM,130,0.5,2341,,,,,,,,0,absent,0.0,,0
+89,Kleimenov Nikolay,FM,137,0.0,2332,,,,,,,,0,absent,0.0,,0
+90,Gorbatov Alexej,IM,151,2.0,2303,,,,,,,,0,absent,0.0,,0

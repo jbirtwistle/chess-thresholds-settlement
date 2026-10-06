@@ -1,0 +1,7 @@
+tournament,threshold,n_top,draws_top,n_other,draws_other,fisher_p
+Grand Swiss 2025 R11,0.5,7,6,51,25,0.108
+Menorca 2026 R9,0.5,4,2,148,60,1.0
+Aeroflot 2026 R9,0.5,0,0,77,31,
+Grand Swiss 2025 R11,1.0,14,8,44,23,1.0
+Menorca 2026 R9,1.0,12,7,140,55,0.23
+Aeroflot 2026 R9,1.0,3,3,74,28,0.061

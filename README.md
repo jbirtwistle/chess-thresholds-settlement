@@ -15,3 +15,6 @@ Scripts use absolute paths from the original workspace (`/home/claude/chess_sim/
 
 ## Publish with GitHub Pages
 Settings → Pages → Deploy from a branch → `main` → `/docs`.
+
+## License
+Code and page: MIT License (see `LICENSE`). The tournament results in `data/` are public records published by the organisers of each event and are not covered by this license.

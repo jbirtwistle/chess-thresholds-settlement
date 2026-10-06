@@ -1,0 +1,460 @@
+% =====================================================================
+% Thresholds, Risk and Settlement: a model of last-round draws in chess
+% ---------------------------------------------------------------------
+% Bibliography status (checked 2026-10-06 against RePEc records):
+%  - Moul & Nye (2009), JEBO 70(1-2):10-21        : verified (RePEc)
+%  - Krumer, Megidish & Sela (2023), MSS 122:50-57 : verified (RePEc)
+%  - Vong (2017), GEB 102:562-567                  : verified (RePEc)
+%  - Csato & Sziklai (2026), arXiv:2610.01997      : read in full
+%  - Csato & Krumer, arXiv:2410.19333 (v3)         : abstract read
+%  - Feddersen et al. (2023), Csato et al. (2024),
+%    Csato & Gyimesi (2026, EJOR; football)        : from the reference
+%    list of arXiv:2610.01997
+% =====================================================================
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{booktabs}
+\usepackage[authoryear,round]{natbib}
+\usepackage[pdftitle={Thresholds, Risk and Settlement: A Game-Theoretic Model of Last-Round Draws in Chess Tournaments},pdfauthor={Ambrose Birtwistle}]{hyperref}
+\usepackage{microtype}
+
+\newtheorem{proposition}{Proposition}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\theoremstyle{definition}
+\newtheorem{assumption}{Assumption}
+\newtheorem{remark}{Remark}
+
+\newcommand{\Sset}{\mathsf{S}}   % settle
+\newcommand{\Fset}{\mathsf{F}}   % fight
+\newcommand{\EU}{\mathrm{EU}}
+
+\title{Thresholds, Risk and Settlement:\\
+A Game-Theoretic Model of Last-Round Draws in Chess Tournaments}
+\author{Ambrose Birtwistle}
+\date{October 2026 --- working draft}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+In the final round of a chess tournament, players choose how much risk to
+take, and the prizes, title norms and rating consequences they face are
+step functions of the final score. I model a final-round pairing as a
+two-player game in which each player either \emph{settles} for a draw or
+\emph{fights} for a decisive result, and I show that the equilibrium depends
+on a single statistic of each player's payoff: the share $\rho_i$ of the
+payoff step that lies below the draw. A mutual-settlement region exists
+if and only if $\rho_1+\rho_2>1$, so draw agreements require
+aggregate concavity of payoffs around the current score and cannot arise with
+linear payoffs and no effort cost. When fighting is costly and decisiveness
+is complementary in the two players' efforts, settling and fighting are both
+self-enforcing conventions: draw collusion needs no side payments, only a
+focal point. The model yields testable implications for draw frequency,
+game length and engine-measured risk as a function of the standings
+before the last round.
+\end{abstract}
+
+\section{Introduction}
+
+Chess differs from most tournament sports in one respect that matters for
+incentives: a game has three outcomes, and either player can often steer
+the game toward the middle one by simplifying the position. When prizes or
+title norms are awarded at score thresholds, the middle outcome can be worth
+nearly as much as a win to one player and nearly as little as a loss to
+another. The consequences are familiar to organisers, who have introduced
+rules such as bans on early draw offers and three-point scoring for wins, and
+to the Qualification Commission of FIDE, which reports having investigated
+tournaments where results were manipulated to obtain titles or norms and
+lists short draws among its indicators \citep{fide_qc}.
+
+The existing economic literature on strategic draws is, to my knowledge,
+mostly empirical or simulation-based. The model here is complementary: it
+characterises when threshold-type payoffs produce mutual settlement, when
+they produce mutual risk-taking, and when both are equilibria.
+
+\section{Related literature}
+
+The closest empirical paper is \citet{moulnye}, who use post-war
+tournament data to test whether Soviet players acted as a cartel by drawing
+among themselves, and conclude that the pattern of draws is consistent
+with collusion and inconsistent with competition. Their paper is a
+statistical test for a specific group and period; it does not derive
+how the shape of the prize function drives the choice between settling
+and fighting.
+
+Recent operations-research work studies chess tournament design.
+\citet{csato_sziklai} simulate Swiss-system team tournaments to quantify the
+trade-off between ranking accuracy and the probability of a stakeless last
+round, and note that match-point scoring in the Chess Olympiad creates
+situations where a draw on one board suffices for the team; they call for
+empirical study of how extra points for winning affect behaviour.
+\citet{csato_krumer} document that in Swiss tournaments with an odd number of
+rounds, players with an extra game with the white pieces score more. These
+papers concern design and fairness rather than individual strategic choice.
+
+More generally, tournament theory has shown that contestants may rationally
+shirk or even lose when future stages reward it \citep{vong2017,krumer2020}.
+Stakeless last-round matches have been analysed in football
+\citep{chater2021,csato2024,csato_gyimesi2026}, and \citet{feddersen2023} find
+that betting markets anticipate effort adjustments at the end of the season.
+I am not aware of a chess model with a continuous prize step function and a
+draw outcome of the kind studied below, but I have not conducted a systematic
+search, and this should be checked before any claim of novelty.
+
+\section{The model}
+
+\subsection{Setup}
+
+Two players $i\in\{1,2\}$ are paired in the final round. Player $i$ has
+current score $s_i$. Each chooses an action $a_i\in\{\Sset,\Fset\}$:
+\emph{settle} (play to reduce variance and accept a draw when available) or
+\emph{fight} (play for a decisive result). Fighting costs $c_i\ge 0$ in effort
+or preparation. Write $a=(a_1,a_2)$.
+
+\begin{assumption}[Decisiveness]\label{as:D}
+The probability that the game is decisive is $D(a)\in(0,1)$, strictly
+increasing in each player's action: $D(\Fset,a_2)>D(\Sset,a_2)$ and
+$D(a_1,\Fset)>D(a_1,\Sset)$.
+\end{assumption}
+
+\begin{assumption}[Conditional win probability]\label{as:q}
+Conditional on a decisive result, player~1 wins with probability
+$q\in(0,1)$ and player~2 with probability $1-q$, independently of $a$.
+Write $q_1=q$ and $q_2=1-q$.
+\end{assumption}
+
+The parameter $q$ is where the rating difference enters; for instance it can
+be calibrated from a rating-based model of win, draw and loss probabilities
+\citep{elo,milvang}. Holding $q$ fixed across actions is a simplification
+discussed in Section~\ref{sec:limits}.
+
+\begin{assumption}[Payoffs]\label{as:u}
+Player $i$'s payoff from the tournament is $u_i(x)$, weakly increasing in the
+final score $x$. A draw adds $\tfrac12$ and a win adds $1$ to $s_i$. Define
+\[
+u_{i0}=u_i(s_i),\quad u_{ih}=u_i(s_i+\tfrac12),\quad u_{i1}=u_i(s_i+1),
+\]
+\[
+U_i^{+}=u_{i1}-u_{ih}\ge 0,\qquad U_i^{-}=u_{ih}-u_{i0}\ge 0 .
+\]
+Whenever $U_i^{+}+U_i^{-}>0$ define
+\[
+\rho_i=\frac{U_i^{-}}{U_i^{+}+U_i^{-}}\in[0,1].
+\]
+\end{assumption}
+
+The statistic $\rho_i$ is the share of the payoff step lying
+\emph{below} the draw: $\rho_i$ near $1$ means that a draw already secures
+almost everything and a win adds little (a concave region), while $\rho_i$
+near $0$ means that only a win matters (a convex region); $\rho_i=\tfrac12$
+corresponds to linear payoffs.
+
+\subsection{Expected payoff}
+
+\begin{lemma}\label{lem:EU}
+For $i\in\{1,2\}$,
+\[
+\EU_i(a)=u_{ih}+D(a)\,g_i-c_i\,\mathbf 1\{a_i=\Fset\},
+\qquad g_i=q_iU_i^{+}-(1-q_i)U_i^{-}.
+\]
+Moreover $g_i>0\iff q_i>\rho_i$, and $g_i=0$ if $U_i^{+}+U_i^{-}=0$.
+\end{lemma}
+
+\begin{proof}
+The player wins with probability $D q_i$, loses with probability
+$D(1-q_i)$ and draws with probability $1-D$, so
+$\EU_i+c_i\mathbf 1\{a_i=\Fset\}=u_{i0}D(1-q_i)+u_{ih}(1-D)+u_{i1}Dq_i
+=u_{ih}+D\,[q_i(u_{i1}-u_{ih})-(1-q_i)(u_{ih}-u_{i0})]$.
+Finally $g_i>0\iff q_i(U_i^{+}+U_i^{-})>U_i^{-}\iff q_i>\rho_i$.
+\end{proof}
+
+The number $g_i$ is the net value to player $i$ of adding variance: the gain
+on the upside weighted by the chance of winning, minus the loss on the
+downside weighted by the chance of losing.
+
+\begin{lemma}[Draw probability by profile]\label{lem:draw}
+The probability of a draw is $1-D(a)$. By Assumption~\ref{as:D},
+$1-D(\Sset,\Sset)>1-D(\Sset,\Fset),\,1-D(\Fset,\Sset)>1-D(\Fset,\Fset)$.
+\end{lemma}
+
+\section{Results}
+
+\subsection{Benchmark: no effort cost}
+
+\begin{proposition}[Dominant strategies]\label{prop:dom}
+Let $c_1=c_2=0$ and $g_i\neq 0$. Then fighting is strictly dominant for player
+$i$ if $g_i>0$ and settling is strictly dominant if $g_i<0$. Hence the game has
+a unique Nash equilibrium, in dominant strategies.
+\end{proposition}
+
+\begin{proof}
+By Lemma~\ref{lem:EU}, for player~1,
+$\EU_1(\Fset,a_2)-\EU_1(\Sset,a_2)=g_1\,[D(\Fset,a_2)-D(\Sset,a_2)]$, and
+the bracket is strictly positive by Assumption~\ref{as:D} whatever $a_2$ is.
+The sign is therefore that of $g_1$. The argument for player~2 is identical.
+\end{proof}
+
+\begin{proposition}[Settlement and fighting regions]\label{prop:regions}
+Let $c_1=c_2=0$ and suppose $\rho_1,\rho_2$ are defined and $q\notin\{\rho_1,1-\rho_2\}$.
+\begin{enumerate}
+\item[(a)] $(\Sset,\Sset)$ is the equilibrium if and only if
+$1-\rho_2<q<\rho_1$. This interval is nonempty if and only if
+$\rho_1+\rho_2>1$, and its length is $\rho_1+\rho_2-1$.
+\item[(b)] $(\Fset,\Fset)$ is the equilibrium if and only if
+$\rho_1<q<1-\rho_2$. This interval is nonempty if and only if
+$\rho_1+\rho_2<1$.
+\item[(c)] $(\Fset,\Sset)$ is the equilibrium if and only if
+$q>\max\{\rho_1,1-\rho_2\}$; $(\Sset,\Fset)$ if and only if
+$q<\min\{\rho_1,1-\rho_2\}$.
+\end{enumerate}
+\end{proposition}
+
+\begin{proof}
+By Proposition~\ref{prop:dom} and Lemma~\ref{lem:EU}, player~1 fights iff
+$q>\rho_1$ and player~2 fights iff $1-q>\rho_2$, i.e.\ $q<1-\rho_2$.
+Intersecting the four sign combinations gives (a)--(c). The interval in (a) is
+nonempty iff $1-\rho_2<\rho_1$, and (b) iff $\rho_1<1-\rho_2$.
+\end{proof}
+
+\begin{corollary}[Linear payoffs]\label{cor:linear}
+If $U_i^{+}=U_i^{-}$ for both players (so $\rho_1=\rho_2=\tfrac12$), the
+settlement region of Proposition~\ref{prop:regions} is empty: with no effort
+cost, linear payoffs never generate a mutually settled draw. Mutual settlement
+requires $\rho_1+\rho_2>1$, that is, payoffs that are on aggregate concave
+around the current score.
+\end{corollary}
+
+\subsection{Threshold prizes}
+
+Prizes, title norms and rating-performance cutoffs are step functions of
+the final score. Let player $i$ receive a prize $V>0$ if and only if the final
+score is at least $s_i+r_i$, plus a small linear component
+$\varepsilon(x-s_i)$ with $\varepsilon>0$ for the rating or tie-break value of
+each point:
+\[
+u_i(x)=V\,\mathbf 1\{x\ge s_i+r_i\}+\varepsilon\,(x-s_i).
+\]
+
+\begin{proposition}[Threshold requirements]\label{prop:threshold}
+Let $r_i\in\{\le 0,\tfrac12,1,>1\}$ index how many additional points the player
+needs.
+\begin{enumerate}
+\item[(i)] Draw suffices ($r_i=\tfrac12$): $U_i^{+}=\varepsilon/2$,
+$U_i^{-}=V+\varepsilon/2$, and
+$\rho_i=\dfrac{2V+\varepsilon}{2V+2\varepsilon}=1-\dfrac{\varepsilon}{2(V+\varepsilon)}$.
+Player $i$ settles iff $q_i<\rho_i$.
+\item[(ii)] Win needed ($r_i=1$): $U_i^{+}=V+\varepsilon/2$,
+$U_i^{-}=\varepsilon/2$, and $\rho_i=\dfrac{\varepsilon}{2(V+\varepsilon)}$.
+Player $i$ fights iff $q_i>\rho_i$.
+\item[(iii)] Prize already secured or out of reach ($r_i\le0$ or $r_i>1$):
+$U_i^{+}=U_i^{-}=\varepsilon/2$, $\rho_i=\tfrac12$, and player $i$ fights
+iff $q_i>\tfrac12$.
+\end{enumerate}
+When $\varepsilon/V\to0$, in case (i) the player settles for every $q_i<1$,
+and in case (ii) fights for every $q_i>0$.
+\end{proposition}
+
+\begin{proof}
+Direct substitution into the definitions of $U_i^{\pm}$ and $\rho_i$, and
+Lemma~\ref{lem:EU}. For (i), $u_{i0}=0$, $u_{ih}=V+\varepsilon/2$,
+$u_{i1}=V+\varepsilon$. For (ii), $u_{i0}=0$, $u_{ih}=\varepsilon/2$,
+$u_{i1}=V+\varepsilon$. For (iii), $V$ drops out of all differences.
+\end{proof}
+
+\begin{corollary}[Who settles]\label{cor:who}
+If both players are in case~(i) (for instance, both share first place with
+a draw), then $\rho_1+\rho_2>1$ and the settlement region is nearly all of
+$(0,1)$, with length $\rho_1+\rho_2-1\to1$ as $\varepsilon/V\to0$. If one
+player is in case~(i) and the other in case~(ii), then
+$\rho_1+\rho_2=\tfrac{2V+\varepsilon}{2V+2\varepsilon}+\tfrac{\varepsilon}{2V+2\varepsilon}=1$:
+the leader settles and the challenger fights for almost every $q$. If both
+are in case~(iii) the only stake is the small linear component and the
+conclusion depends on costs (Proposition~\ref{prop:cost}).
+\end{corollary}
+
+\begin{remark}[Scoring rules]\label{rem:scoring}
+Under one point for a win and one half for a draw, the live requirements are
+$r\in\{\tfrac12,1\}$, and a draw suffices in one of two cases. Under a
+$3$--$1$--$0$ rule the live requirements are $r\in\{1,2,3\}$ points, and a draw
+suffices in one of three. If live requirements were equally likely (an
+illustrative assumption, not an empirical claim), the share of
+draw-sufficient cases falls from $1/2$ to $1/3$, and the chance that both
+players are simultaneously in case~(i), if independent, from $1/4$ to $1/9$.
+This is consistent with the stated motivation of three-point rules, but the
+rule also changes the values of $U_i^{\pm}$ themselves, so the comparison is
+only heuristic.
+\end{remark}
+
+\subsection{Effort costs and tacit coordination}
+
+\begin{assumption}[Complementarity]\label{as:comp}
+Let $\Delta_1(a_2)=D(\Fset,a_2)-D(\Sset,a_2)$ and
+$\Delta_2(a_1)=D(a_1,\Fset)-D(a_1,\Sset)$. Then
+$\Delta_i(\Fset)\ge\Delta_i(\Sset)>0$: the effect of one's own fighting on
+decisiveness is larger when the opponent also fights.
+\end{assumption}
+
+\begin{proposition}[Costly fighting]\label{prop:cost}
+Let $c_i>0$ and, for each $i$ with $U_i^{+}+U_i^{-}>0$, define
+\[
+\rho_i^{\Sset}=\rho_i+\frac{c_i}{\Delta_i(\Sset)(U_i^{+}+U_i^{-})},\qquad
+\rho_i^{\Fset}=\rho_i+\frac{c_i}{\Delta_i(\Fset)(U_i^{+}+U_i^{-})},
+\]
+so that $\rho_i\le\rho_i^{\Fset}\le\rho_i^{\Sset}$. Under
+Assumption~\ref{as:comp}, and generically:
+\begin{enumerate}
+\item[(a)] Fighting is strictly dominant for $i$ iff $q_i>\rho_i^{\Sset}$,
+and settling is strictly dominant iff $q_i<\rho_i^{\Fset}$.
+\item[(b)] If $\rho_i^{\Fset}<q_i<\rho_i^{\Sset}$, player $i$ plays a
+\emph{conditional} strategy: fight if the opponent fights, settle otherwise.
+\item[(c)] If both players are conditional, the pure-strategy equilibria are
+exactly $(\Sset,\Sset)$ and $(\Fset,\Fset)$.
+\end{enumerate}
+In general, the pure equilibria are the profiles in which every dominant player
+plays her dominant action and every conditional player copies the opponent.
+\end{proposition}
+
+\begin{proof}
+By Lemma~\ref{lem:EU}, the gain to player $i$ from fighting is
+$G_i(a_j)=g_i\Delta_i(a_j)-c_i$. If $g_i\le0$ then $G_i<0$ for both $a_j$,
+so settling is dominant (and $q_i\le\rho_i<\rho_i^{\Fset}$). If $g_i>0$,
+$G_i(\Fset)\ge G_i(\Sset)$ by Assumption~\ref{as:comp}. Hence fighting is
+dominant iff $G_i(\Sset)>0$, settling is dominant iff $G_i(\Fset)<0$, and
+otherwise $G_i(\Sset)\le 0\le G_i(\Fset)$ (conditional). Solving
+$g_i\Delta_i(a_j)>c_i$ for $q_i$ using $g_i=q_i(U_i^{+}+U_i^{-})-U_i^{-}$
+gives the thresholds $\rho_i^{a_j}$. Part (c) follows because each player's
+best response is then to match the other's action.
+\end{proof}
+
+\begin{corollary}[Collusion as coordination]\label{cor:coord}
+When both players are conditional, settling and fighting are both
+self-enforcing. Mutual settlement does not require an agreement enforceable by
+side payments: it is a convention, and what selects it is whatever makes the
+draw a focal point for the two players (a shared team, national federation,
+club, friendship or reputation). Effort costs and complementarity widen the
+region in which settlement is an equilibrium relative to
+Proposition~\ref{prop:regions}.
+\end{corollary}
+
+\section{Empirical implications}
+
+The model's observable object is the standings before the last round. They
+determine each player's requirement $r_i$ (Proposition~\ref{prop:threshold}),
+hence $\rho_i$ and the predicted regime.
+
+\begin{enumerate}
+\item[\textbf{H1}] The probability of a draw is higher when
+$\rho_1+\rho_2>1$ than when $\rho_1+\rho_2<1$ (Propositions~\ref{prop:regions}
+and Lemma~\ref{lem:draw}).
+\item[\textbf{H2}] Holding ratings fixed, the draw probability changes
+sharply at the score margin at which a draw starts to suffice
+(case~(i)), because $\rho_i$ jumps between cases~(ii) and~(i).
+\item[\textbf{H3}] Within the settlement region, draws are more frequent
+between players who share an affiliation (Corollary~\ref{cor:coord}), the
+channel studied empirically by \citet{moulnye} for a specific group.
+\item[\textbf{H4}] Risk measured by an engine (for example the volatility of
+the engine evaluation along the game, or the loss in centipawns) is lower under
+mutual settlement and higher under mutual fighting.
+\end{enumerate}
+
+The data requirement is tournament-level results with final-round pairings,
+scores, ratings and, ideally, prize or norm structures. Results sources such
+as chess-results.com are used in the Swiss-system literature
+\citep{csato_sziklai}; their terms of use should be checked before collection.
+Draw offers are generally not recorded in over-the-board data, so game length
+is the natural observable proxy.
+
+\section{Extension: draw offers as signals (sketch)}
+
+The static model treats the game's decisiveness as an exogenous function of
+actions. A natural next step lets player~1 hold private information about the
+objective evaluation of the position, $\theta\in\{\text{good},\text{bad}\}$,
+and lets her offer or withhold a draw. The opponent updates on the offer and
+accepts or refuses, and the payoff step $\rho_i$ determines which types
+are willing to offer. This has the structure of a signalling game, as in a
+prior paper of mine on programmatic signalling, but I have \emph{not} derived
+or verified any result for it here, and it is left as a direction for a
+second paper.
+
+\section{Limitations}\label{sec:limits}
+
+The model is static with binary actions and takes $q$ as independent of
+behaviour. If instead rating-implied expected scores were held fixed whatever
+the players do, a decisive game would shift $q$ with $D$, and the
+region boundaries would move; the qualitative role of $\rho_i$ would remain
+but Propositions~\ref{prop:dom}--\ref{prop:regions} would need to be restated.
+Payoffs are reduced-form functions of the score and ignore
+tie-break systems, team incentives and the possibility that draws affect
+others in the standings. The model also covers a single pairing, so it ignores
+the interaction between simultaneous boards (relevant to prizes decided by
+several games).
+
+\section*{Appendix: numerical check}
+
+I verified Propositions~\ref{prop:dom}, \ref{prop:regions}--\ref{prop:threshold}
+and~\ref{prop:cost} by brute-force search over pure-strategy equilibria for
+randomly drawn $D$, $q$, payoff steps and costs (several hundred thousand
+draws each, with random weakly increasing $u_i$ including flat steps), and
+found no counterexample. This is a sanity check on the algebra, not a
+substitute for the proofs above.
+
+\begin{thebibliography}{99}
+\bibitem[Chater et~al.(2021)]{chater2021}
+Chater, M., Arrondel, L., Gayant, J.-P., and Laslier, J.-F. (2021).
+Fixing match-fixing: Optimal schedules to promote competitiveness.
+\emph{European Journal of Operational Research}, 294(2):673--683.
+
+\bibitem[Csat\'o et~al.(2024)]{csato2024}
+Csat\'o, L., Molontay, R., and Pint\'er, J. (2024).
+Tournament schedules and incentives in a double round-robin tournament with
+four teams. \emph{International Transactions in Operational Research},
+31(3):1486--1514.
+
+\bibitem[Csat\'o and Gyimesi(2026)]{csato_gyimesi2026}
+Csat\'o, L. and Gyimesi, A. (2026).
+Increasing competitiveness by imbalanced groups: The example of the 48-team
+FIFA World Cup. \emph{European Journal of Operational Research},
+332(3):868--879.
+
+\bibitem[Csat\'o and Krumer(2026)]{csato_krumer}
+Csat\'o, L. and Krumer, A. (2026).
+Swiss-system chess tournaments and unfairness. arXiv:2410.19333 (v3).
+
+\bibitem[Csat\'o and Sziklai(2026)]{csato_sziklai}
+Csat\'o, L. and Sziklai, B.~R. (2026).
+The efficacy-competitiveness frontier in the Swiss system. arXiv:2610.01997.
+
+\bibitem[Elo(1978)]{elo}
+Elo, A.~E. (1978). \emph{The Rating of Chessplayers, Past and Present}.
+Arco, New York.
+
+\bibitem[Feddersen et~al.(2023)]{feddersen2023}
+Feddersen, A., Humphreys, B.~R., and Soebbing, B.~P. (2023).
+Contest incentives, team effort, and betting market outcomes in European
+football. \emph{European Sport Management Quarterly}, 23(3):605--621.
+
+\bibitem[FIDE Qualification Commission(2024)]{fide_qc}
+FIDE Qualification Commission (2024). Policy on Ratings and Titles.
+\url{https://www.fide.com/2024/01/31/}.
+
+\bibitem[Krumer et~al.(2023)]{krumer2020}
+Krumer, A., Megidish, R. and Sela, A. (2023). Strategic manipulations in
+round-robin tournaments. \emph{Mathematical Social Sciences}, 122:50--57.
+
+\bibitem[Milvang(2015)]{milvang}
+Milvang, O. (2015). Probability for the outcome of a chess game based on
+rating. Manuscript.
+
+\bibitem[Moul and Nye(2009)]{moulnye}
+Moul, C.~C. and Nye, J.~V.~C. (2009). Did the Soviets collude? A statistical
+analysis of championship chess 1940--1978. \emph{Journal of Economic Behavior
+\& Organization}, 70(1--2):10--21.
+
+\bibitem[Vong(2017)]{vong2017}
+Vong, A.~I.~K. (2017). Strategic manipulation in tournament games.
+\emph{Games and Economic Behavior}, 102:562--567.
+
+\end{thebibliography}
+\end{document}

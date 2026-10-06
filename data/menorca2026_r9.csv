@@ -1,0 +1,224 @@
+board,white,white_title,white_rank,white_score_before,white_elo,white_fed,black,black_title,black_rank,black_score_before,black_elo,black_fed,result,kind,white_pts,black_pts,draw
+1,"Mendonca, Leon Luke",GM,9,7.0,2595.0,IND,"Mishra, Abhimanyu",GM,3,7.0,2623.0,USA,½-½,played,0.5,0.5,1
+2,Pranav Anand,GM,8,6.5,2596.0,IND,"Sosa, Tomas",GM,23,6.5,2544.0,ARG,0-1,played,0.0,1.0,0
+3,"Wu, Yixing",IM,111,6.5,2343.0,CHN,"Iniyan, Pa",GM,11,6.5,2590.0,IND,½-½,played,0.5,0.5,1
+4,"Li, Di",GM,16,6.5,2556.0,CHN,Raja Rithvik R,GM,27,6.5,2535.0,IND,1-0,played,1.0,0.0,0
+5,"Shankland, Sam",GM,2,6.0,2651.0,USA,"Fernandez, Daniel Howard",GM,29,6.5,2528.0,ENG,½-½,played,0.5,0.5,1
+6,"Szpar, Milosz",GM,36,6.0,2499.0,POL,"Shirov, Alexei",GM,4,6.0,2604.0,ESP,0-1,played,0.0,1.0,0
+7,"Agmanov, Zhandos",IM,47,6.0,2463.0,KAZ,"Moussard, Jules",GM,6,6.0,2598.0,FRA,½-½,played,0.5,0.5,1
+8,"Ghosh, Diptayan",GM,12,6.0,2574.0,IND,Harshavardhan G B,IM,37,6.0,2492.0,IND,½-½,played,0.5,0.5,1
+9,"Xiao, Tong(QD)",GM,17,6.0,2555.0,CHN,"Begmuratov, Khumoyun",IM,39,6.0,2489.0,UZB,½-½,played,0.5,0.5,1
+10,"Abdisalimov, Abdimalik",GM,18,6.0,2553.0,UZB,"Xie, Kaifan",IM,51,6.0,2460.0,CHN,½-½,played,0.5,0.5,1
+11,"Amartuvshin, Ganzorig",IM,69,6.0,2418.0,MGL,Sankalp Gupta,GM,21,6.0,2548.0,IND,0-1,played,0.0,1.0,0
+12,"Rozen, Eytan",IM,35,6.0,2504.0,ISR,"Kuandykuly, Danis",FM,75,6.0,2414.0,KAZ,0-1,played,0.0,1.0,0
+13,"Murzin, Volodar",GM,1,5.5,2655.0,FID,"Gan-Erdene, Sugar",IM,60,5.5,2444.0,MGL,1-0,played,1.0,0.0,0
+14,Karthik Venkataraman,GM,10,5.5,2594.0,IND,"Habans Aguerrea, Javier",IM,61,5.5,2444.0,ESP,½-½,played,0.5,0.5,1
+15,"Gurevich, Mikhail",GM,13,5.5,2563.0,BEL,"Shukhman, Anna",WGM,63,5.5,2440.0,FID,½-½,played,0.5,0.5,1
+16,Vantika Agrawal,IM,94,5.5,2374.0,IND,"Vetokhin, Savva",GM,15,5.5,2559.0,FID,½-½,played,0.5,0.5,1
+17,"Bogner, Sebastian",GM,20,5.5,2550.0,SUI,Audi Ameya,IM,70,5.5,2418.0,IND,½-½,played,0.5,0.5,1
+18,"Peng, Li Min",GM,26,5.5,2536.0,SUI,"Smirnov, Mark",IM,73,5.5,2416.0,KAZ,½-½,played,0.5,0.5,1
+19,"Nogerbek, Kazybek",GM,30,5.5,2528.0,KAZ,"Villa Tornero, Alex",FM,64,5.5,2431.0,ESP,1-0,played,1.0,0.0,0
+20,Prraneeth Vuppala,GM,32,5.5,2523.0,IND,"Singh, Siddharth",,133,5.5,2310.0,USA,1-0,played,1.0,0.0,0
+21,"Federer, Colin",FM,151,5.5,2284.0,SUI,"Suleymenov, Alisher",GM,33,5.5,2523.0,KAZ,½-½,played,0.5,0.5,1
+22,"Sharifov, Mekhriddin",FM,170,5.5,2259.0,TJK,"Mamedov, Edgar",GM,43,5.5,2477.0,KAZ,½-½,played,0.5,0.5,1
+23,"Zhang, Di",,52,5.5,2460.0,CHN,"Tsiapko, Andrii",,190,5.5,2226.0,POL,1-0,played,1.0,0.0,0
+24,"Xiang, Zeyu",IM,54,5.5,2454.0,CHN,"Mani, Sarbartho",CM,221,5.5,2177.0,IND,1-0,played,1.0,0.0,0
+25,"Sprenger de la Iglesia, Yevgeni",CM,195,5.5,2214.0,ESP,"Brodowski, Piotr",IM,55,5.5,2451.0,POL,0-1,played,0.0,1.0,0
+26,"Oro, Faustino",IM,31,6.0,2528.0,ARG,"Abdsattar, Alisher",CM,214,6.0,2185.0,KAZ,--+,forfeit,0.0,1.0,
+27,"Cramling Bellon, Anna",WFM,265,4.0,2074.0,SWE,"Rapport, Jovana",WGM,177,4.0,2244.0,HUN,½-½,played,0.5,0.5,1
+28,"Guerrero Vargas, Andres Jesus",FM,149,4.0,2285.0,VEN,"Harish, Neeraj",CM,240,4.0,2128.0,USA,½-½,played,0.5,0.5,1
+29,"Motylev, Alexander",GM,14,5.0,2560.0,ROU,"Jin, Ruijun",,202,5.5,2195.0,CHN,½-½,played,0.5,0.5,1
+30,"Hong, Andrew",GM,5,5.0,2598.0,USA,"Katz, Alexander",IM,97,5.0,2371.0,USA,½-½,played,0.5,0.5,1
+31,"Prado Lobo, Jonas",IM,98,5.0,2370.0,ESP,"Illescas Cordoba, Miguel",GM,7,5.0,2597.0,ESP,½-½,played,0.5,0.5,1
+32,"Hardaway, Brewington",GM,24,5.0,2542.0,USA,"Yang, Zilong",FM,104,5.0,2355.0,CHN,½-½,played,0.5,0.5,1
+33,"Tiglon, Bryce",GM,28,5.0,2529.0,USA,"Salinas Tomas, Daniel",FM,109,5.0,2345.0,ESP,--+,forfeit,0.0,1.0,
+34,"Sivuk, Vitaly",GM,34,5.0,2522.0,SWE,"Tokhirjonova, Gulrukhbegim",IM,116,5.0,2338.0,UZB,1-0,played,1.0,0.0,0
+35,"Kairbekova, Amina",WGM,100,5.0,2362.0,KAZ,"Putnam, Liam",IM,38,5.0,2492.0,USA,0-1,played,0.0,1.0,0
+36,"Yip, Carissa",IM,42,5.0,2482.0,USA,Jihan Tejas Shah,,117,5.0,2338.0,IND,1-0,played,1.0,0.0,0
+37,"Marin Ferragut, Pau",FM,102,5.0,2360.0,ESP,"Barbot, Pierre",IM,44,5.0,2474.0,SLO,0-1,played,0.0,1.0,0
+38,"Almeida Quintana, Omar",GM,46,5.0,2463.0,CUB,"Krauchi Romero, Martin",FM,127,5.0,2322.0,ESP,1-0,played,1.0,0.0,0
+39,"Nurgaliyev, Sauat",IM,48,5.0,2461.0,KAZ,"Adan Bermudez, Sergio",FM,131,5.0,2316.0,ESP,1-0,played,1.0,0.0,0
+40,"Maerevoet, Sim",IM,50,5.0,2460.0,BEL,"Talgatov, Nazar",FM,146,5.0,2287.0,KAZ,½-½,played,0.5,0.5,1
+41,"Fernandez Guillen, Ernesto J.",IM,53,5.0,2454.0,CUB,"Cu, Ivan Travis",FM,148,5.0,2285.0,PHI,1-0,played,1.0,0.0,0
+42,"Dudognon, Thibault",IM,108,5.0,2346.0,FRA,"Song, Yuxin",IM,57,5.0,2451.0,CHN,0-1,played,0.0,1.0,0
+43,"Garifullina, Leya",IM,58,5.0,2448.0,FID,"Sammons, Evan",,161,5.0,2270.0,USA,0-1,played,0.0,1.0,0
+44,"Lee, Michael",IM,130,5.0,2316.0,USA,"Vergara Anton, Diego",IM,65,5.0,2424.0,ESP,½-½,played,0.5,0.5,1
+45,"Flores Quillas, Diego Saul Rodri",IM,68,5.0,2421.0,PER,"Karimova, Guldona",WIM,165,5.0,2267.0,UZB,1-0,played,1.0,0.0,0
+46,"Averin, Nikolay",IM,72,5.0,2416.0,FID,"Levitan, Caleb Levi",IM,180,5.0,2238.0,RSA,½-½,played,0.5,0.5,1
+47,"Griffith, Kyron",IM,74,5.0,2415.0,USA,"Kabilov, Amin",FM,185,5.0,2231.0,TJK,0-1,played,0.0,1.0,0
+48,"Ruiz Buendia, Miguel",FM,140,5.0,2299.0,ESP,"Khusenkhojaev, Mustafokhuja",IM,77,5.0,2407.0,TJK,½-½,played,0.5,0.5,1
+49,"Zwahr, Paul",FM,153,5.0,2277.0,GER,"Daurimbetov, Azamat",FM,81,5.0,2396.0,UZB,0-1,played,0.0,1.0,0
+50,Srihari L,IM,82,5.0,2391.0,IND,"Verheyen, Olivier",,194,5.0,2215.0,BEL,½-½,played,0.5,0.5,1
+51,Apaar Saxena,FM,213,5.0,2185.0,IND,"Guo, Ethan",FM,85,5.0,2387.0,USA,+--,forfeit,1.0,0.0,
+52,"Narciso Dublan, Marc",GM,88,5.0,2383.0,ESP,Jagreet Misra,CM,205,5.0,2192.0,IND,½-½,played,0.5,0.5,1
+53,"Rychagov, Nikita",CM,169,5.0,2260.0,EST,"Ostrovskiy, Aleksandr",IM,91,5.0,2376.0,USA,½-½,played,0.5,0.5,1
+54,"Krishnan, Ritvik",FM,93,5.0,2375.0,IND,"Zhu, Yilun",,261,5.0,2087.0,CHN,½-½,played,0.5,0.5,1
+55,"Karimov, Alisher",FM,175,5.0,2251.0,TJK,"Uskov, Artem",GM,19,4.5,2552.0,FID,½-½,played,0.5,0.5,1
+56,"Hagner, Bennet",IM,45,4.5,2468.0,GER,Advik Amit Agrawal,CM,156,4.5,2273.0,IND,½-½,played,0.5,0.5,1
+57,"Itgelt, Khuyagtsogt",IM,62,4.5,2440.0,MGL,Dinesh Rajan M,FM,162,4.5,2269.0,IND,1-0,played,1.0,0.0,0
+58,"Martin Rueda, Daniel",FM,144,4.5,2292.0,ESP,"Toktomushev, Teimur",IM,67,4.5,2422.0,SUI,0-1,played,0.0,1.0,0
+59,"Dorrance, Adam",FM,155,4.5,2276.0,CAN,"Jin, Yueheng",IM,78,4.5,2406.0,CHN,½-½,played,0.5,0.5,1
+60,"Lee, Megan",FM,167,4.5,2263.0,USA,"Jacobsen, Mikkel Manosri",FM,83,4.5,2390.0,DEN,1-0,played,1.0,0.0,0
+61,"Cesar Maestre, Bernardo",IM,84,4.5,2387.0,ESP,"Loftgaard, Mikkel Vinh",FM,168,4.5,2261.0,DEN,½-½,played,0.5,0.5,1
+62,"Sanchez Saez, Francisco",FM,174,4.5,2252.0,ESP,"Loiseau, Quentin",IM,89,4.5,2381.0,FRA,½-½,played,0.5,0.5,1
+63,Sahib Singh,IM,92,4.5,2376.0,IND,"Kiremitciyan, Ari",FM,173,4.5,2252.0,TUR,1-0,played,1.0,0.0,0
+64,"Ilkhomi, Jaloliddin",IM,96,4.5,2373.0,TJK,"Wang, Chuqiao",WIM,182,4.5,2235.0,CHN,1-0,played,1.0,0.0,0
+65,"Schenderowitsch, Michael",FM,186,4.5,2228.0,GER,"Lenaerts, Lennert",FM,99,4.5,2368.0,BEL,½-½,played,0.5,0.5,1
+66,"Akhilbay, Imangali",FM,112,4.5,2342.0,KAZ,"Bauer, Thomas",CM,188,4.5,2226.0,AUT,1-0,played,1.0,0.0,0
+67,"Khalilova, Madinabonu",WCM,189,4.5,2226.0,UZB,"Leiva, Gianmarco",IM,115,4.5,2339.0,PER,0-1,played,0.0,1.0,0
+68,"Orian, Noga",WIM,191,4.5,2220.0,ISR,"Barzen, Pascal",FM,119,4.5,2329.0,GER,0-1,played,0.0,1.0,0
+69,"Aubry, Yannis",,225,4.5,2173.0,FRA,"Kaliakhmet, Elnaz",WIM,120,4.5,2329.0,KAZ,½-½,played,0.5,0.5,1
+70,"Claverie, Raul",IM,233,4.5,2160.0,ARG,"Banerjee, Supratit",FM,124,4.5,2323.0,ENG,1-0,played,1.0,0.0,0
+71,"Citak, Selim",FM,126,4.5,2322.0,TUR,"Kabinazar, Nurmukhammed",,217,4.5,2183.0,KAZ,0-1,played,0.0,1.0,0
+72,Daksh Jain,,247,4.5,2123.0,IND,"Umarov, Bekhruz",,129,4.5,2317.0,UZB,0-1,played,0.0,1.0,0
+73,Aarit Kapil,FM,135,4.5,2304.0,IND,"Asaka, Samuel",,212,4.5,2187.0,AUS,½-½,played,0.5,0.5,1
+74,Adharsh K,FM,136,4.5,2304.0,IND,"Yessengali, Adizhan",,228,4.5,2171.0,KAZ,0-1,played,0.0,1.0,0
+75,"Kodiri, Pairavi",,283,4.5,2044.0,TJK,"Felix, Raphael",FM,137,4.5,2301.0,RSA,1-0,played,1.0,0.0,0
+76,"Torres Rebolledo, Alvaro",FM,142,4.5,2298.0,ESP,"Dumanuly, Sultanbeibarys",FM,242,4.5,2124.0,KAZ,½-½,played,0.5,0.5,1
+77,Krishna C R G,IM,80,4.0,2399.0,IND,"Govoreanu, Matei",,256,4.5,2101.0,BEL,--+,forfeit,0.0,1.0,
+78,"Nilsson, Oliver",,218,4.0,2183.0,SWE,"Omonova, Umida",WIM,103,4.0,2358.0,UZB,0-1,played,0.0,1.0,0
+79,"Kokol, Peter",FM,110,4.0,2344.0,SLO,"Levitan, Judah Nathan",FM,211,4.0,2187.0,RSA,1-0,played,1.0,0.0,0
+80,"Daulet, Alikhan",FM,231,4.0,2166.0,KAZ,"Ribera Veganzones, Serni",FM,121,4.0,2328.0,AND,0-1,played,0.0,1.0,0
+81,"Breuil, Tristan",FM,122,4.0,2324.0,FRA,"Hoffman, Luc",CM,216,4.0,2183.0,USA,1-0,played,1.0,0.0,0
+82,"Moreto Quintana, Alex",,232,4.0,2163.0,ESP,"Nurgaliyeva, Zarina",WIM,123,4.0,2324.0,KAZ,½-½,played,0.5,0.5,1
+83,"Tanenbaum, Zachary",FM,132,4.0,2315.0,USA,"Nasta, Kiren Vivek",,220,4.0,2179.0,USA,½-½,played,0.5,0.5,1
+84,Bagwe Gaurang,FM,134,4.0,2308.0,IND,"Gonzalez Lema, Carlos",CM,222,4.0,2175.0,ESP,0-1,played,0.0,1.0,0
+85,"Nugumanov, Bakhtiyar",IM,138,4.0,2300.0,KAZ,"Campins Machado, Francesc",,230,4.0,2170.0,ESP,½-½,played,0.5,0.5,1
+86,"Ribeiro, Bruno",,238,4.0,2138.0,POR,"Herman Gamazo, Isaac",FM,141,4.0,2298.0,ESP,0-1,played,0.0,1.0,0
+87,"Breuil, Virgile",FM,147,4.0,2285.0,FRA,"Silva Cerda, Mark Valentin",,236,4.0,2159.0,ESP,½-½,played,0.5,0.5,1
+88,"Guerlach, Keigo",,235,4.0,2160.0,FRA,"Kukushkin, Ivan",CM,150,4.0,2285.0,BUL,1-0,played,1.0,0.0,0
+89,"Ermachenko, Manuel",FM,157,4.0,2272.0,ESP,"Zlatolas, Anej",,244,4.0,2124.0,SLO,1-0,played,1.0,0.0,0
+90,"Nissinen, Niilo Man",FM,159,4.0,2270.0,HKG,"Salord Guillen, Joan",,248,4.0,2122.0,ESP,1-0,played,1.0,0.0,0
+91,"Martinez Piqueras, Carlos",CM,239,4.0,2136.0,ESP,"Azatzhan, Adil",,160,4.0,2270.0,KAZ,½-½,played,0.5,0.5,1
+92,"Bals Hernandez, Jordi",,241,4.0,2126.0,ESP,"Cabezas Solano, David Alejandro",FM,164,4.0,2267.0,CRC,½-½,played,0.5,0.5,1
+93,"Hill, Alistair",,243,4.0,2124.0,ENG,Yohan Yadav Tarala,CM,166,4.0,2266.0,IND,0-1,played,0.0,1.0,0
+94,"Aydin, Gulenay",WIM,171,4.0,2259.0,TUR,"Zhou, Shumeng",,252,4.0,2112.0,CHN,0-1,played,0.0,1.0,0
+95,"Ballo Serrano, Jan",,249,4.0,2120.0,ESP,"Saunders, Aron",,172,4.0,2255.0,ENG,½-½,played,0.5,0.5,1
+96,"Vecillas Rey, Daniel",,259,4.0,2097.0,ESP,Ojas Kulkarni,FM,176,4.0,2250.0,IND,½-½,played,0.5,0.5,1
+97,"De Groote, Ewoud",,179,4.0,2239.0,NED,"Adilbekuly, Altair",,335,4.0,1945.0,KAZ,0-1,played,0.0,1.0,0
+98,"Garcia Molina, Jose",FM,183,4.0,2233.0,ESP,Karthick Raja P,,323,4.0,1966.0,IND,--+,forfeit,0.0,1.0,
+99,"Prieb, Robert",FM,187,4.0,2227.0,GER,"Adilbek, Adinur",,370,4.0,1868.0,KAZ,--+,forfeit,0.0,1.0,
+100,"Jakhria, Kushal",CM,273,4.0,2064.0,ENG,"Baitleu, Syrym",,196,4.0,2214.0,KAZ,--+,forfeit,0.0,1.0,
+101,"Conon, Catalin",CM,197,4.0,2212.0,ESP,"McCallum, Elliot",,386,4.0,1802.0,CAN,1-0,played,1.0,0.0,0
+102,Kavin Vijayakumar,,280,4.0,2048.0,IND,"Imomkuzieva, Nilufarkhon",WFM,200,4.0,2200.0,UZB,--+,forfeit,0.0,1.0,
+103,"Vashisht-Pigem, Raman",,293,4.0,2028.0,ENG,"Syzdyk, Samir",CM,206,4.0,2190.0,KAZ,0-1,played,0.0,1.0,0
+104,"Sig Vargas, Marcos",,209,4.0,2189.0,ESP,"Magzumov, Damirali",,382,4.0,1816.0,KAZ,1-0,played,1.0,0.0,0
+105,"Liu, Bei",,324,4.0,1963.0,CHN,"Fuentes Guinot, Alejandro",FM,113,3.5,2341.0,ESP,1-0,played,1.0,0.0,0
+106,"Beukema, Jasper",FM,87,3.5,2384.0,BEL,"Marques Taltavull, Antonio",,264,3.5,2075.0,ESP,1-0,played,1.0,0.0,0
+107,"White, Stuart A",,269,3.5,2070.0,SCO,"Borne, Felix",FM,139,3.5,2299.0,FRA,0-1,played,0.0,1.0,0
+108,"Castillo Dalmau, Albert",FM,145,3.5,2288.0,ESP,"Queirolo Perez, Manuel",,270,3.5,2069.0,ESP,1-0,played,1.0,0.0,0
+109,Pranay Akula,,278,3.5,2054.0,IND,"Labiano Hernandez, Juan",FM,152,3.5,2284.0,ESP,1-0,played,1.0,0.0,0
+110,"Molina Carretero, Daniel",CM,163,3.5,2269.0,ESP,"Torrent Santonja, Adria",,286,3.5,2037.0,ESP,½-½,played,0.5,0.5,1
+111,"Hamm, Rodrigue",,289,3.5,2034.0,FRA,"Klinova, Masha",IM,178,3.5,2239.0,ISR,+--,forfeit,1.0,0.0,
+112,"Moll Gener, Joan",,294,3.5,2025.0,ESP,"Lyutsinger, Iren",FM,192,3.5,2216.0,FID,0-1,played,0.0,1.0,0
+113,Arjun C Krishnamachari,,199,3.5,2208.0,IND,Drishtee Ghosh,WCM,291,3.5,2031.0,IND,--+,forfeit,0.0,1.0,
+114,"Ashikmamutov, Saidkhon",,298,3.5,2015.0,UZB,"Tattersall Rodriguez, Lester",FM,201,3.5,2199.0,ESP,1-0,played,1.0,0.0,0
+115,Advaith Asokumar,,304,3.5,1998.0,IND,"Midoux, Sebastien",,208,3.5,2189.0,FRA,0-1,played,0.0,1.0,0
+116,"Wang, Aaron",,219,3.5,2183.0,USA,"Eche, Sylvain",,300,3.5,2007.0,FRA,1-0,played,1.0,0.0,0
+117,"Sureda Gonzalez, Cristina",WFM,229,2.5,2170.0,ESP,"Sureda Gonzalez, Miquel",,346,2.5,1914.0,ESP,---,forfeit,0.0,0.0,
+118,"Abdulazizov, Asilbek",,312,3.5,1987.0,UZB,"Lauer, Marius",,223,3.5,2175.0,GER,1-0,played,1.0,0.0,0
+119,"Babak, Iuliia",WCM,306,3.5,1993.0,RUS,Charvi A,FM,224,3.5,2173.0,IND,½-½,played,0.5,0.5,1
+120,"Lokesh, N.",,227,3.5,2172.0,IND,"Fraga Pons, Albert Borja",,338,3.5,1938.0,ESP,--+,forfeit,0.0,1.0,
+121,"Ivana Maria, Furtado",WIM,245,3.5,2123.0,IND,"Li, Yucheng Robinson",,329,3.5,1958.0,HKG,--+,forfeit,0.0,1.0,
+122,"Abrisqueta Zudaire, Leyre",WFM,251,3.5,2112.0,ESP,"Dauren, Darmen",CM,331,3.5,1955.0,KAZ,½-½,played,0.5,0.5,1
+123,"Ribeiro, Fernando",FM,253,3.5,2107.0,POR,Aadhya V,,344,3.5,1916.0,IND,+--,forfeit,1.0,0.0,
+124,"Abadia Pascual, Lluis",,363,3.5,1876.0,ESP,"Azizaj, Agim",,254,3.5,2103.0,ESP,½-½,played,0.5,0.5,1
+125,"Verneuil, Pascal",,255,3.5,2102.0,FRA,"Goncalves, Goncalo Cravo Jesus",,354,3.5,1890.0,POR,1-0,played,1.0,0.0,0
+126,"Urena Casacuberta, Lluis",,361,3.5,1879.0,ESP,Kheerthi Ganta,WFM,258,3.5,2097.0,IND,+--,forfeit,1.0,0.0,
+127,"Frutuoso, Tiago",,368,3.5,1871.0,POR,"Sukhodolskyi, Oleksii",,260,3.5,2089.0,UKR,0-1,played,0.0,1.0,0
+128,"Montenegro, Matias",,393,3.5,1749.0,POR,Arul Prakash N,,263,3.5,2076.0,IND,+--,forfeit,1.0,0.0,
+129,"Moraes, Antonio Jose Oliveira",,314,3.0,1980.0,POR,"Silva, Miguel Antonio Neto",,210,3.0,2189.0,POR,+--,forfeit,1.0,0.0,
+130,"Benseny Martinez, Guerau",,237,3.0,2158.0,ESP,"Alcindor, Samuel",,319,3.0,1971.0,FRA,½-½,played,0.5,0.5,1
+131,"Zapata Campos, Lidia Karen",WIM,257,3.0,2099.0,ESP,"Planas Gene, Juan",,321,3.0,1969.0,ESP,0-1,played,0.0,1.0,0
+132,"Halmeenmaki, Tuomo",,271,3.0,2068.0,FIN,"Li, Harvey",,341,3.0,1922.0,ENG,½-½,played,0.5,0.5,1
+133,Nimay Agrawal,CM,320,3.0,1970.0,IND,"Soubirou, Oriane",WFM,276,3.0,2056.0,FRA,1-0,played,1.0,0.0,0
+134,"Goncalves, Lucas Jordao",,277,3.0,2054.0,POR,"Suez-Panama, Gilles",,339,3.0,1938.0,FRA,1-0,played,1.0,0.0,0
+135,Gurubaran Raghuraman,,279,3.0,2052.0,IND,"Borne, Maxim",,362,3.0,1878.0,FRA,½-½,played,0.5,0.5,1
+136,"Martyniuk , Daniil",,281,3.0,2046.0,FID,"Dizdar, Orkun",,356,3.0,1885.0,TUR,1-0,played,1.0,0.0,0
+137,"Larkin, Benjamin",,284,3.0,2042.0,ENG,"Meneses Arenas, Mikel",,369,3.0,1871.0,ESP,1-0,played,1.0,0.0,0
+138,Sharvaanica A S,WCM,285,3.0,2041.0,IND,"Len, Thomas",,374,3.0,1856.0,ESP,1-0,played,1.0,0.0,0
+139,"Chompas, Vasileios",,326,3.0,1959.0,GRE,"Gonzalez Aguirre, Luis",CM,290,3.0,2033.0,ESP,½-½,played,0.5,0.5,1
+140,"Colin, Peter",,336,3.0,1945.0,BEL,Eman P D,,292,3.0,2029.0,IND,0-1,played,0.0,1.0,0
+141,"Zhang, Ying Jun Xiong",,296,3.0,2023.0,ESP,"Alles Moll, Eloi",,390,3.0,1767.0,ESP,0-1,played,0.0,1.0,0
+142,"Del Mar, Tristan Isaac",,340,3.0,1922.0,SCO,"Ramdani, Nayati",,297,3.0,2016.0,FRA,½-½,played,0.5,0.5,1
+143,"Moyse, Nigel John",,366,3.0,1875.0,WLS,"Sholpanbek, Zhansaya",WCM,303,3.0,1998.0,KAZ,0-1,played,0.0,1.0,0
+144,"Pujol Zoilo, Eudald",,376,3.0,1845.0,ESP,"Sarmiento, David Ray",,305,3.0,1996.0,PHI,½-½,played,0.5,0.5,1
+145,"Conradie, Dirk Cornelis Uys",,387,3.0,1801.0,RSA,"Munoz Ferreira, Ibon",,310,3.0,1991.0,ESP,1-0,played,1.0,0.0,0
+146,"Mehmedov, Antonio",,391,3.0,1764.0,ESP,"Olcina Monells, Jordi",,311,3.0,1990.0,ESP,0-1,played,0.0,1.0,0
+147,"Leutwyler, Mathias",,267,2.5,2071.0,SUI,"Cirer Garcia, Antoni",,345,2.5,1914.0,ESP,0-1,played,0.0,1.0,0
+148,"Borne, Milan",,350,2.5,1907.0,FRA,"Ponseti Lluch, Joan",,268,2.5,2070.0,ESP,0-1,played,0.0,1.0,0
+149,"Roques, Pascal",,359,2.5,1881.0,FRA,"Manley, Jon P",,272,2.5,2068.0,ENG,½-½,played,0.5,0.5,1
+150,"Munar Rossello, Pedro",,275,2.5,2059.0,ESP,"Alsemail, Mohamed Fahad M.",,347,2.5,1911.0,KSA,0-1,played,0.0,1.0,0
+151,"Schenk Papke, Andres",,287,2.5,2036.0,ESP,"Ospanova, Adelya",,351,2.5,1899.0,KAZ,½-½,played,0.5,0.5,1
+152,"Lezhepekova, Veronika",WFM,302,2.5,1998.0,ESP,"Bricard, Herve",,352,2.5,1898.0,FRA,0-1,played,0.0,1.0,0
+153,"Alles Pons, Lluis",,307,2.5,1993.0,ESP,"Prudent, Sylvio",,355,2.5,1886.0,FRA,1-0,played,1.0,0.0,0
+154,"Schafer, Guillermo",,360,2.5,1880.0,ESP,"Li, Anna Sofie",,309,2.5,1991.0,DEN,0-1,played,0.0,1.0,0
+155,"Urbansky, Jan",,318,2.5,1972.0,GER,"Ramirez Leyva, Freddy",,358,2.5,1883.0,MEX,+--,forfeit,1.0,0.0,
+156,"Javet, Blaise",,325,2.5,1962.0,SUI,"Anguas Fanlo, Sergio",,372,2.5,1861.0,ESP,0-1,played,0.0,1.0,0
+157,"Prohens Lopez, Aitor",,328,2.5,1959.0,ESP,"Ibanez Zanetti, Sebastian Andres",,383,2.5,1812.0,PAN,½-½,played,0.5,0.5,1
+158,Krisha Tamhant Jain,,332,2.5,1952.0,IND,"White, George",,385,2.5,1805.0,IRL,½-½,played,0.5,0.5,1
+159,"Zhou, Tony",,389,2.5,1772.0,HKG,"Vicente Bessen, Kirian",,342,2.5,1921.0,ESP,½-½,played,0.5,0.5,1
+160,"Rossello Sanchez, Bartolome",,353,2.0,1892.0,ESP,"Serra Villafranca, Felix",,317,2.0,1973.0,ESP,0-1,played,0.0,1.0,0
+161,"Abdelkader Garstka, Adam",,373,2.0,1858.0,ESP,"Sanchez Rodriguez, Jaime",,322,2.0,1969.0,ESP,0-1,played,0.0,1.0,0
+162,"Garcia Martinez, Josep",,327,2.0,1959.0,ESP,"De Coninck, Nelles",,365,2.0,1875.0,BEL,1-0,played,1.0,0.0,0
+163,"Morant Amezaga, Elies",,330,2.0,1958.0,ESP,"Costa, Tomas Pereira",,375,2.0,1847.0,POR,½-½,played,0.5,0.5,1
+164,"Khairova, Evelina",,379,2.0,1834.0,ISR,"Puerto Fernandez, Eloi",,333,2.0,1949.0,ESP,1-0,played,1.0,0.0,0
+165,"Lascar, Radoslawa",,334,2.0,1947.0,BEL,"Casimir, Sarah",,377,2.0,1839.0,FRA,1-0,played,1.0,0.0,0
+166,"Cyprienne Fonsat, Ethan",,384,2.0,1805.0,FRA,"Coll Pons, Guillem",,348,2.0,1911.0,ESP,½-½,played,0.5,0.5,1
+167,"Meyer, Juergen",,349,2.0,1909.0,GER,"Parera Sanchez, Jordi",,378,2.0,1838.0,ESP,1-0,played,1.0,0.0,0
+168,"Durrfeld, Sofie Bech",WFM,295,1.5,2023.0,DEN,"Setien Solar, Enrique",,337,1.5,1940.0,ESP,1-0,played,1.0,0.0,0
+169,"White, Nicole",,364,1.5,1876.0,IRL,"Cros Garcia, Marc",,299,1.5,2007.0,ESP,--+,forfeit,0.0,1.0,
+170,"Hamm, Fabien",,313,1.5,1985.0,FRA,"Ribon Calabia, Mariano",,388,1.5,1778.0,ESP,1-0,played,1.0,0.0,0
+171,"Blasco Roca, Roger",,367,1.0,1871.0,ESP,"Weil, Francois",,394,1.0,1731.0,FRA,1-0,played,1.0,0.0,0
+172,"Al Harthy, Faisel",,381,1.0,1820.0,KSA,,,,,,,+,bye,1.0,,
+173,"Chen, Qi b",IM,41,5.0,2484.0,CHN,,,,,,,0,absent,0.0,,
+174,"Gomez Ledo, Roberto Carlos",IM,95,5.0,2373.0,CUB,,,,,,,0,absent,0.0,,
+175,"Sanchez Alvarez, Roberto Carlos",IM,107,5.0,2347.0,PAN,,,,,,,0,absent,0.0,,
+176,"Hernandez, Cristian Andres",IM,114,5.0,2339.0,COL,,,,,,,0,absent,0.0,,
+177,Arun Kataria,FM,125,5.0,2322.0,IND,,,,,,,0,absent,0.0,,
+178,"Ammar, Sedrani",FM,154,5.0,2276.0,UAE,,,,,,,0,absent,0.0,,
+179,"Edouard, Romain",GM,25,4.5,2540.0,FRA,,,,,,,0,absent,0.0,,
+180,"Ansat, Aldiyar",IM,40,4.5,2484.0,KAZ,,,,,,,0,absent,0.0,,
+181,"Sanchez, Sebastian Felipe",IM,76,4.5,2412.0,COL,,,,,,,0,absent,0.0,,
+182,"Martinez Ramirez, Lennis",IM,79,4.5,2402.0,CUB,,,,,,,0,absent,0.0,,
+183,Moksh Amit Doshi,IM,90,4.5,2381.0,IND,,,,,,,0,absent,0.0,,
+184,"Tahay, Alexis",IM,101,4.5,2361.0,FRA,,,,,,,0,absent,0.0,,
+185,"Garcia Ramos, Daniel",IM,59,4.0,2445.0,ESP,,,,,,,0,absent,0.0,,
+186,"Zhong, Kangmin",FM,106,4.0,2348.0,CHN,,,,,,,0,absent,0.0,,
+187,"Aguado Doncel, Pablo Luis",FM,181,4.0,2237.0,ESP,,,,,,,0,absent,0.0,,
+188,"Mannion, Stephen R",IM,193,4.0,2215.0,SCO,,,,,,,0,absent,0.0,,
+189,"Zhang, Junyi",CM,226,4.0,2172.0,ENG,,,,,,,0,absent,0.0,,
+190,"Murawski, Jan",CM,246,4.0,2123.0,ENG,,,,,,,0,absent,0.0,,
+191,"Domingo Nunez, Ruben",IM,66,3.5,2423.0,ESP,,,,,,,0,absent,0.0,,
+192,"Yu, Jennifer",WGM,128,3.5,2320.0,USA,,,,,,,0,absent,0.0,,
+193,"Yuste Valenzuela, Alejandro",,198,3.5,2212.0,ESP,,,,,,,0,absent,0.0,,
+194,"Onslow, Alfie",,203,3.5,2195.0,ENG,,,,,,,0,absent,0.0,,
+195,"Lishoy Gengis Paratazham, Dildar",,207,3.5,2190.0,ENG,,,,,,,0,absent,0.0,,
+196,"Zhang, Jiabao",,215,3.5,2184.0,CHN,,,,,,,0,absent,0.0,,
+197,"Mahalakshmi, M",WIM,184,3.0,2232.0,IND,,,,,,,0,absent,0.0,,
+198,"Laurent, Julien G.",FM,204,3.0,2194.0,FRA,,,,,,,0,absent,0.0,,
+199,"Maldonado Mena, German",CM,234,3.0,2160.0,ESP,,,,,,,0,absent,0.0,,
+200,"Rempe, Jonas",FM,262,3.0,2076.0,GER,,,,,,,0,absent,0.0,,
+201,"Montesinos Diaz, Luis",,282,3.0,2045.0,ESP,,,,,,,0,absent,0.0,,
+202,"Hu, Junyan",,316,3.0,1977.0,ENG,,,,,,,0,absent,0.0,,
+203,"Escribano Rodriguez, Pedro",,357,3.0,1885.0,ESP,,,,,,,0,absent,0.0,,
+204,"Ris, Robert",IM,56,2.5,2451.0,NED,,,,,,,0,absent,0.0,,
+205,"Galego, Luis",GM,71,2.5,2416.0,POR,,,,,,,0,absent,0.0,,
+206,"Uber Gracia, Hugo",FM,118,2.5,2331.0,ESP,,,,,,,0,absent,0.0,,
+207,"Clotet Mas, Dan",,250,2.5,2117.0,ESP,,,,,,,0,absent,0.0,,
+208,"Mulhem,Laith.",,288,2.5,2035.0,SYR,,,,,,,0,absent,0.0,,
+209,"Comellas Martos, Lidia",WFM,301,2.5,2002.0,ESP,,,,,,,0,absent,0.0,,
+210,Avinash Ramesh,IM,86,2.0,2384.0,IND,,,,,,,0,absent,0.0,,
+211,"Ajay Krishna, S",IM,105,2.0,2354.0,IND,,,,,,,0,absent,0.0,,
+212,"Fernandez Kalinov, Rodrigo",,308,2.0,1992.0,ESP,,,,,,,0,absent,0.0,,
+213,"Raffin-Sumyk, Piermael",,392,1.5,1751.0,FRA,,,,,,,0,absent,0.0,,
+214,"Gusain, Himal",IM,49,1.0,2460.0,IND,,,,,,,0,absent,0.0,,
+215,"Mercadal Benejam, Josep",,380,1.0,1828.0,ESP,,,,,,,0,absent,0.0,,
+216,"De Andres Gonalons, Fernando",,343,0.5,1918.0,ESP,,,,,,,0,absent,0.0,,
+217,"Godinho Marques, Pedro",,371,0.5,1868.0,POR,,,,,,,0,absent,0.0,,
+218,"Ghazarian, Kirk",GM,22,0.0,2544.0,USA,,,,,,,0,absent,0.0,,
+219,"Carrascoso Morales, Abel",FM,143,0.0,2296.0,ESP,,,,,,,0,absent,0.0,,
+220,Sachi Jain,WFM,158,0.0,2271.0,IND,,,,,,,0,absent,0.0,,
+221,"Bolashakov, Nurali",CM,266,0.0,2072.0,KAZ,,,,,,,0,absent,0.0,,
+222,Patlolla Indra Reddy,CM,274,0.0,2062.0,IND,,,,,,,0,absent,0.0,,
+223,Nikhil T L,,315,0.0,1979.0,IND,,,,,,,0,absent,0.0,,

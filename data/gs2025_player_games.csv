@@ -1,0 +1,1277 @@
+round,board,name,pid,elo,pts,opp,opp_id,opp_elo,draw,moves,color,score_before,score_after
+1,15,"Dardha, Daniel",240990,2624,0.5,"Yu, Yangyi",8603820,2714,1,39,W,0.0,0.5
+2,19,"Dardha, Daniel",240990,2624,0.0,"Rapport, Richard",738590,2711,0,58,B,0.5,0.5
+3,46,"Dardha, Daniel",240990,2624,0.5,"Wojtaszek, Radoslaw",1118358,2661,1,30,B,0.5,1.0
+4,40,"Dardha, Daniel",240990,2624,0.5,"Sindarov, Javokhir",14205483,2722,1,56,W,1.0,1.5
+5,38,"Dardha, Daniel",240990,2624,0.0,"Robson, Ray",2023970,2674,0,36,B,1.5,1.5
+6,53,"Dardha, Daniel",240990,2624,0.5,"Warmerdam, Max",1048104,2591,1,38,W,1.5,2.0
+7,53,"Dardha, Daniel",240990,2624,1.0,"Suyarov, Mukhammadzokhid",14210495,2482,0,47,B,2.0,3.0
+8,45,"Dardha, Daniel",240990,2624,1.0,"Nigmatov, Ortik",14202131,2488,0,48,W,3.0,4.0
+9,27,"Dardha, Daniel",240990,2624,0.5,"Sadhwani, Raunak",35093487,2658,1,31,B,4.0,4.5
+10,31,"Dardha, Daniel",240990,2624,0.5,"Kollars, Dmitrij",12909572,2647,1,36,W,4.5,5.0
+11,30,"Dardha, Daniel",240990,2624,0.0,"Mamedov, Rauf",13401653,2651,0,45,B,5.0,5.0
+1,3,"Bacrot, Etienne",605506,2637,0.0,"Gukesh, D",46616543,2767,0,45,W,0.0,0.0
+2,54,"Bacrot, Etienne",605506,2637,0.5,"Goryachkina, Aleksandra",4147103,2528,1,31,B,0.0,0.5
+3,53,"Bacrot, Etienne",605506,2637,0.5,"Jobava, Baadur",13601520,2590,1,39,B,0.5,1.0
+4,52,"Bacrot, Etienne",605506,2637,0.5,"Zemlyanskii, Ivan",24249971,2586,1,32,W,1.0,1.5
+5,45,"Bacrot, Etienne",605506,2637,1.0,"Daneshvar, Bardiya",12576468,2598,0,57,B,1.5,2.5
+6,27,"Bacrot, Etienne",605506,2637,0.5,"Robson, Ray",2023970,2674,1,42,W,2.5,3.0
+7,22,"Bacrot, Etienne",605506,2637,0.0,"Vachier-Lagrave, Maxime",623539,2738,0,59,B,3.0,3.0
+8,41,"Bacrot, Etienne",605506,2637,0.5,"Aryan, Chopra",5084423,2619,1,31,W,3.0,3.5
+9,44,"Bacrot, Etienne",605506,2637,0.0,"Ivanchuk, Vasyl",14100010,2608,0,31,B,3.5,3.5
+10,49,"Bacrot, Etienne",605506,2637,0.5,"Matlakov, Maxim",4168003,2609,1,31,W,3.5,4.0
+11,47,"Bacrot, Etienne",605506,2637,0.5,"Najer, Evgeniy",4118987,2613,1,53,B,4.0,4.5
+1,11,"Vachier-Lagrave, Maxime",623539,2738,0.5,"Sjugirov, Sanan",4189302,2627,1,78,B,0.0,0.5
+2,15,"Vachier-Lagrave, Maxime",623539,2738,1.0,"Volokitin, Andrei",14107090,2628,0,28,W,0.5,1.5
+3,9,"Vachier-Lagrave, Maxime",623539,2738,0.5,"Mendonca, Leon Luke",35028561,2615,1,30,B,1.5,2.0
+4,10,"Vachier-Lagrave, Maxime",623539,2738,0.0,"Maurizzi, Marcandria",36083534,2610,0,38,W,2.0,2.0
+5,21,"Vachier-Lagrave, Maxime",623539,2738,1.0,"Woodward, Andy",30953499,2557,0,48,W,2.0,3.0
+6,14,"Vachier-Lagrave, Maxime",623539,2738,0.0,"Sargsyan, Shant",13306766,2653,0,33,B,3.0,3.0
+7,22,"Vachier-Lagrave, Maxime",623539,2738,1.0,"Bacrot, Etienne",605506,2637,0,59,W,3.0,4.0
+8,12,"Vachier-Lagrave, Maxime",623539,2738,1.0,"Rodshtein, Maxim",2806851,2645,0,41,B,4.0,5.0
+9,9,"Vachier-Lagrave, Maxime",623539,2738,1.0,"Erdogmus, Yagiz Kaan",44599790,2646,0,73,W,5.0,6.0
+10,5,"Vachier-Lagrave, Maxime",623539,2738,0.5,"Mishra, Abhimanyu",30920019,2611,1,30,B,6.0,6.5
+11,5,"Vachier-Lagrave, Maxime",623539,2738,0.5,"Nihal, Sarin",25092340,2693,1,31,W,6.5,7.0
+1,40,"Moussard, Jules",642908,2591,0.5,"Sadhwani, Raunak",35093487,2658,1,31,B,0.0,0.5
+2,40,"Moussard, Jules",642908,2591,1.0,"Saric, Ivan",14508150,2655,0,38,W,0.5,1.5
+3,15,"Moussard, Jules",642908,2591,0.5,"Yakubboev, Nodirbek",14203987,2681,1,47,B,1.5,2.0
+4,18,"Moussard, Jules",642908,2591,0.0,"Vitiugov, Nikita",4152956,2666,0,52,W,2.0,2.0
+5,32,"Moussard, Jules",642908,2591,0.0,"Mamedov, Rauf",13401653,2651,0,41,B,2.0,2.0
+6,45,"Moussard, Jules",642908,2591,0.5,"Svane, Frederik",12923044,2643,1,32,W,2.0,2.5
+7,47,"Moussard, Jules",642908,2591,0.5,"Volokitin, Andrei",14107090,2628,1,48,B,2.5,3.0
+8,39,"Moussard, Jules",642908,2591,0.5,"Kollars, Dmitrij",12909572,2647,1,70,W,3.0,3.5
+9,39,"Moussard, Jules",642908,2591,0.5,"Shankland, Sam",2004887,2670,1,38,B,3.5,4.0
+10,42,"Moussard, Jules",642908,2591,1.0,"Salem, A.R. Saleh",9301348,2640,0,23,W,4.0,5.0
+11,34,"Moussard, Jules",642908,2591,0.5,"Gurel, Ediz",44507356,2631,1,36,B,5.0,5.5
+1,30,"Lagarde, Maxime",662399,2609,0.5,"Robson, Ray",2023970,2674,1,32,B,0.0,0.5
+2,32,"Lagarde, Maxime",662399,2609,0.5,"Bluebaum, Matthias",24651516,2671,1,30,W,0.5,1.0
+3,25,"Lagarde, Maxime",662399,2609,0.5,"Dubov, Daniil",24126055,2691,1,54,B,1.0,1.5
+4,35,"Lagarde, Maxime",662399,2609,0.5,"Mamedov, Rauf",13401653,2651,1,30,W,1.5,2.0
+5,28,"Lagarde, Maxime",662399,2609,0.5,"Murzin, Volodar",44155573,2670,1,33,W,2.0,2.5
+6,29,"Lagarde, Maxime",662399,2609,0.5,"Shankland, Sam",2004887,2670,1,41,B,2.5,3.0
+7,29,"Lagarde, Maxime",662399,2609,0.5,"Oparin, Grigoriy",24125890,2660,1,60,W,3.0,3.5
+8,30,"Lagarde, Maxime",662399,2609,0.5,"Grischuk, Alexander",4126025,2657,1,53,B,3.5,4.0
+9,30,"Lagarde, Maxime",662399,2609,0.5,"Lu, Shanglei",8603332,2647,1,31,W,4.0,4.5
+10,27,"Lagarde, Maxime",662399,2609,1.0,"Artemiev, Vladislav",24101605,2664,0,59,B,4.5,5.5
+11,21,"Lagarde, Maxime",662399,2609,0.0,"Saric, Ivan",14508150,2655,0,32,W,5.5,5.5
+1,17,"Rapport, Richard",738590,2711,0.5,"Ponomariov, Ruslan",14103320,2622,1,33,B,0.0,0.5
+2,19,"Rapport, Richard",738590,2711,1.0,"Dardha, Daniel",240990,2624,0,58,W,0.5,1.5
+3,12,"Rapport, Richard",738590,2711,0.5,"Suleymanli, Aydin",13413937,2602,1,23,W,1.5,2.0
+4,13,"Rapport, Richard",738590,2711,1.0,"Predke, Alexandr",24107581,2609,0,32,B,2.0,3.0
+5,1,"Rapport, Richard",738590,2711,0.0,"Maghsoodloo, Parham",12539929,2692,0,64,W,3.0,3.0
+6,17,"Rapport, Richard",738590,2711,0.5,"Puranik, Abhimanyu",5061245,2640,1,46,B,3.0,3.5
+7,15,"Rapport, Richard",738590,2711,1.0,"Cheparinov, Ivan",2905540,2627,0,52,W,3.5,4.5
+8,6,"Rapport, Richard",738590,2711,0.5,"Praggnanandhaa, R",25059530,2785,1,39,W,4.5,5.0
+9,12,"Rapport, Richard",738590,2711,0.5,"Theodorou, Nikolas",4262875,2646,1,60,B,5.0,5.5
+10,11,"Rapport, Richard",738590,2711,0.5,"Sargsyan, Shant",13306766,2653,1,31,B,5.5,6.0
+11,12,"Rapport, Richard",738590,2711,1.0,"Tabatabaei, M. Amin",12521213,2673,0,48,W,6.0,7.0
+1,47,"Indjic, Aleksandar",911925,2650,0.0,"Zemlyanskii, Ivan",24249971,2586,0,67,B,0.0,0.0
+2,53,"Indjic, Aleksandar",911925,2650,0.5,"Jobava, Baadur",13601520,2590,1,33,W,0.0,0.5
+3,51,"Indjic, Aleksandar",911925,2650,0.5,"Muradli, Mahammad",13409301,2590,1,40,B,0.5,1.0
+4,48,"Indjic, Aleksandar",911925,2650,1.0,"Vakhidov, Jakhongir",14201801,2521,0,38,W,1.0,2.0
+5,33,"Indjic, Aleksandar",911925,2650,0.0,"Samunenkov, Ihor",14187086,2550,0,73,B,2.0,2.0
+6,43,"Indjic, Aleksandar",911925,2650,0.0,"Najer, Evgeniy",4118987,2613,0,41,W,2.0,2.0
+7,50,"Indjic, Aleksandar",911925,2650,0.5,"Madaminov, Mukhiddin",14210703,2560,1,30,B,2.0,2.5
+8,51,"Indjic, Aleksandar",911925,2650,1.0,"Warmerdam, Max",1048104,2591,0,47,W,2.5,3.5
+9,42,"Indjic, Aleksandar",911925,2650,0.5,"Aryan, Chopra",5084423,2619,1,103,B,3.5,4.0
+10,57,"Indjic, Aleksandar",911925,2650,0.5,"Divya, Deshmukh",35006916,2478,1,41,W,4.0,4.5
+11,40,"Indjic, Aleksandar",911925,2650,1.0,"Bartel, Mateusz",1112635,2581,0,50,B,4.5,5.5
+1,6,"Ivic, Velimir",950122,2630,0.0,"Abdusattorov, Nodirbek",14204118,2748,0,54,B,0.0,0.0
+2,56,"Ivic, Velimir",950122,2630,0.5,"Suyarov, Mukhammadzokhid",14210495,2482,1,39,W,0.0,0.5
+3,55,"Ivic, Velimir",950122,2630,0.0,"Nigmatov, Ortik",14202131,2488,0,39,B,0.5,0.5
+4,56,"Ivic, Velimir",950122,2630,1.0,"Abdisalimov, Abdimalik",14206323,2488,0,36,W,0.5,1.5
+5,47,"Ivic, Velimir",950122,2630,0.0,"Zemlyanskii, Ivan",24249971,2586,0,34,B,1.5,1.5
+6,52,"Ivic, Velimir",950122,2630,1.0,"Daneshvar, Bardiya",12576468,2598,0,46,W,1.5,2.5
+7,57,"Ivic, Velimir",950122,2630,0.0,"Divya, Deshmukh",35006916,2478,0,49,B,2.5,2.5
+8,53,"Ivic, Velimir",950122,2630,1.0,"Madaminov, Mukhiddin",14210703,2560,0,55,W,2.5,3.5
+9,45,"Ivic, Velimir",950122,2630,0.5,"Samunenkov, Ihor",14187086,2550,1,89,B,3.5,4.0
+10,43,"Ivic, Velimir",950122,2630,1.0,"Korobov, Anton",14105730,2616,0,53,W,4.0,5.0
+11,26,"Ivic, Velimir",950122,2630,0.5,"Robson, Ray",2023970,2674,1,35,B,5.0,5.5
+1,23,"Van Foreest, Jorden",1039784,2692,0.5,"Korobov, Anton",14105730,2616,1,34,B,0.0,0.5
+2,23,"Van Foreest, Jorden",1039784,2692,0.5,"Santos Latasa, Jaime",2293307,2620,1,33,W,0.5,1.0
+3,24,"Van Foreest, Jorden",1039784,2692,0.5,"Ponomariov, Ruslan",14103320,2622,1,41,B,1.0,1.5
+4,25,"Van Foreest, Jorden",1039784,2692,1.0,"Anton Guijarro, David",2285525,2625,0,58,W,1.5,2.5
+5,18,"Van Foreest, Jorden",1039784,2692,0.5,"Hovhannisyan, Robert",13302507,2629,1,40,B,2.5,3.0
+6,19,"Van Foreest, Jorden",1039784,2692,1.0,"Ivanchuk, Vasyl",14100010,2608,0,32,W,3.0,4.0
+7,10,"Van Foreest, Jorden",1039784,2692,0.5,"Pranav, V",25060783,2596,1,44,B,4.0,4.5
+8,9,"Van Foreest, Jorden",1039784,2692,1.0,"Mamedyarov, Shakhriyar",13401319,2741,0,50,W,4.5,5.5
+9,4,"Van Foreest, Jorden",1039784,2692,0.0,"Giri, Anish",24116068,2746,0,53,B,5.5,5.5
+10,9,"Van Foreest, Jorden",1039784,2692,0.5,"Sindarov, Javokhir",14205483,2722,1,40,W,5.5,6.0
+11,14,"Van Foreest, Jorden",1039784,2692,0.5,"Shirov, Alexei",2209390,2616,1,55,B,6.0,6.5
+1,42,"Warmerdam, Max",1048104,2591,0.5,"Saric, Ivan",14508150,2655,1,28,B,0.0,0.5
+2,38,"Warmerdam, Max",1048104,2591,0.5,"Sadhwani, Raunak",35093487,2658,1,30,W,0.5,1.0
+3,31,"Warmerdam, Max",1048104,2591,0.0,"Vitiugov, Nikita",4152956,2666,0,41,B,1.0,1.0
+4,49,"Warmerdam, Max",1048104,2591,0.5,"Grandelius, Nils",1710400,2648,1,34,W,1.0,1.5
+5,46,"Warmerdam, Max",1048104,2591,0.0,"Gurel, Ediz",44507356,2631,0,45,B,1.5,1.5
+6,53,"Warmerdam, Max",1048104,2591,0.5,"Dardha, Daniel",240990,2624,1,38,B,1.5,2.0
+7,48,"Warmerdam, Max",1048104,2591,0.5,"Sarana, Alexey",24133795,2686,1,30,W,2.0,2.5
+8,51,"Warmerdam, Max",1048104,2591,0.0,"Indjic, Aleksandar",911925,2650,0,47,B,2.5,2.5
+9,54,"Warmerdam, Max",1048104,2591,0.5,"Martirosyan, Haik M.",13306553,2628,1,64,W,2.5,3.0
+10,53,"Warmerdam, Max",1048104,2591,1.0,"Yuffa, Daniil",24131423,2648,0,62,W,3.0,4.0
+11,48,"Warmerdam, Max",1048104,2591,0.5,"Amin, Bassem",10601457,2636,1,35,B,4.0,4.5
+1,48,"Bartel, Mateusz",1112635,2581,0.5,"Grandelius, Nils",1710400,2648,1,43,B,0.0,0.5
+2,43,"Bartel, Mateusz",1112635,2581,1.0,"Mamedov, Rauf",13401653,2651,0,78,W,0.5,1.5
+3,17,"Bartel, Mateusz",1112635,2581,0.0,"Aronian, Levon",13300474,2744,0,44,B,1.5,1.5
+4,36,"Bartel, Mateusz",1112635,2581,0.5,"Yuffa, Daniil",24131423,2648,1,66,W,1.5,2.0
+5,36,"Bartel, Mateusz",1112635,2581,1.0,"Svane, Frederik",12923044,2643,0,40,B,2.0,3.0
+6,20,"Bartel, Mateusz",1112635,2581,0.5,"Dubov, Daniil",24126055,2691,1,41,W,3.0,3.5
+7,20,"Bartel, Mateusz",1112635,2581,0.5,"Saric, Ivan",14508150,2655,1,35,B,3.5,4.0
+8,15,"Bartel, Mateusz",1112635,2581,0.0,"Sevian, Samuel",2040506,2692,0,29,W,4.0,4.0
+9,34,"Bartel, Mateusz",1112635,2581,0.0,"Xiong, Jeffery",2047640,2640,0,46,B,4.0,4.0
+10,44,"Bartel, Mateusz",1112635,2581,0.5,"Hovhannisyan, Robert",13302507,2629,1,30,W,4.0,4.5
+11,40,"Bartel, Mateusz",1112635,2581,0.0,"Indjic, Aleksandar",911925,2650,0,50,W,4.5,4.5
+1,38,"Wojtaszek, Radoslaw",1118358,2661,0.5,"Pranav, V",25060783,2596,1,22,W,0.0,0.5
+2,36,"Wojtaszek, Radoslaw",1118358,2661,0.0,"Kuzubov, Yuriy",14112906,2600,0,60,B,0.5,0.5
+3,46,"Wojtaszek, Radoslaw",1118358,2661,0.5,"Dardha, Daniel",240990,2624,1,30,W,0.5,1.0
+4,43,"Wojtaszek, Radoslaw",1118358,2661,0.5,"Svane, Rasmus",4657101,2620,1,30,B,1.0,1.5
+5,40,"Wojtaszek, Radoslaw",1118358,2661,0.5,"Hakobyan, Aram",13306677,2625,1,44,B,1.5,2.0
+6,41,"Wojtaszek, Radoslaw",1118358,2661,0.0,"Korobov, Anton",14105730,2616,0,47,W,2.0,2.0
+7,49,"Wojtaszek, Radoslaw",1118358,2661,0.5,"Xu, Xiangyu",8608288,2615,1,31,B,2.0,2.5
+8,50,"Wojtaszek, Radoslaw",1118358,2661,0.5,"Daneshvar, Bardiya",12576468,2598,1,25,W,2.5,3.0
+9,49,"Wojtaszek, Radoslaw",1118358,2661,1.0,"Nigmatov, Ortik",14202131,2488,0,60,B,3.0,4.0
+10,40,"Wojtaszek, Radoslaw",1118358,2661,1.0,"Najer, Evgeniy",4118987,2613,0,83,W,4.0,5.0
+11,28,"Wojtaszek, Radoslaw",1118358,2661,0.5,"Anton Guijarro, David",2285525,2625,1,29,B,5.0,5.5
+1,43,"Gumularz, Szymon",1188062,2590,0.5,"Sargsyan, Shant",13306766,2653,1,67,W,0.0,0.5
+2,42,"Gumularz, Szymon",1188062,2590,1.0,"Bjerre, Jonas Buhl",1444948,2651,0,33,B,0.5,1.5
+3,16,"Gumularz, Szymon",1188062,2590,1.0,"Oparin, Grigoriy",24125890,2660,0,55,W,1.5,2.5
+4,4,"Gumularz, Szymon",1188062,2590,0.5,"Firouzja, Alireza",12573981,2754,1,25,B,2.5,3.0
+5,7,"Gumularz, Szymon",1188062,2590,0.5,"Yakubboev, Nodirbek",14203987,2681,1,38,B,3.0,3.5
+6,7,"Gumularz, Szymon",1188062,2590,0.0,"Nihal, Sarin",25092340,2693,0,22,W,3.5,3.5
+7,16,"Gumularz, Szymon",1188062,2590,0.5,"Sevian, Samuel",2040506,2692,1,33,B,3.5,4.0
+8,21,"Gumularz, Szymon",1188062,2590,0.0,"Saric, Ivan",14508150,2655,0,55,W,4.0,4.0
+9,29,"Gumularz, Szymon",1188062,2590,0.0,"Grandelius, Nils",1710400,2648,0,41,B,4.0,4.0
+10,41,"Gumularz, Szymon",1188062,2590,0.5,"Svane, Frederik",12923044,2643,1,87,W,4.0,4.5
+11,43,"Gumularz, Szymon",1188062,2590,0.0,"Hovhannisyan, Robert",13302507,2629,0,31,B,4.5,4.5
+1,29,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Maurizzi, Marcandria",36083534,2610,1,31,B,0.0,0.5
+2,29,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Najer, Evgeniy",4118987,2613,1,50,W,0.5,1.0
+3,26,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Santos Latasa, Jaime",2293307,2620,1,33,B,1.0,1.5
+4,28,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Matlakov, Maxim",4168003,2609,1,30,W,1.5,2.0
+5,27,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Ponomariov, Ruslan",14103320,2622,1,31,B,2.0,2.5
+6,26,"Deac, Bogdan-Daniel",1226380,2674,0.0,"Mendonca, Leon Luke",35028561,2615,0,104,W,2.5,2.5
+7,41,"Deac, Bogdan-Daniel",1226380,2674,0.0,"Hakobyan, Aram",13306677,2625,0,54,B,2.5,2.5
+8,48,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Xu, Xiangyu",8608288,2615,1,117,W,2.5,3.0
+9,48,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Svane, Rasmus",4657101,2620,1,36,B,3.0,3.5
+10,47,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Daneshvar, Bardiya",12576468,2598,1,30,W,3.5,4.0
+11,44,"Deac, Bogdan-Daniel",1226380,2674,0.5,"Korobov, Anton",14105730,2616,1,37,B,4.0,4.5
+1,45,"Bjerre, Jonas Buhl",1444948,2651,0.5,"Muradli, Mahammad",13409301,2590,1,62,B,0.0,0.5
+2,42,"Bjerre, Jonas Buhl",1444948,2651,0.0,"Gumularz, Szymon",1188062,2590,0,33,W,0.5,0.5
+3,49,"Bjerre, Jonas Buhl",1444948,2651,0.5,"Daneshvar, Bardiya",12576468,2598,1,87,B,0.5,1.0
+4,47,"Bjerre, Jonas Buhl",1444948,2651,1.0,"Korobov, Anton",14105730,2616,0,52,W,1.0,2.0
+5,31,"Bjerre, Jonas Buhl",1444948,2651,0.5,"Matlakov, Maxim",4168003,2609,1,32,B,2.0,2.5
+6,34,"Bjerre, Jonas Buhl",1444948,2651,0.0,"Henriquez Villagra, Cristobal",3409350,2594,0,83,W,2.5,2.5
+7,43,"Bjerre, Jonas Buhl",1444948,2651,1.0,"Santos Latasa, Jaime",2293307,2620,0,65,B,2.5,3.5
+8,32,"Bjerre, Jonas Buhl",1444948,2651,1.0,"Najer, Evgeniy",4118987,2613,0,34,W,3.5,4.5
+9,21,"Bjerre, Jonas Buhl",1444948,2651,0.0,"Shirov, Alexei",2209390,2616,0,47,B,4.5,4.5
+10,30,"Bjerre, Jonas Buhl",1444948,2651,0.0,"Ivanchuk, Vasyl",14100010,2608,0,56,W,4.5,4.5
+11,39,"Bjerre, Jonas Buhl",1444948,2651,0.0,"Aryan, Chopra",5084423,2619,0,48,B,4.5,4.5
+1,22,"Hammer, Jon Ludvig",1503707,2618,0.5,"Sevian, Samuel",2040506,2692,1,76,B,0.0,0.5
+2,24,"Hammer, Jon Ludvig",1503707,2618,0.5,"Dubov, Daniil",24126055,2691,1,19,W,0.5,1.0
+3,28,"Hammer, Jon Ludvig",1503707,2618,0.0,"Bluebaum, Matthias",24651516,2671,0,24,B,1.0,1.0
+4,44,"Hammer, Jon Ludvig",1503707,2618,0.0,"Sadhwani, Raunak",35093487,2658,0,41,W,1.0,1.0
+5,53,"Hammer, Jon Ludvig",1503707,2618,0.0,"Kollars, Dmitrij",12909572,2647,0,46,B,1.0,1.0
+6,56,"Hammer, Jon Ludvig",1503707,2618,0.5,"Muradli, Mahammad",13409301,2590,1,83,B,1.0,1.5
+7,55,"Hammer, Jon Ludvig",1503707,2618,0.0,"Karthikeyan, Murali",5074452,2669,0,77,W,1.5,1.5
+8,56,"Hammer, Jon Ludvig",1503707,2618,0.5,"Martirosyan, Haik M.",13306553,2628,1,37,B,1.5,2.0
+9,56,"Hammer, Jon Ludvig",1503707,2618,0.5,"Santos Latasa, Jaime",2293307,2620,1,30,W,2.0,2.5
+10,58,"Hammer, Jon Ludvig",1503707,2618,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,21,W,2.5,3.5
+11,54,"Hammer, Jon Ludvig",1503707,2618,0.5,"Wagner, Dennis",24650684,2608,1,31,B,3.5,4.0
+1,48,"Grandelius, Nils",1710400,2648,0.5,"Bartel, Mateusz",1112635,2581,1,43,W,0.0,0.5
+2,44,"Grandelius, Nils",1710400,2648,0.5,"Woodward, Andy",30953499,2557,1,80,B,0.5,1.0
+3,35,"Grandelius, Nils",1710400,2648,0.0,"Aditya, Mittal",35042025,2589,0,49,W,1.0,1.0
+4,49,"Grandelius, Nils",1710400,2648,0.5,"Warmerdam, Max",1048104,2591,1,34,B,1.0,1.5
+5,43,"Grandelius, Nils",1710400,2648,1.0,"Donchenko, Alexander",24603295,2624,0,43,W,1.5,2.5
+6,35,"Grandelius, Nils",1710400,2648,0.5,"Narayanan, S",5058422,2591,1,30,B,2.5,3.0
+7,33,"Grandelius, Nils",1710400,2648,0.5,"Suleymanli, Aydin",13413937,2602,1,39,W,3.0,3.5
+8,34,"Grandelius, Nils",1710400,2648,0.5,"Predke, Alexandr",24107581,2609,1,57,B,3.5,4.0
+9,29,"Grandelius, Nils",1710400,2648,1.0,"Gumularz, Szymon",1188062,2590,0,41,W,4.0,5.0
+10,21,"Grandelius, Nils",1710400,2648,0.5,"Hakobyan, Aram",13306677,2625,1,33,B,5.0,5.5
+11,22,"Grandelius, Nils",1710400,2648,0.5,"Ivanchuk, Vasyl",14100010,2608,1,76,B,5.5,6.0
+1,34,"Shankland, Sam",2004887,2670,1.0,"Wagner, Dennis",24650684,2608,0,49,W,0.0,1.0
+2,7,"Shankland, Sam",2004887,2670,0.0,"Demchenko, Anton",4160258,2620,0,52,B,1.0,1.0
+3,30,"Shankland, Sam",2004887,2670,0.5,"Shirov, Alexei",2209390,2616,1,60,W,1.0,1.5
+4,31,"Shankland, Sam",2004887,2670,1.0,"Sargissian, Gabriel",13300881,2626,0,52,B,1.5,2.5
+5,8,"Shankland, Sam",2004887,2670,0.0,"Firouzja, Alireza",12573981,2754,0,50,W,2.5,2.5
+6,29,"Shankland, Sam",2004887,2670,0.5,"Lagarde, Maxime",662399,2609,1,41,W,2.5,3.0
+7,28,"Shankland, Sam",2004887,2670,0.5,"Ponomariov, Ruslan",14103320,2622,1,59,B,3.0,3.5
+8,26,"Shankland, Sam",2004887,2670,0.0,"Hakobyan, Aram",13306677,2625,0,46,B,3.5,3.5
+9,39,"Shankland, Sam",2004887,2670,0.5,"Moussard, Jules",642908,2591,1,38,W,3.5,4.0
+10,38,"Shankland, Sam",2004887,2670,0.5,"Aryan, Chopra",5084423,2619,1,33,W,4.0,4.5
+11,35,"Shankland, Sam",2004887,2670,1.0,"Suleymanli, Aydin",13413937,2602,0,41,B,4.5,5.5
+1,30,"Robson, Ray",2023970,2674,0.5,"Lagarde, Maxime",662399,2609,1,32,W,0.0,0.5
+2,30,"Robson, Ray",2023970,2674,0.0,"Predke, Alexandr",24107581,2609,0,63,B,0.5,0.5
+3,45,"Robson, Ray",2023970,2674,0.5,"Hakobyan, Aram",13306677,2625,1,32,W,0.5,1.0
+4,41,"Robson, Ray",2023970,2674,0.5,"Donchenko, Alexander",24603295,2624,1,27,B,1.0,1.5
+5,38,"Robson, Ray",2023970,2674,1.0,"Dardha, Daniel",240990,2624,0,36,W,1.5,2.5
+6,27,"Robson, Ray",2023970,2674,0.5,"Bacrot, Etienne",605506,2637,1,42,B,2.5,3.0
+7,26,"Robson, Ray",2023970,2674,0.5,"Demchenko, Anton",4160258,2620,1,78,W,3.0,3.5
+8,24,"Robson, Ray",2023970,2674,0.5,"Sjugirov, Sanan",4189302,2627,1,79,B,3.5,4.0
+9,23,"Robson, Ray",2023970,2674,0.5,"Kuzubov, Yuriy",14112906,2600,1,64,W,4.0,4.5
+10,25,"Robson, Ray",2023970,2674,0.5,"Goryachkina, Aleksandra",4147103,2528,1,37,B,4.5,5.0
+11,26,"Robson, Ray",2023970,2674,0.5,"Ivic, Velimir",950122,2630,1,35,W,5.0,5.5
+1,22,"Sevian, Samuel",2040506,2692,0.5,"Hammer, Jon Ludvig",1503707,2618,1,76,W,0.0,0.5
+2,22,"Sevian, Samuel",2040506,2692,0.5,"Shirov, Alexei",2209390,2616,1,34,B,0.5,1.0
+3,23,"Sevian, Samuel",2040506,2692,0.5,"Sargissian, Gabriel",13300881,2626,1,51,W,1.0,1.5
+4,24,"Sevian, Samuel",2040506,2692,1.0,"Chigaev, Maksim",4108116,2638,0,29,B,1.5,2.5
+5,17,"Sevian, Samuel",2040506,2692,0.5,"Ivanchuk, Vasyl",14100010,2608,1,56,W,2.5,3.0
+6,18,"Sevian, Samuel",2040506,2692,0.5,"Cheparinov, Ivan",2905540,2627,1,40,B,3.0,3.5
+7,16,"Sevian, Samuel",2040506,2692,0.5,"Gumularz, Szymon",1188062,2590,1,33,W,3.5,4.0
+8,15,"Sevian, Samuel",2040506,2692,1.0,"Bartel, Mateusz",1112635,2581,0,29,B,4.0,5.0
+9,7,"Sevian, Samuel",2040506,2692,0.0,"Erigaisi, Arjun",35009192,2771,0,51,B,5.0,5.0
+10,16,"Sevian, Samuel",2040506,2692,1.0,"Gurel, Ediz",44507356,2631,0,32,W,5.0,6.0
+11,13,"Sevian, Samuel",2040506,2692,1.0,"Predke, Alexandr",24107581,2609,0,70,W,6.0,7.0
+1,1,"Xiong, Jeffery",2047640,2640,0.5,"Praggnanandhaa, R",25059530,2785,1,31,W,0.0,0.5
+2,11,"Xiong, Jeffery",2047640,2640,0.0,"Keymer, Vincent",12940690,2751,0,54,B,0.5,0.5
+3,52,"Xiong, Jeffery",2047640,2640,1.0,"Wagner, Dennis",24650684,2608,0,41,W,0.5,1.5
+4,22,"Xiong, Jeffery",2047640,2640,0.5,"Harikrishna, Pentala",5007003,2704,1,45,B,1.5,2.0
+5,23,"Xiong, Jeffery",2047640,2640,0.5,"Yu, Yangyi",8603820,2714,1,23,W,2.0,2.5
+6,24,"Xiong, Jeffery",2047640,2640,0.5,"Liang, Awonder",2056437,2698,1,34,B,2.5,3.0
+7,37,"Xiong, Jeffery",2047640,2640,0.5,"Aditya, Mittal",35042025,2589,1,33,W,3.0,3.5
+8,37,"Xiong, Jeffery",2047640,2640,0.5,"Kuzubov, Yuriy",14112906,2600,1,35,B,3.5,4.0
+9,34,"Xiong, Jeffery",2047640,2640,1.0,"Bartel, Mateusz",1112635,2581,0,46,W,4.0,5.0
+10,15,"Xiong, Jeffery",2047640,2640,0.0,"Fedoseev, Vladimir",24130737,2731,0,41,B,5.0,5.0
+11,33,"Xiong, Jeffery",2047640,2640,1.0,"Goryachkina, Aleksandra",4147103,2528,0,52,W,5.0,6.0
+1,19,"Liang, Awonder",2056437,2698,0.5,"Santos Latasa, Jaime",2293307,2620,1,34,B,0.0,0.5
+2,20,"Liang, Awonder",2056437,2698,0.5,"Ponomariov, Ruslan",14103320,2622,1,68,W,0.5,1.0
+3,22,"Liang, Awonder",2056437,2698,0.5,"Anton Guijarro, David",2285525,2625,1,31,B,1.0,1.5
+4,23,"Liang, Awonder",2056437,2698,1.0,"Aryan, Chopra",5084423,2619,0,54,W,1.5,2.5
+5,15,"Liang, Awonder",2056437,2698,0.0,"Rodshtein, Maxim",2806851,2645,0,62,B,2.5,2.5
+6,24,"Liang, Awonder",2056437,2698,0.5,"Xiong, Jeffery",2047640,2640,1,34,W,2.5,3.0
+7,25,"Liang, Awonder",2056437,2698,1.0,"Korobov, Anton",14105730,2616,0,44,B,3.0,4.0
+8,14,"Liang, Awonder",2056437,2698,1.0,"Salem, A.R. Saleh",9301348,2640,0,45,W,4.0,5.0
+9,6,"Liang, Awonder",2056437,2698,0.5,"Praggnanandhaa, R",25059530,2785,1,58,B,5.0,5.5
+10,12,"Liang, Awonder",2056437,2698,1.0,"Theodorou, Nikolas",4262875,2646,0,43,W,5.5,6.5
+11,4,"Liang, Awonder",2056437,2698,0.5,"Abdusattorov, Nodirbek",14204118,2748,1,47,B,6.5,7.0
+1,12,"Niemann, Hans Moke",2093596,2733,0.5,"Sargissian, Gabriel",13300881,2626,1,30,W,0.0,0.5
+2,16,"Niemann, Hans Moke",2093596,2733,0.5,"Cheparinov, Ivan",2905540,2627,1,31,B,0.5,1.0
+3,19,"Niemann, Hans Moke",2093596,2733,1.0,"Svane, Rasmus",4657101,2620,0,75,W,1.0,2.0
+4,11,"Niemann, Hans Moke",2093596,2733,0.5,"Mendonca, Leon Luke",35028561,2615,1,58,B,2.0,2.5
+5,13,"Niemann, Hans Moke",2093596,2733,0.5,"Demchenko, Anton",4160258,2620,1,62,W,2.5,3.0
+6,15,"Niemann, Hans Moke",2093596,2733,1.0,"Vokhidov, Shamsiddin",14204223,2645,0,35,B,3.0,4.0
+7,8,"Niemann, Hans Moke",2093596,2733,1.0,"Erdogmus, Yagiz Kaan",44599790,2646,0,26,W,4.0,5.0
+8,2,"Niemann, Hans Moke",2093596,2733,0.5,"Firouzja, Alireza",12573981,2754,1,30,B,5.0,5.5
+9,5,"Niemann, Hans Moke",2093596,2733,0.5,"Mishra, Abhimanyu",30920019,2611,1,104,W,5.5,6.0
+10,6,"Niemann, Hans Moke",2093596,2733,1.0,"Praggnanandhaa, R",25059530,2785,0,38,W,6.0,7.0
+11,2,"Niemann, Hans Moke",2093596,2733,0.0,"Giri, Anish",24116068,2746,0,46,B,7.0,7.0
+1,24,"Shirov, Alexei",2209390,2616,0.5,"Dubov, Daniil",24126055,2691,1,19,B,0.0,0.5
+2,22,"Shirov, Alexei",2209390,2616,0.5,"Sevian, Samuel",2040506,2692,1,34,W,0.5,1.0
+3,30,"Shirov, Alexei",2209390,2616,0.5,"Shankland, Sam",2004887,2670,1,60,B,1.0,1.5
+4,34,"Shirov, Alexei",2209390,2616,0.5,"Gelfand, Boris",2805677,2652,1,31,W,1.5,2.0
+5,26,"Shirov, Alexei",2209390,2616,1.0,"Eljanov, Pavel",14102951,2682,0,60,W,2.0,3.0
+6,13,"Shirov, Alexei",2209390,2616,0.5,"Nepomniachtchi, Ian",4168119,2742,1,40,B,3.0,3.5
+7,18,"Shirov, Alexei",2209390,2616,0.5,"Esipenko, Andrey",24175439,2687,1,14,W,3.5,4.0
+8,19,"Shirov, Alexei",2209390,2616,0.5,"Tabatabaei, M. Amin",12521213,2673,1,36,B,4.0,4.5
+9,21,"Shirov, Alexei",2209390,2616,1.0,"Bjerre, Jonas Buhl",1444948,2651,0,47,W,4.5,5.5
+10,14,"Shirov, Alexei",2209390,2616,0.5,"Murzin, Volodar",44155573,2670,1,50,B,5.5,6.0
+11,14,"Shirov, Alexei",2209390,2616,0.5,"Van Foreest, Jorden",1039784,2692,1,55,W,6.0,6.5
+1,13,"Anton Guijarro, David",2285525,2625,1.0,"Fedoseev, Vladimir",24130737,2731,0,50,W,0.0,1.0
+2,6,"Anton Guijarro, David",2285525,2625,0.0,"Maghsoodloo, Parham",12539929,2692,0,32,B,1.0,1.0
+3,22,"Anton Guijarro, David",2285525,2625,0.5,"Liang, Awonder",2056437,2698,1,31,W,1.0,1.5
+4,25,"Anton Guijarro, David",2285525,2625,0.0,"Van Foreest, Jorden",1039784,2692,0,58,B,1.5,1.5
+5,50,"Anton Guijarro, David",2285525,2625,0.5,"Suyarov, Mukhammadzokhid",14210495,2482,1,69,W,1.5,2.0
+6,49,"Anton Guijarro, David",2285525,2625,0.5,"Jobava, Baadur",13601520,2590,1,77,B,2.0,2.5
+7,40,"Anton Guijarro, David",2285525,2625,1.0,"Eljanov, Pavel",14102951,2682,0,48,W,2.5,3.5
+8,23,"Anton Guijarro, David",2285525,2625,1.0,"Harikrishna, Pentala",5007003,2704,0,32,B,3.5,4.5
+9,18,"Anton Guijarro, David",2285525,2625,0.5,"Esipenko, Andrey",24175439,2687,1,32,W,4.5,5.0
+10,19,"Anton Guijarro, David",2285525,2625,0.0,"Oparin, Grigoriy",24125890,2660,0,49,B,5.0,5.0
+11,28,"Anton Guijarro, David",2285525,2625,0.5,"Wojtaszek, Radoslaw",1118358,2661,1,29,W,5.0,5.5
+1,19,"Santos Latasa, Jaime",2293307,2620,0.5,"Liang, Awonder",2056437,2698,1,34,W,0.0,0.5
+2,23,"Santos Latasa, Jaime",2293307,2620,0.5,"Van Foreest, Jorden",1039784,2692,1,33,B,0.5,1.0
+3,26,"Santos Latasa, Jaime",2293307,2620,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,33,W,1.0,1.5
+4,29,"Santos Latasa, Jaime",2293307,2620,0.0,"Tabatabaei, M. Amin",12521213,2673,0,59,B,1.5,1.5
+5,39,"Santos Latasa, Jaime",2293307,2620,0.5,"Artemiev, Vladislav",24101605,2664,1,32,W,1.5,2.0
+6,39,"Santos Latasa, Jaime",2293307,2620,0.5,"Eljanov, Pavel",14102951,2682,1,60,B,2.0,2.5
+7,43,"Santos Latasa, Jaime",2293307,2620,0.0,"Bjerre, Jonas Buhl",1444948,2651,0,65,W,2.5,2.5
+8,49,"Santos Latasa, Jaime",2293307,2620,0.0,"Karthikeyan, Murali",5074452,2669,0,71,B,2.5,2.5
+9,56,"Santos Latasa, Jaime",2293307,2620,0.5,"Hammer, Jon Ludvig",1503707,2618,1,30,B,2.5,3.0
+10,55,"Santos Latasa, Jaime",2293307,2620,1.0,"Nigmatov, Ortik",14202131,2488,0,74,W,3.0,4.0
+11,51,"Santos Latasa, Jaime",2293307,2620,0.0,"Daneshvar, Bardiya",12576468,2598,0,66,B,4.0,4.0
+1,44,"Gelfand, Boris",2805677,2652,1.0,"Jobava, Baadur",13601520,2590,0,23,W,0.0,1.0
+2,8,"Gelfand, Boris",2805677,2652,0.5,"Suleymanli, Aydin",13413937,2602,1,36,B,1.0,1.5
+3,3,"Gelfand, Boris",2805677,2652,0.0,"Praggnanandhaa, R",25059530,2785,0,65,W,1.5,1.5
+4,34,"Gelfand, Boris",2805677,2652,0.5,"Shirov, Alexei",2209390,2616,1,31,B,1.5,2.0
+5,30,"Gelfand, Boris",2805677,2652,0.5,"Henriquez Villagra, Cristobal",3409350,2594,1,30,W,2.0,2.5
+6,33,"Gelfand, Boris",2805677,2652,0.5,"Aditya, Mittal",35042025,2589,1,31,B,2.5,3.0
+7,32,"Gelfand, Boris",2805677,2652,0.5,"Narayanan, S",5058422,2591,1,30,W,3.0,3.5
+8,31,"Gelfand, Boris",2805677,2652,0.0,"Demchenko, Anton",4160258,2620,0,41,B,3.5,3.5
+9,41,"Gelfand, Boris",2805677,2652,0.0,"Goryachkina, Aleksandra",4147103,2528,0,41,W,3.5,3.5
+10,48,"Gelfand, Boris",2805677,2652,0.5,"Xu, Xiangyu",8608288,2615,1,41,B,3.5,4.0
+11,45,"Gelfand, Boris",2805677,2652,0.5,"Matlakov, Maxim",4168003,2609,1,31,B,4.0,4.5
+1,54,"Rodshtein, Maxim",2806851,2645,1.0,"Abdisalimov, Abdimalik",14206323,2488,0,66,W,0.0,1.0
+2,2,"Rodshtein, Maxim",2806851,2645,0.0,"Firouzja, Alireza",12573981,2754,0,51,W,1.0,1.0
+3,39,"Rodshtein, Maxim",2806851,2645,1.0,"Zemlyanskii, Ivan",24249971,2586,0,46,B,1.0,2.0
+4,20,"Rodshtein, Maxim",2806851,2645,0.5,"Woodward, Andy",30953499,2557,1,18,B,2.0,2.5
+5,15,"Rodshtein, Maxim",2806851,2645,1.0,"Liang, Awonder",2056437,2698,0,62,W,2.5,3.5
+6,5,"Rodshtein, Maxim",2806851,2645,0.5,"Abdusattorov, Nodirbek",14204118,2748,1,38,W,3.5,4.0
+7,11,"Rodshtein, Maxim",2806851,2645,0.0,"Praggnanandhaa, R",25059530,2785,0,42,B,4.0,4.0
+8,12,"Rodshtein, Maxim",2806851,2645,0.0,"Vachier-Lagrave, Maxime",623539,2738,0,41,W,4.0,4.0
+9,31,"Rodshtein, Maxim",2806851,2645,0.5,"Henriquez Villagra, Cristobal",3409350,2594,1,34,B,4.0,4.5
+10,33,"Rodshtein, Maxim",2806851,2645,1.0,"Kuzubov, Yuriy",14112906,2600,0,45,B,4.5,5.5
+11,16,"Rodshtein, Maxim",2806851,2645,0.0,"Harikrishna, Pentala",5007003,2704,0,28,W,5.5,5.5
+1,10,"Cheparinov, Ivan",2905540,2627,0.5,"Mamedyarov, Shakhriyar",13401319,2741,1,25,B,0.0,0.5
+2,16,"Cheparinov, Ivan",2905540,2627,0.5,"Niemann, Hans Moke",2093596,2733,1,31,W,0.5,1.0
+3,21,"Cheparinov, Ivan",2905540,2627,1.0,"Sindarov, Javokhir",14205483,2722,0,60,B,1.0,2.0
+4,6,"Cheparinov, Ivan",2905540,2627,0.5,"Giri, Anish",24116068,2746,1,32,W,2.0,2.5
+5,14,"Cheparinov, Ivan",2905540,2627,0.5,"Vidit, Santosh Gujrathi",5029465,2712,1,34,B,2.5,3.0
+6,18,"Cheparinov, Ivan",2905540,2627,0.5,"Sevian, Samuel",2040506,2692,1,40,W,3.0,3.5
+7,15,"Cheparinov, Ivan",2905540,2627,0.0,"Rapport, Richard",738590,2711,0,52,B,3.5,3.5
+8,38,"Cheparinov, Ivan",2905540,2627,0.5,"Zemlyanskii, Ivan",24249971,2586,1,82,W,3.5,4.0
+9,36,"Cheparinov, Ivan",2905540,2627,0.5,"Narayanan, S",5058422,2591,1,30,B,4.0,4.5
+10,24,"Cheparinov, Ivan",2905540,2627,0.0,"Harikrishna, Pentala",5007003,2704,0,46,W,4.5,4.5
+11,57,"Cheparinov, Ivan",2905540,2627,0.5,"Divya, Deshmukh",35006916,2478,1,48,B,4.5,5.0
+1,39,"Henriquez Villagra, Cristobal",3409350,2594,0.5,"Oparin, Grigoriy",24125890,2660,1,30,W,0.0,0.5
+2,39,"Henriquez Villagra, Cristobal",3409350,2594,1.0,"Grischuk, Alexander",4126025,2657,0,44,B,0.5,1.5
+3,14,"Henriquez Villagra, Cristobal",3409350,2594,0.5,"Esipenko, Andrey",24175439,2687,1,30,W,1.5,2.0
+4,17,"Henriquez Villagra, Cristobal",3409350,2594,0.0,"Bluebaum, Matthias",24651516,2671,0,44,W,2.0,2.0
+5,30,"Henriquez Villagra, Cristobal",3409350,2594,0.5,"Gelfand, Boris",2805677,2652,1,30,B,2.0,2.5
+6,34,"Henriquez Villagra, Cristobal",3409350,2594,1.0,"Bjerre, Jonas Buhl",1444948,2651,0,83,B,2.5,3.5
+7,19,"Henriquez Villagra, Cristobal",3409350,2594,0.5,"Vitiugov, Nikita",4152956,2666,1,79,W,3.5,4.0
+8,22,"Henriquez Villagra, Cristobal",3409350,2594,0.0,"Fedoseev, Vladimir",24130737,2731,0,33,B,4.0,4.0
+9,31,"Henriquez Villagra, Cristobal",3409350,2594,0.5,"Rodshtein, Maxim",2806851,2645,1,34,W,4.0,4.5
+10,32,"Henriquez Villagra, Cristobal",3409350,2594,0.0,"Lu, Shanglei",8603332,2647,0,65,B,4.5,4.5
+11,38,"Henriquez Villagra, Cristobal",3409350,2594,1.0,"Artemiev, Vladislav",24101605,2664,0,56,W,4.5,5.5
+1,2,"Chigaev, Maksim",4108116,2638,0.5,"Erigaisi, Arjun",35009192,2771,1,54,B,0.0,0.5
+2,12,"Chigaev, Maksim",4108116,2638,0.5,"Aronian, Levon",13300474,2744,1,30,W,0.5,1.0
+3,41,"Chigaev, Maksim",4108116,2638,0.5,"Samunenkov, Ihor",14187086,2550,1,36,B,1.0,1.5
+4,24,"Chigaev, Maksim",4108116,2638,0.0,"Sevian, Samuel",2040506,2692,0,29,W,1.5,1.5
+5,44,"Chigaev, Maksim",4108116,2638,0.5,"Najer, Evgeniy",4118987,2613,1,40,B,1.5,2.0
+6,46,"Chigaev, Maksim",4108116,2638,1.0,"Madaminov, Mukhiddin",14210703,2560,0,69,W,2.0,3.0
+7,38,"Chigaev, Maksim",4108116,2638,1.0,"Nigmatov, Ortik",14202131,2488,0,50,B,3.0,4.0
+8,16,"Chigaev, Maksim",4108116,2638,0.5,"Dubov, Daniil",24126055,2691,1,30,W,4.0,4.5
+9,16,"Chigaev, Maksim",4108116,2638,0.0,"Sindarov, Javokhir",14205483,2722,0,54,B,4.5,4.5
+10,35,"Chigaev, Maksim",4108116,2638,0.0,"Narayanan, S",5058422,2591,0,40,W,4.5,4.5
+11,42,"Chigaev, Maksim",4108116,2638,0.0,"Zemlyanskii, Ivan",24249971,2586,0,0,B,4.5,4.5
+1,27,"Najer, Evgeniy",4118987,2613,0.5,"Eljanov, Pavel",14102951,2682,1,54,W,0.0,0.5
+2,29,"Najer, Evgeniy",4118987,2613,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,50,B,0.5,1.0
+3,29,"Najer, Evgeniy",4118987,2613,0.5,"Murzin, Volodar",44155573,2670,1,31,W,1.0,1.5
+4,32,"Najer, Evgeniy",4118987,2613,0.0,"Oparin, Grigoriy",24125890,2660,0,70,B,1.5,1.5
+5,44,"Najer, Evgeniy",4118987,2613,0.5,"Chigaev, Maksim",4108116,2638,1,40,W,1.5,2.0
+6,43,"Najer, Evgeniy",4118987,2613,1.0,"Indjic, Aleksandar",911925,2650,0,41,B,2.0,3.0
+7,31,"Najer, Evgeniy",4118987,2613,0.5,"Grischuk, Alexander",4126025,2657,1,60,W,3.0,3.5
+8,32,"Najer, Evgeniy",4118987,2613,0.0,"Bjerre, Jonas Buhl",1444948,2651,0,34,B,3.5,3.5
+9,40,"Najer, Evgeniy",4118987,2613,0.5,"Karthikeyan, Murali",5074452,2669,1,49,W,3.5,4.0
+10,40,"Najer, Evgeniy",4118987,2613,0.0,"Wojtaszek, Radoslaw",1118358,2661,0,83,B,4.0,4.0
+11,47,"Najer, Evgeniy",4118987,2613,0.5,"Bacrot, Etienne",605506,2637,1,53,W,4.0,4.5
+1,41,"Grischuk, Alexander",4126025,2657,0.5,"Narayanan, S",5058422,2591,1,30,B,0.0,0.5
+2,39,"Grischuk, Alexander",4126025,2657,0.0,"Henriquez Villagra, Cristobal",3409350,2594,0,44,W,0.5,0.5
+3,47,"Grischuk, Alexander",4126025,2657,0.5,"Korobov, Anton",14105730,2616,1,31,B,0.5,1.0
+4,45,"Grischuk, Alexander",4126025,2657,0.5,"Daneshvar, Bardiya",12576468,2598,1,36,W,1.0,1.5
+5,41,"Grischuk, Alexander",4126025,2657,0.5,"Aryan, Chopra",5084423,2619,1,125,B,1.5,2.0
+6,42,"Grischuk, Alexander",4126025,2657,1.0,"Xu, Xiangyu",8608288,2615,0,47,W,2.0,3.0
+7,31,"Grischuk, Alexander",4126025,2657,0.5,"Najer, Evgeniy",4118987,2613,1,60,B,3.0,3.5
+8,30,"Grischuk, Alexander",4126025,2657,0.5,"Lagarde, Maxime",662399,2609,1,53,W,3.5,4.0
+9,28,"Grischuk, Alexander",4126025,2657,0.5,"Suleymanli, Aydin",13413937,2602,1,31,B,4.0,4.5
+10,29,"Grischuk, Alexander",4126025,2657,0.5,"Ponomariov, Ruslan",14103320,2622,1,47,W,4.5,5.0
+11,29,"Grischuk, Alexander",4126025,2657,1.0,"Mendonca, Leon Luke",35028561,2615,0,90,B,5.0,6.0
+1,52,"Goryachkina, Aleksandra",4147103,2528,0.0,"Erdogmus, Yagiz Kaan",44599790,2646,0,47,B,0.0,0.0
+2,54,"Goryachkina, Aleksandra",4147103,2528,0.5,"Bacrot, Etienne",605506,2637,1,31,W,0.0,0.5
+3,54,"Goryachkina, Aleksandra",4147103,2528,0.5,"Gurel, Ediz",44507356,2631,1,95,B,0.5,1.0
+4,50,"Goryachkina, Aleksandra",4147103,2528,1.0,"Kollars, Dmitrij",12909572,2647,0,45,W,1.0,2.0
+5,37,"Goryachkina, Aleksandra",4147103,2528,0.0,"Sindarov, Javokhir",14205483,2722,0,43,B,2.0,2.0
+6,48,"Goryachkina, Aleksandra",4147103,2528,0.0,"Sjugirov, Sanan",4189302,2627,0,60,W,2.0,2.0
+7,54,"Goryachkina, Aleksandra",4147103,2528,0.5,"Svane, Rasmus",4657101,2620,1,31,B,2.0,2.5
+8,52,"Goryachkina, Aleksandra",4147103,2528,1.0,"Yuffa, Daniil",24131423,2648,0,62,W,2.5,3.5
+9,41,"Goryachkina, Aleksandra",4147103,2528,1.0,"Gelfand, Boris",2805677,2652,0,41,B,3.5,4.5
+10,25,"Goryachkina, Aleksandra",4147103,2528,0.5,"Robson, Ray",2023970,2674,1,37,W,4.5,5.0
+11,33,"Goryachkina, Aleksandra",4147103,2528,0.0,"Xiong, Jeffery",2047640,2640,0,52,B,5.0,5.0
+1,36,"Vitiugov, Nikita",4152956,2666,0.5,"Kuzubov, Yuriy",14112906,2600,1,31,W,0.0,0.5
+2,34,"Vitiugov, Nikita",4152956,2666,0.5,"Pranav, V",25060783,2596,1,40,B,0.5,1.0
+3,31,"Vitiugov, Nikita",4152956,2666,1.0,"Warmerdam, Max",1048104,2591,0,41,W,1.0,2.0
+4,18,"Vitiugov, Nikita",4152956,2666,1.0,"Moussard, Jules",642908,2591,0,52,B,2.0,3.0
+5,3,"Vitiugov, Nikita",4152956,2666,0.0,"Erigaisi, Arjun",35009192,2771,0,37,B,3.0,3.0
+6,12,"Vitiugov, Nikita",4152956,2666,0.5,"Aronian, Levon",13300474,2744,1,13,W,3.0,3.5
+7,19,"Vitiugov, Nikita",4152956,2666,0.5,"Henriquez Villagra, Cristobal",3409350,2594,1,79,B,3.5,4.0
+8,20,"Vitiugov, Nikita",4152956,2666,0.0,"Maurizzi, Marcandria",36083534,2610,0,52,W,4.0,4.0
+9,25,"Vitiugov, Nikita",4152956,2666,0.5,"Ponomariov, Ruslan",14103320,2622,1,30,B,4.0,4.5
+10,26,"Vitiugov, Nikita",4152956,2666,0.5,"Mendonca, Leon Luke",35028561,2615,1,35,W,4.5,5.0
+11,27,"Vitiugov, Nikita",4152956,2666,0.5,"Sjugirov, Sanan",4189302,2627,1,56,B,5.0,5.5
+1,18,"Demchenko, Anton",4160258,2620,1.0,"Harikrishna, Pentala",5007003,2704,0,42,B,0.0,1.0
+2,7,"Demchenko, Anton",4160258,2620,1.0,"Shankland, Sam",2004887,2670,0,52,W,1.0,2.0
+3,2,"Demchenko, Anton",4160258,2620,0.0,"Erigaisi, Arjun",35009192,2771,0,65,B,2.0,2.0
+4,9,"Demchenko, Anton",4160258,2620,0.5,"Mamedyarov, Shakhriyar",13401319,2741,1,36,W,2.0,2.5
+5,13,"Demchenko, Anton",4160258,2620,0.5,"Niemann, Hans Moke",2093596,2733,1,62,B,2.5,3.0
+6,16,"Demchenko, Anton",4160258,2620,0.0,"Vidit, Santosh Gujrathi",5029465,2712,0,54,W,3.0,3.0
+7,26,"Demchenko, Anton",4160258,2620,0.5,"Robson, Ray",2023970,2674,1,78,B,3.0,3.5
+8,31,"Demchenko, Anton",4160258,2620,1.0,"Gelfand, Boris",2805677,2652,0,41,W,3.5,4.5
+9,19,"Demchenko, Anton",4160258,2620,0.0,"Yakubboev, Nodirbek",14203987,2681,0,23,B,4.5,4.5
+10,28,"Demchenko, Anton",4160258,2620,0.0,"Sadhwani, Raunak",35093487,2658,0,55,W,4.5,4.5
+11,36,"Demchenko, Anton",4160258,2620,0.5,"Aronian, Levon",13300474,2744,1,33,W,4.5,5.0
+1,31,"Matlakov, Maxim",4168003,2609,0.5,"Tabatabaei, M. Amin",12521213,2673,1,30,W,0.0,0.5
+2,33,"Matlakov, Maxim",4168003,2609,0.5,"Murzin, Volodar",44155573,2670,1,49,B,0.5,1.0
+3,34,"Matlakov, Maxim",4168003,2609,0.5,"Sargsyan, Shant",13306766,2653,1,30,W,1.0,1.5
+4,28,"Matlakov, Maxim",4168003,2609,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,30,B,1.5,2.0
+5,31,"Matlakov, Maxim",4168003,2609,0.5,"Bjerre, Jonas Buhl",1444948,2651,1,32,W,2.0,2.5
+6,30,"Matlakov, Maxim",4168003,2609,0.5,"Oparin, Grigoriy",24125890,2660,1,23,B,2.5,3.0
+7,34,"Matlakov, Maxim",4168003,2609,0.5,"Lu, Shanglei",8603332,2647,1,33,W,3.0,3.5
+8,33,"Matlakov, Maxim",4168003,2609,0.0,"Mamedov, Rauf",13401653,2651,0,33,W,3.5,3.5
+9,43,"Matlakov, Maxim",4168003,2609,0.0,"Kollars, Dmitrij",12909572,2647,0,77,B,3.5,3.5
+10,49,"Matlakov, Maxim",4168003,2609,0.5,"Bacrot, Etienne",605506,2637,1,31,B,3.5,4.0
+11,45,"Matlakov, Maxim",4168003,2609,0.5,"Gelfand, Boris",2805677,2652,1,31,W,4.0,4.5
+1,9,"Nepomniachtchi, Ian",4168119,2742,0.5,"Volokitin, Andrei",14107090,2628,1,37,B,0.0,0.5
+2,13,"Nepomniachtchi, Ian",4168119,2742,1.0,"Gurel, Ediz",44507356,2631,0,58,W,0.5,1.5
+3,8,"Nepomniachtchi, Ian",4168119,2742,0.5,"Salem, A.R. Saleh",9301348,2640,1,32,B,1.5,2.0
+4,8,"Nepomniachtchi, Ian",4168119,2742,0.5,"Hovhannisyan, Robert",13302507,2629,1,39,W,2.0,2.5
+5,11,"Nepomniachtchi, Ian",4168119,2742,0.5,"Theodorou, Nikolas",4262875,2646,1,51,B,2.5,3.0
+6,13,"Nepomniachtchi, Ian",4168119,2742,0.5,"Shirov, Alexei",2209390,2616,1,40,W,3.0,3.5
+7,13,"Nepomniachtchi, Ian",4168119,2742,1.0,"Mamedov, Rauf",13401653,2651,0,45,B,3.5,4.5
+8,8,"Nepomniachtchi, Ian",4168119,2742,0.5,"Pranav, V",25060783,2596,1,32,W,4.5,5.0
+9,8,"Nepomniachtchi, Ian",4168119,2742,0.5,"Saric, Ivan",14508150,2655,1,70,B,5.0,5.5
+10,7,"Nepomniachtchi, Ian",4168119,2742,0.5,"Yakubboev, Nodirbek",14203987,2681,1,120,W,5.5,6.0
+11,8,"Nepomniachtchi, Ian",4168119,2742,0.0,"Esipenko, Andrey",24175439,2687,0,40,B,6.0,6.0
+1,11,"Sjugirov, Sanan",4189302,2627,0.5,"Vachier-Lagrave, Maxime",623539,2738,1,78,W,0.0,0.5
+2,18,"Sjugirov, Sanan",4189302,2627,0.0,"Yu, Yangyi",8603820,2714,0,80,B,0.5,0.5
+3,44,"Sjugirov, Sanan",4189302,2627,0.0,"Eljanov, Pavel",14102951,2682,0,41,W,0.5,0.5
+4,58,"Sjugirov, Sanan",4189302,2627,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,50,B,0.5,1.5
+5,48,"Sjugirov, Sanan",4189302,2627,0.5,"Jobava, Baadur",13601520,2590,1,40,W,1.5,2.0
+6,48,"Sjugirov, Sanan",4189302,2627,1.0,"Goryachkina, Aleksandra",4147103,2528,0,60,B,2.0,3.0
+7,24,"Sjugirov, Sanan",4189302,2627,0.5,"Harikrishna, Pentala",5007003,2704,1,92,W,3.0,3.5
+8,24,"Sjugirov, Sanan",4189302,2627,0.5,"Robson, Ray",2023970,2674,1,79,W,3.5,4.0
+9,57,"Sjugirov, Sanan",4189302,2627,1.0,"Divya, Deshmukh",35006916,2478,0,60,B,4.0,5.0
+10,18,"Sjugirov, Sanan",4189302,2627,0.0,"Esipenko, Andrey",24175439,2687,0,50,B,5.0,5.0
+11,27,"Sjugirov, Sanan",4189302,2627,0.5,"Vitiugov, Nikita",4152956,2666,1,56,W,5.0,5.5
+1,53,"Theodorou, Nikolas",4262875,2646,0.5,"Vakhidov, Jakhongir",14201801,2521,1,42,B,0.0,0.5
+2,48,"Theodorou, Nikolas",4262875,2646,0.5,"Samunenkov, Ihor",14187086,2550,1,37,W,0.5,1.0
+3,38,"Theodorou, Nikolas",4262875,2646,0.5,"Narayanan, S",5058422,2591,1,32,B,1.0,1.5
+4,37,"Theodorou, Nikolas",4262875,2646,1.0,"Nigmatov, Ortik",14202131,2488,0,70,W,1.5,2.5
+5,11,"Theodorou, Nikolas",4262875,2646,0.5,"Nepomniachtchi, Ian",4168119,2742,1,51,W,2.5,3.0
+6,10,"Theodorou, Nikolas",4262875,2646,1.0,"Gukesh, D",46616543,2767,0,47,B,3.0,4.0
+7,5,"Theodorou, Nikolas",4262875,2646,0.5,"Keymer, Vincent",12940690,2751,1,31,W,4.0,4.5
+8,10,"Theodorou, Nikolas",4262875,2646,0.5,"Yu, Yangyi",8603820,2714,1,105,B,4.5,5.0
+9,12,"Theodorou, Nikolas",4262875,2646,0.5,"Rapport, Richard",738590,2711,1,60,W,5.0,5.5
+10,12,"Theodorou, Nikolas",4262875,2646,0.0,"Liang, Awonder",2056437,2698,0,43,B,5.5,5.5
+11,15,"Theodorou, Nikolas",4262875,2646,0.5,"Praggnanandhaa, R",25059530,2785,1,33,W,5.5,6.0
+1,20,"Svane, Rasmus",4657101,2620,0.5,"Nihal, Sarin",25092340,2693,1,31,B,0.0,0.5
+2,17,"Svane, Rasmus",4657101,2620,0.5,"Sindarov, Javokhir",14205483,2722,1,32,W,0.5,1.0
+3,19,"Svane, Rasmus",4657101,2620,0.0,"Niemann, Hans Moke",2093596,2733,0,75,B,1.0,1.0
+4,43,"Svane, Rasmus",4657101,2620,0.5,"Wojtaszek, Radoslaw",1118358,2661,1,30,W,1.0,1.5
+5,42,"Svane, Rasmus",4657101,2620,0.0,"Saric, Ivan",14508150,2655,0,40,B,1.5,1.5
+6,51,"Svane, Rasmus",4657101,2620,0.5,"Sarana, Alexey",24133795,2686,1,31,B,1.5,2.0
+7,54,"Svane, Rasmus",4657101,2620,0.5,"Goryachkina, Aleksandra",4147103,2528,1,31,W,2.0,2.5
+8,47,"Svane, Rasmus",4657101,2620,0.5,"Eljanov, Pavel",14102951,2682,1,37,B,2.5,3.0
+9,48,"Svane, Rasmus",4657101,2620,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,36,W,3.0,3.5
+10,51,"Svane, Rasmus",4657101,2620,0.5,"Madaminov, Mukhiddin",14210703,2560,1,37,B,3.5,4.0
+11,52,"Svane, Rasmus",4657101,2620,0.0,"Abdisalimov, Abdimalik",14206323,2488,0,68,W,4.0,4.0
+1,18,"Harikrishna, Pentala",5007003,2704,0.0,"Demchenko, Anton",4160258,2620,0,42,W,0.0,0.0
+2,51,"Harikrishna, Pentala",5007003,2704,0.5,"Wagner, Dennis",24650684,2608,1,30,B,0.0,0.5
+3,42,"Harikrishna, Pentala",5007003,2704,1.0,"Vakhidov, Jakhongir",14201801,2521,0,61,B,0.5,1.5
+4,22,"Harikrishna, Pentala",5007003,2704,0.5,"Xiong, Jeffery",2047640,2640,1,45,W,1.5,2.0
+5,24,"Harikrishna, Pentala",5007003,2704,0.5,"Volokitin, Andrei",14107090,2628,1,31,B,2.0,2.5
+6,23,"Harikrishna, Pentala",5007003,2704,0.5,"Gurel, Ediz",44507356,2631,1,33,W,2.5,3.0
+7,24,"Harikrishna, Pentala",5007003,2704,0.5,"Sjugirov, Sanan",4189302,2627,1,92,B,3.0,3.5
+8,23,"Harikrishna, Pentala",5007003,2704,0.0,"Anton Guijarro, David",2285525,2625,0,32,W,3.5,3.5
+9,37,"Harikrishna, Pentala",5007003,2704,1.0,"Abdisalimov, Abdimalik",14206323,2488,0,26,W,3.5,4.5
+10,24,"Harikrishna, Pentala",5007003,2704,1.0,"Cheparinov, Ivan",2905540,2627,0,46,B,4.5,5.5
+11,16,"Harikrishna, Pentala",5007003,2704,1.0,"Rodshtein, Maxim",2806851,2645,0,28,B,5.5,6.5
+1,16,"Vidit, Santosh Gujrathi",5029465,2712,1.0,"Donchenko, Alexander",24603295,2624,0,37,W,0.0,1.0
+2,5,"Vidit, Santosh Gujrathi",5029465,2712,0.5,"Puranik, Abhimanyu",5061245,2640,1,38,B,1.0,1.5
+3,11,"Vidit, Santosh Gujrathi",5029465,2712,0.5,"Predke, Alexandr",24107581,2609,1,30,W,1.5,2.0
+4,12,"Vidit, Santosh Gujrathi",5029465,2712,0.5,"Ivanchuk, Vasyl",14100010,2608,1,68,B,2.0,2.5
+5,14,"Vidit, Santosh Gujrathi",5029465,2712,0.5,"Cheparinov, Ivan",2905540,2627,1,34,W,2.5,3.0
+6,16,"Vidit, Santosh Gujrathi",5029465,2712,1.0,"Demchenko, Anton",4160258,2620,0,54,B,3.0,4.0
+7,9,"Vidit, Santosh Gujrathi",5029465,2712,1.0,"Maurizzi, Marcandria",36083534,2610,0,49,W,4.0,5.0
+8,5,"Vidit, Santosh Gujrathi",5029465,2712,0.0,"Keymer, Vincent",12940690,2751,0,63,B,5.0,5.0
+9,11,"Vidit, Santosh Gujrathi",5029465,2712,0.5,"Sargsyan, Shant",13306766,2653,1,98,W,5.0,5.5
+10,10,"Vidit, Santosh Gujrathi",5029465,2712,1.0,"Saric, Ivan",14508150,2655,0,58,B,5.5,6.5
+11,7,"Vidit, Santosh Gujrathi",5029465,2712,0.5,"Mishra, Abhimanyu",30920019,2611,1,31,W,6.5,7.0
+1,41,"Narayanan, S",5058422,2591,0.5,"Grischuk, Alexander",4126025,2657,1,30,W,0.0,0.5
+2,41,"Narayanan, S",5058422,2591,0.5,"Sargsyan, Shant",13306766,2653,1,23,B,0.5,1.0
+3,38,"Narayanan, S",5058422,2591,0.5,"Theodorou, Nikolas",4262875,2646,1,32,W,1.0,1.5
+4,30,"Narayanan, S",5058422,2591,0.5,"Murzin, Volodar",44155573,2670,1,24,B,1.5,2.0
+5,35,"Narayanan, S",5058422,2591,0.5,"Lu, Shanglei",8603332,2647,1,30,W,2.0,2.5
+6,35,"Narayanan, S",5058422,2591,0.5,"Grandelius, Nils",1710400,2648,1,30,W,2.5,3.0
+7,32,"Narayanan, S",5058422,2591,0.5,"Gelfand, Boris",2805677,2652,1,30,B,3.0,3.5
+8,36,"Narayanan, S",5058422,2591,0.5,"Vokhidov, Shamsiddin",14204223,2645,1,47,B,3.5,4.0
+9,36,"Narayanan, S",5058422,2591,0.5,"Cheparinov, Ivan",2905540,2627,1,30,W,4.0,4.5
+10,35,"Narayanan, S",5058422,2591,1.0,"Chigaev, Maksim",4108116,2638,0,40,B,4.5,5.5
+11,24,"Narayanan, S",5058422,2591,0.5,"Erdogmus, Yagiz Kaan",44599790,2646,1,30,W,5.5,6.0
+1,57,"Puranik, Abhimanyu",5061245,2640,1.0,"Divya, Deshmukh",35006916,2478,0,51,B,0.0,1.0
+2,5,"Puranik, Abhimanyu",5061245,2640,0.5,"Vidit, Santosh Gujrathi",5029465,2712,1,38,W,1.0,1.5
+3,6,"Puranik, Abhimanyu",5061245,2640,0.0,"Abdusattorov, Nodirbek",14204118,2748,0,82,B,1.5,1.5
+4,21,"Puranik, Abhimanyu",5061245,2640,0.5,"Yu, Yangyi",8603820,2714,1,41,B,1.5,2.0
+5,22,"Puranik, Abhimanyu",5061245,2640,1.0,"Fedoseev, Vladimir",24130737,2731,0,49,W,2.0,3.0
+6,17,"Puranik, Abhimanyu",5061245,2640,0.5,"Rapport, Richard",738590,2711,1,46,W,3.0,3.5
+7,12,"Puranik, Abhimanyu",5061245,2640,0.5,"Aronian, Levon",13300474,2744,1,68,B,3.5,4.0
+8,13,"Puranik, Abhimanyu",5061245,2640,0.5,"Sindarov, Javokhir",14205483,2722,1,51,W,4.0,4.5
+9,14,"Puranik, Abhimanyu",5061245,2640,0.0,"Mamedyarov, Shakhriyar",13401319,2741,0,35,B,4.5,4.5
+10,34,"Puranik, Abhimanyu",5061245,2640,0.5,"Suleymanli, Aydin",13413937,2602,1,60,W,4.5,5.0
+11,32,"Puranik, Abhimanyu",5061245,2640,0.0,"Samunenkov, Ihor",14187086,2550,0,43,B,5.0,5.0
+1,35,"Karthikeyan, Murali",5074452,2669,0.0,"Suleymanli, Aydin",13413937,2602,0,40,B,0.0,0.0
+2,52,"Karthikeyan, Murali",5074452,2669,0.0,"Aryan, Chopra",5084423,2619,0,35,W,0.0,0.0
+3,57,"Karthikeyan, Murali",5074452,2669,0.5,"Divya, Deshmukh",35006916,2478,1,101,B,0.0,0.5
+4,55,"Karthikeyan, Murali",5074452,2669,0.5,"Xu, Xiangyu",8608288,2615,1,57,W,0.5,1.0
+5,52,"Karthikeyan, Murali",5074452,2669,0.0,"Korobov, Anton",14105730,2616,0,31,B,1.0,1.0
+6,55,"Karthikeyan, Murali",5074452,2669,0.5,"Abdisalimov, Abdimalik",14206323,2488,1,31,W,1.0,1.5
+7,55,"Karthikeyan, Murali",5074452,2669,1.0,"Hammer, Jon Ludvig",1503707,2618,0,77,B,1.5,2.5
+8,49,"Karthikeyan, Murali",5074452,2669,1.0,"Santos Latasa, Jaime",2293307,2620,0,71,W,2.5,3.5
+9,40,"Karthikeyan, Murali",5074452,2669,0.5,"Najer, Evgeniy",4118987,2613,1,49,B,3.5,4.0
+10,39,"Karthikeyan, Murali",5074452,2669,0.5,"Zemlyanskii, Ivan",24249971,2586,1,59,W,4.0,4.5
+11,37,"Karthikeyan, Murali",5074452,2669,0.0,"Donchenko, Alexander",24603295,2624,0,50,B,4.5,4.5
+1,21,"Aryan, Chopra",5084423,2619,0.0,"Maghsoodloo, Parham",12539929,2692,0,65,W,0.0,0.0
+2,52,"Aryan, Chopra",5084423,2619,1.0,"Karthikeyan, Murali",5074452,2669,0,35,B,0.0,1.0
+3,27,"Aryan, Chopra",5084423,2619,0.5,"Tabatabaei, M. Amin",12521213,2673,1,41,W,1.0,1.5
+4,23,"Aryan, Chopra",5084423,2619,0.0,"Liang, Awonder",2056437,2698,0,54,B,1.5,1.5
+5,41,"Aryan, Chopra",5084423,2619,0.5,"Grischuk, Alexander",4126025,2657,1,125,W,1.5,2.0
+6,40,"Aryan, Chopra",5084423,2619,0.5,"Artemiev, Vladislav",24101605,2664,1,42,B,2.0,2.5
+7,46,"Aryan, Chopra",5084423,2619,0.5,"Amin, Bassem",10601457,2636,1,44,W,2.5,3.0
+8,41,"Aryan, Chopra",5084423,2619,0.5,"Bacrot, Etienne",605506,2637,1,31,B,3.0,3.5
+9,42,"Aryan, Chopra",5084423,2619,0.5,"Indjic, Aleksandar",911925,2650,1,103,W,3.5,4.0
+10,38,"Aryan, Chopra",5084423,2619,0.5,"Shankland, Sam",2004887,2670,1,33,B,4.0,4.5
+11,39,"Aryan, Chopra",5084423,2619,1.0,"Bjerre, Jonas Buhl",1444948,2651,0,48,W,4.5,5.5
+1,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Salem, A.R. Saleh",9301348,2640,0,29,B,0.0,0.0
+2,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Hovhannisyan, Robert",13302507,2629,0,32,W,0.0,0.0
+3,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.5,"Abdisalimov, Abdimalik",14206323,2488,1,47,B,0.0,0.5
+4,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Sjugirov, Sanan",4189302,2627,0,50,W,0.5,0.5
+5,56,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Xu, Xiangyu",8608288,2615,0,29,B,0.5,0.5
+6,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Wagner, Dennis",24650684,2608,0,43,B,0.5,0.5
+7,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Vakhidov, Jakhongir",14201801,2521,0,25,W,0.5,0.5
+8,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Muradli, Mahammad",13409301,2590,0,58,B,0.5,0.5
+9,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Madaminov, Mukhiddin",14210703,2560,0,52,W,0.5,0.5
+10,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.0,"Hammer, Jon Ludvig",1503707,2618,0,21,B,0.5,0.5
+11,58,"Olisa, Tennyson Ewomazino",8511390,2287,0.5,"Jobava, Baadur",13601520,2590,1,17,W,0.5,1.0
+1,51,"Lu, Shanglei",8603332,2647,0.5,"Samunenkov, Ihor",14187086,2550,1,34,B,0.0,0.5
+2,47,"Lu, Shanglei",8603332,2647,0.5,"Madaminov, Mukhiddin",14210703,2560,1,59,W,0.5,1.0
+3,37,"Lu, Shanglei",8603332,2647,0.0,"Ivanchuk, Vasyl",14100010,2608,0,50,B,1.0,1.0
+4,51,"Lu, Shanglei",8603332,2647,1.0,"Muradli, Mahammad",13409301,2590,0,61,W,1.0,2.0
+5,35,"Lu, Shanglei",8603332,2647,0.5,"Narayanan, S",5058422,2591,1,30,B,2.0,2.5
+6,37,"Lu, Shanglei",8603332,2647,0.5,"Zemlyanskii, Ivan",24249971,2586,1,57,W,2.5,3.0
+7,34,"Lu, Shanglei",8603332,2647,0.5,"Matlakov, Maxim",4168003,2609,1,33,B,3.0,3.5
+8,35,"Lu, Shanglei",8603332,2647,0.5,"Suleymanli, Aydin",13413937,2602,1,59,W,3.5,4.0
+9,30,"Lu, Shanglei",8603332,2647,0.5,"Lagarde, Maxime",662399,2609,1,31,B,4.0,4.5
+10,32,"Lu, Shanglei",8603332,2647,1.0,"Henriquez Villagra, Cristobal",3409350,2594,0,65,W,4.5,5.5
+11,23,"Lu, Shanglei",8603332,2647,0.0,"Pranav, V",25060783,2596,0,54,B,5.5,5.5
+1,15,"Yu, Yangyi",8603820,2714,0.5,"Dardha, Daniel",240990,2624,1,39,B,0.0,0.5
+2,18,"Yu, Yangyi",8603820,2714,1.0,"Sjugirov, Sanan",4189302,2627,0,80,W,0.5,1.5
+3,10,"Yu, Yangyi",8603820,2714,0.0,"Mishra, Abhimanyu",30920019,2611,0,92,B,1.5,1.5
+4,21,"Yu, Yangyi",8603820,2714,0.5,"Puranik, Abhimanyu",5061245,2640,1,41,W,1.5,2.0
+5,23,"Yu, Yangyi",8603820,2714,0.5,"Xiong, Jeffery",2047640,2640,1,23,B,2.0,2.5
+6,21,"Yu, Yangyi",8603820,2714,1.0,"Samunenkov, Ihor",14187086,2550,0,50,W,2.5,3.5
+7,14,"Yu, Yangyi",8603820,2714,1.0,"Mendonca, Leon Luke",35028561,2615,0,48,B,3.5,4.5
+8,10,"Yu, Yangyi",8603820,2714,0.5,"Theodorou, Nikolas",4262875,2646,1,105,W,4.5,5.0
+9,10,"Yu, Yangyi",8603820,2714,1.0,"Maurizzi, Marcandria",36083534,2610,0,65,B,5.0,6.0
+10,3,"Yu, Yangyi",8603820,2714,0.5,"Erigaisi, Arjun",35009192,2771,1,54,W,6.0,6.5
+11,6,"Yu, Yangyi",8603820,2714,0.5,"Woodward, Andy",30953499,2557,1,46,B,6.5,7.0
+1,26,"Xu, Xiangyu",8608288,2615,0.5,"Sarana, Alexey",24133795,2686,1,22,B,0.0,0.5
+2,28,"Xu, Xiangyu",8608288,2615,0.0,"Yakubboev, Nodirbek",14203987,2681,0,29,W,0.5,0.5
+3,50,"Xu, Xiangyu",8608288,2615,0.0,"Mamedov, Rauf",13401653,2651,0,46,B,0.5,0.5
+4,55,"Xu, Xiangyu",8608288,2615,0.5,"Karthikeyan, Murali",5074452,2669,1,57,B,0.5,1.0
+5,56,"Xu, Xiangyu",8608288,2615,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,29,W,1.0,2.0
+6,42,"Xu, Xiangyu",8608288,2615,0.0,"Grischuk, Alexander",4126025,2657,0,47,B,2.0,2.0
+7,49,"Xu, Xiangyu",8608288,2615,0.5,"Wojtaszek, Radoslaw",1118358,2661,1,31,W,2.0,2.5
+8,48,"Xu, Xiangyu",8608288,2615,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,117,B,2.5,3.0
+9,51,"Xu, Xiangyu",8608288,2615,0.5,"Amin, Bassem",10601457,2636,1,75,W,3.0,3.5
+10,48,"Xu, Xiangyu",8608288,2615,0.5,"Gelfand, Boris",2805677,2652,1,41,W,3.5,4.0
+11,46,"Xu, Xiangyu",8608288,2615,0.5,"Salem, A.R. Saleh",9301348,2640,1,25,B,4.0,4.5
+1,58,"Salem, A.R. Saleh",9301348,2640,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,29,W,0.0,1.0
+2,4,"Salem, A.R. Saleh",9301348,2640,0.5,"Giri, Anish",24116068,2746,1,45,B,1.0,1.5
+3,8,"Salem, A.R. Saleh",9301348,2640,0.5,"Nepomniachtchi, Ian",4168119,2742,1,32,W,1.5,2.0
+4,7,"Salem, A.R. Saleh",9301348,2640,0.5,"Aronian, Levon",13300474,2744,1,32,W,2.0,2.5
+5,12,"Salem, A.R. Saleh",9301348,2640,0.0,"Mamedyarov, Shakhriyar",13401319,2741,0,35,B,2.5,2.5
+6,22,"Salem, A.R. Saleh",9301348,2640,0.5,"Sindarov, Javokhir",14205483,2722,1,120,W,2.5,3.0
+7,36,"Salem, A.R. Saleh",9301348,2640,1.0,"Samunenkov, Ihor",14187086,2550,0,52,B,3.0,4.0
+8,14,"Salem, A.R. Saleh",9301348,2640,0.0,"Liang, Awonder",2056437,2698,0,45,B,4.0,4.0
+9,33,"Salem, A.R. Saleh",9301348,2640,0.0,"Predke, Alexandr",24107581,2609,0,33,W,4.0,4.0
+10,42,"Salem, A.R. Saleh",9301348,2640,0.0,"Moussard, Jules",642908,2591,0,23,B,4.0,4.0
+11,46,"Salem, A.R. Saleh",9301348,2640,0.5,"Xu, Xiangyu",8608288,2615,1,25,W,4.0,4.5
+1,4,"Amin, Bassem",10601457,2636,0.0,"Firouzja, Alireza",12573981,2754,0,65,B,0.0,0.0
+2,55,"Amin, Bassem",10601457,2636,1.0,"Abdisalimov, Abdimalik",14206323,2488,0,77,W,0.0,1.0
+3,18,"Amin, Bassem",10601457,2636,0.0,"Mamedyarov, Shakhriyar",13401319,2741,0,41,B,1.0,1.0
+4,57,"Amin, Bassem",10601457,2636,0.0,"Divya, Deshmukh",35006916,2478,0,47,W,1.0,1.0
+5,54,"Amin, Bassem",10601457,2636,0.5,"Vakhidov, Jakhongir",14201801,2521,1,23,B,1.0,1.5
+6,50,"Amin, Bassem",10601457,2636,1.0,"Suyarov, Mukhammadzokhid",14210495,2482,0,63,W,1.5,2.5
+7,46,"Amin, Bassem",10601457,2636,0.5,"Aryan, Chopra",5084423,2619,1,44,B,2.5,3.0
+8,42,"Amin, Bassem",10601457,2636,0.0,"Korobov, Anton",14105730,2616,0,34,W,3.0,3.0
+9,51,"Amin, Bassem",10601457,2636,0.5,"Xu, Xiangyu",8608288,2615,1,75,B,3.0,3.5
+10,50,"Amin, Bassem",10601457,2636,0.5,"Muradli, Mahammad",13409301,2590,1,80,B,3.5,4.0
+11,48,"Amin, Bassem",10601457,2636,0.5,"Warmerdam, Max",1048104,2591,1,35,W,4.0,4.5
+1,31,"Tabatabaei, M. Amin",12521213,2673,0.5,"Matlakov, Maxim",4168003,2609,1,30,B,0.0,0.5
+2,31,"Tabatabaei, M. Amin",12521213,2673,0.5,"Maurizzi, Marcandria",36083534,2610,1,45,W,0.5,1.0
+3,27,"Tabatabaei, M. Amin",12521213,2673,0.5,"Aryan, Chopra",5084423,2619,1,41,B,1.0,1.5
+4,29,"Tabatabaei, M. Amin",12521213,2673,1.0,"Santos Latasa, Jaime",2293307,2620,0,59,W,1.5,2.5
+5,20,"Tabatabaei, M. Amin",12521213,2673,1.0,"Suleymanli, Aydin",13413937,2602,0,57,B,2.5,3.5
+6,4,"Tabatabaei, M. Amin",12521213,2673,0.5,"Firouzja, Alireza",12573981,2754,1,31,W,3.5,4.0
+7,6,"Tabatabaei, M. Amin",12521213,2673,0.0,"Abdusattorov, Nodirbek",14204118,2748,0,38,B,4.0,4.0
+8,19,"Tabatabaei, M. Amin",12521213,2673,0.5,"Shirov, Alexei",2209390,2616,1,36,W,4.0,4.5
+9,13,"Tabatabaei, M. Amin",12521213,2673,1.0,"Pranav, V",25060783,2596,0,45,B,4.5,5.5
+10,8,"Tabatabaei, M. Amin",12521213,2673,0.5,"Mamedyarov, Shakhriyar",13401319,2741,1,30,W,5.5,6.0
+11,12,"Tabatabaei, M. Amin",12521213,2673,0.0,"Rapport, Richard",738590,2711,0,48,B,6.0,6.0
+1,21,"Maghsoodloo, Parham",12539929,2692,1.0,"Aryan, Chopra",5084423,2619,0,65,B,0.0,1.0
+2,6,"Maghsoodloo, Parham",12539929,2692,1.0,"Anton Guijarro, David",2285525,2625,0,32,W,1.0,2.0
+3,1,"Maghsoodloo, Parham",12539929,2692,1.0,"Firouzja, Alireza",12573981,2754,0,51,B,2.0,3.0
+4,1,"Maghsoodloo, Parham",12539929,2692,0.5,"Abdusattorov, Nodirbek",14204118,2748,1,56,W,3.0,3.5
+5,1,"Maghsoodloo, Parham",12539929,2692,1.0,"Rapport, Richard",738590,2711,0,64,B,3.5,4.5
+6,1,"Maghsoodloo, Parham",12539929,2692,0.5,"Erigaisi, Arjun",35009192,2771,1,38,W,4.5,5.0
+7,1,"Maghsoodloo, Parham",12539929,2692,0.0,"Nihal, Sarin",25092340,2693,0,42,B,5.0,5.0
+8,4,"Maghsoodloo, Parham",12539929,2692,0.5,"Giri, Anish",24116068,2746,1,55,W,5.0,5.5
+9,3,"Maghsoodloo, Parham",12539929,2692,0.0,"Keymer, Vincent",12940690,2751,0,70,W,5.5,5.5
+10,13,"Maghsoodloo, Parham",12539929,2692,0.0,"Woodward, Andy",30953499,2557,0,39,B,5.5,5.5
+11,17,"Maghsoodloo, Parham",12539929,2692,0.5,"Aditya, Mittal",35042025,2589,1,27,W,5.5,6.0
+1,4,"Firouzja, Alireza",12573981,2754,1.0,"Amin, Bassem",10601457,2636,0,65,W,0.0,1.0
+2,2,"Firouzja, Alireza",12573981,2754,1.0,"Rodshtein, Maxim",2806851,2645,0,51,B,1.0,2.0
+3,1,"Firouzja, Alireza",12573981,2754,0.0,"Maghsoodloo, Parham",12539929,2692,0,51,W,2.0,2.0
+4,4,"Firouzja, Alireza",12573981,2754,0.5,"Gumularz, Szymon",1188062,2590,1,25,W,2.0,2.5
+5,8,"Firouzja, Alireza",12573981,2754,1.0,"Shankland, Sam",2004887,2670,0,50,B,2.5,3.5
+6,4,"Firouzja, Alireza",12573981,2754,0.5,"Tabatabaei, M. Amin",12521213,2673,1,31,B,3.5,4.0
+7,4,"Firouzja, Alireza",12573981,2754,1.0,"Yakubboev, Nodirbek",14203987,2681,0,31,W,4.0,5.0
+8,2,"Firouzja, Alireza",12573981,2754,0.5,"Niemann, Hans Moke",2093596,2733,1,30,W,5.0,5.5
+9,1,"Firouzja, Alireza",12573981,2754,1.0,"Nihal, Sarin",25092340,2693,0,82,B,5.5,6.5
+10,1,"Firouzja, Alireza",12573981,2754,0.5,"Giri, Anish",24116068,2746,1,18,W,6.5,7.0
+11,1,"Firouzja, Alireza",12573981,2754,0.5,"Bluebaum, Matthias",24651516,2671,1,56,B,7.0,7.5
+1,37,"Daneshvar, Bardiya",12576468,2598,0.5,"Artemiev, Vladislav",24101605,2664,1,38,W,0.0,0.5
+2,37,"Daneshvar, Bardiya",12576468,2598,0.0,"Oparin, Grigoriy",24125890,2660,0,74,B,0.5,0.5
+3,49,"Daneshvar, Bardiya",12576468,2598,0.5,"Bjerre, Jonas Buhl",1444948,2651,1,87,W,0.5,1.0
+4,45,"Daneshvar, Bardiya",12576468,2598,0.5,"Grischuk, Alexander",4126025,2657,1,36,B,1.0,1.5
+5,45,"Daneshvar, Bardiya",12576468,2598,0.0,"Bacrot, Etienne",605506,2637,0,57,W,1.5,1.5
+6,52,"Daneshvar, Bardiya",12576468,2598,0.0,"Ivic, Velimir",950122,2630,0,46,B,1.5,1.5
+7,56,"Daneshvar, Bardiya",12576468,2598,1.0,"Muradli, Mahammad",13409301,2590,0,44,W,1.5,2.5
+8,50,"Daneshvar, Bardiya",12576468,2598,0.5,"Wojtaszek, Radoslaw",1118358,2661,1,25,B,2.5,3.0
+9,46,"Daneshvar, Bardiya",12576468,2598,0.5,"Sarana, Alexey",24133795,2686,1,57,W,3.0,3.5
+10,47,"Daneshvar, Bardiya",12576468,2598,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,30,B,3.5,4.0
+11,51,"Daneshvar, Bardiya",12576468,2598,1.0,"Santos Latasa, Jaime",2293307,2620,0,66,W,4.0,5.0
+1,50,"Kollars, Dmitrij",12909572,2647,0.5,"Woodward, Andy",30953499,2557,1,60,W,0.0,0.5
+2,46,"Kollars, Dmitrij",12909572,2647,0.5,"Aditya, Mittal",35042025,2589,1,112,B,0.5,1.0
+3,36,"Kollars, Dmitrij",12909572,2647,0.0,"Pranav, V",25060783,2596,0,55,W,1.0,1.0
+4,50,"Kollars, Dmitrij",12909572,2647,0.0,"Goryachkina, Aleksandra",4147103,2528,0,45,B,1.0,1.0
+5,53,"Kollars, Dmitrij",12909572,2647,1.0,"Hammer, Jon Ludvig",1503707,2618,0,46,W,1.0,2.0
+6,44,"Kollars, Dmitrij",12909572,2647,0.0,"Predke, Alexandr",24107581,2609,0,38,B,2.0,2.0
+7,51,"Kollars, Dmitrij",12909572,2647,1.0,"Wagner, Dennis",24650684,2608,0,66,W,2.0,3.0
+8,39,"Kollars, Dmitrij",12909572,2647,0.5,"Moussard, Jules",642908,2591,1,70,B,3.0,3.5
+9,43,"Kollars, Dmitrij",12909572,2647,1.0,"Matlakov, Maxim",4168003,2609,0,77,W,3.5,4.5
+10,31,"Kollars, Dmitrij",12909572,2647,0.5,"Dardha, Daniel",240990,2624,1,36,B,4.5,5.0
+11,31,"Kollars, Dmitrij",12909572,2647,0.5,"Ponomariov, Ruslan",14103320,2622,1,115,W,5.0,5.5
+1,56,"Svane, Frederik",12923044,2643,1.0,"Suyarov, Mukhammadzokhid",14210495,2482,0,46,W,0.0,1.0
+2,3,"Svane, Frederik",12923044,2643,0.5,"Abdusattorov, Nodirbek",14204118,2748,1,50,W,1.0,1.5
+3,7,"Svane, Frederik",12923044,2643,0.5,"Giri, Anish",24116068,2746,1,28,B,1.5,2.0
+4,5,"Svane, Frederik",12923044,2643,0.0,"Keymer, Vincent",12940690,2751,0,72,B,2.0,2.0
+5,36,"Svane, Frederik",12923044,2643,0.0,"Bartel, Mateusz",1112635,2581,0,40,W,2.0,2.0
+6,45,"Svane, Frederik",12923044,2643,0.5,"Moussard, Jules",642908,2591,1,32,B,2.0,2.5
+7,45,"Svane, Frederik",12923044,2643,0.5,"Jobava, Baadur",13601520,2590,1,63,W,2.5,3.0
+8,40,"Svane, Frederik",12923044,2643,0.0,"Abdisalimov, Abdimalik",14206323,2488,0,37,B,3.0,3.0
+9,50,"Svane, Frederik",12923044,2643,1.0,"Vakhidov, Jakhongir",14201801,2521,0,47,W,3.0,4.0
+10,41,"Svane, Frederik",12923044,2643,0.5,"Gumularz, Szymon",1188062,2590,1,87,B,4.0,4.5
+11,41,"Svane, Frederik",12923044,2643,1.0,"Kuzubov, Yuriy",14112906,2600,0,74,W,4.5,5.5
+1,5,"Keymer, Vincent",12940690,2751,0.5,"Gurel, Ediz",44507356,2631,1,36,B,0.0,0.5
+2,11,"Keymer, Vincent",12940690,2751,1.0,"Xiong, Jeffery",2047640,2640,0,54,W,0.5,1.5
+3,5,"Keymer, Vincent",12940690,2751,0.5,"Erdogmus, Yagiz Kaan",44599790,2646,1,74,B,1.5,2.0
+4,5,"Keymer, Vincent",12940690,2751,1.0,"Svane, Frederik",12923044,2643,0,72,W,2.0,3.0
+5,5,"Keymer, Vincent",12940690,2751,0.0,"Maurizzi, Marcandria",36083534,2610,0,55,B,3.0,3.0
+6,11,"Keymer, Vincent",12940690,2751,1.0,"Hovhannisyan, Robert",13302507,2629,0,114,W,3.0,4.0
+7,5,"Keymer, Vincent",12940690,2751,0.5,"Theodorou, Nikolas",4262875,2646,1,31,B,4.0,4.5
+8,5,"Keymer, Vincent",12940690,2751,1.0,"Vidit, Santosh Gujrathi",5029465,2712,0,63,W,4.5,5.5
+9,3,"Keymer, Vincent",12940690,2751,1.0,"Maghsoodloo, Parham",12539929,2692,0,70,B,5.5,6.5
+10,2,"Keymer, Vincent",12940690,2751,0.5,"Bluebaum, Matthias",24651516,2671,1,63,W,6.5,7.0
+11,3,"Keymer, Vincent",12940690,2751,0.5,"Erigaisi, Arjun",35009192,2771,1,49,B,7.0,7.5
+1,8,"Aronian, Levon",13300474,2744,0.5,"Martirosyan, Haik M.",13306553,2628,1,32,W,0.0,0.5
+2,12,"Aronian, Levon",13300474,2744,0.5,"Chigaev, Maksim",4108116,2638,1,30,B,0.5,1.0
+3,17,"Aronian, Levon",13300474,2744,1.0,"Bartel, Mateusz",1112635,2581,0,44,W,1.0,2.0
+4,7,"Aronian, Levon",13300474,2744,0.5,"Salem, A.R. Saleh",9301348,2640,1,32,B,2.0,2.5
+5,10,"Aronian, Levon",13300474,2744,0.5,"Sargsyan, Shant",13306766,2653,1,31,W,2.5,3.0
+6,12,"Aronian, Levon",13300474,2744,0.5,"Vitiugov, Nikita",4152956,2666,1,13,B,3.0,3.5
+7,12,"Aronian, Levon",13300474,2744,0.5,"Puranik, Abhimanyu",5061245,2640,1,68,W,3.5,4.0
+8,11,"Aronian, Levon",13300474,2744,0.0,"Erdogmus, Yagiz Kaan",44599790,2646,0,49,B,4.0,4.0
+9,22,"Aronian, Levon",13300474,2744,0.0,"Woodward, Andy",30953499,2557,0,34,W,4.0,4.0
+10,37,"Aronian, Levon",13300474,2744,0.5,"Donchenko, Alexander",24603295,2624,1,41,W,4.0,4.5
+11,36,"Aronian, Levon",13300474,2744,0.5,"Demchenko, Anton",4160258,2620,1,33,B,4.5,5.0
+1,12,"Sargissian, Gabriel",13300881,2626,0.5,"Niemann, Hans Moke",2093596,2733,1,30,B,0.0,0.5
+2,14,"Sargissian, Gabriel",13300881,2626,0.5,"Mamedyarov, Shakhriyar",13401319,2741,1,47,W,0.5,1.0
+3,23,"Sargissian, Gabriel",13300881,2626,0.5,"Sevian, Samuel",2040506,2692,1,51,B,1.0,1.5
+4,31,"Sargissian, Gabriel",13300881,2626,0.0,"Shankland, Sam",2004887,2670,0,52,W,1.5,1.5
+5,49,"Sargissian, Gabriel",13300881,2626,0.5,"Madaminov, Mukhiddin",14210703,2560,1,42,B,1.5,2.0
+6,57,"Sargissian, Gabriel",13300881,2626,0.5,"Divya, Deshmukh",35006916,2478,1,31,W,2.0,2.5
+7,39,"Sargissian, Gabriel",13300881,2626,0.0,"Fedoseev, Vladimir",24130737,2731,0,56,W,2.5,2.5
+8,54,"Sargissian, Gabriel",13300881,2626,0.5,"Vakhidov, Jakhongir",14201801,2521,1,20,B,2.5,3.0
+9,52,"Sargissian, Gabriel",13300881,2626,1.0,"Jobava, Baadur",13601520,2590,0,31,W,3.0,4.0
+10,36,"Sargissian, Gabriel",13300881,2626,0.0,"Gukesh, D",46616543,2767,0,42,B,4.0,4.0
+11,50,"Sargissian, Gabriel",13300881,2626,1.0,"Muradli, Mahammad",13409301,2590,0,39,W,4.0,5.0
+1,7,"Hovhannisyan, Robert",13302507,2629,0.0,"Giri, Anish",24116068,2746,0,40,W,0.0,0.0
+2,58,"Hovhannisyan, Robert",13302507,2629,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,32,B,0.0,1.0
+3,20,"Hovhannisyan, Robert",13302507,2629,1.0,"Fedoseev, Vladimir",24130737,2731,0,68,W,1.0,2.0
+4,8,"Hovhannisyan, Robert",13302507,2629,0.5,"Nepomniachtchi, Ian",4168119,2742,1,39,B,2.0,2.5
+5,18,"Hovhannisyan, Robert",13302507,2629,0.5,"Van Foreest, Jorden",1039784,2692,1,40,W,2.5,3.0
+6,11,"Hovhannisyan, Robert",13302507,2629,0.0,"Keymer, Vincent",12940690,2751,0,114,B,3.0,3.0
+7,23,"Hovhannisyan, Robert",13302507,2629,0.0,"Sindarov, Javokhir",14205483,2722,0,56,B,3.0,3.0
+8,43,"Hovhannisyan, Robert",13302507,2629,0.5,"Samunenkov, Ihor",14187086,2550,1,92,W,3.0,3.5
+9,38,"Hovhannisyan, Robert",13302507,2629,0.5,"Gukesh, D",46616543,2767,1,57,W,3.5,4.0
+10,44,"Hovhannisyan, Robert",13302507,2629,0.5,"Bartel, Mateusz",1112635,2581,1,30,B,4.0,4.5
+11,43,"Hovhannisyan, Robert",13302507,2629,1.0,"Gumularz, Szymon",1188062,2590,0,31,W,4.5,5.5
+1,8,"Martirosyan, Haik M.",13306553,2628,0.5,"Aronian, Levon",13300474,2744,1,32,B,0.0,0.5
+2,10,"Martirosyan, Haik M.",13306553,2628,0.0,"Erigaisi, Arjun",35009192,2771,0,54,W,0.5,0.5
+3,56,"Martirosyan, Haik M.",13306553,2628,0.5,"Suyarov, Mukhammadzokhid",14210495,2482,1,61,B,0.5,1.0
+4,39,"Martirosyan, Haik M.",13306553,2628,0.0,"Fedoseev, Vladimir",24130737,2731,0,61,B,1.0,1.0
+5,55,"Martirosyan, Haik M.",13306553,2628,1.0,"Wagner, Dennis",24650684,2608,0,99,W,1.0,2.0
+6,47,"Martirosyan, Haik M.",13306553,2628,0.0,"Nigmatov, Ortik",14202131,2488,0,52,W,2.0,2.0
+7,52,"Martirosyan, Haik M.",13306553,2628,0.0,"Abdisalimov, Abdimalik",14206323,2488,0,51,B,2.0,2.0
+8,56,"Martirosyan, Haik M.",13306553,2628,0.5,"Hammer, Jon Ludvig",1503707,2618,1,37,W,2.0,2.5
+9,54,"Martirosyan, Haik M.",13306553,2628,0.5,"Warmerdam, Max",1048104,2591,1,64,B,2.5,3.0
+10,54,"Martirosyan, Haik M.",13306553,2628,1.0,"Jobava, Baadur",13601520,2590,0,38,B,3.0,4.0
+11,49,"Martirosyan, Haik M.",13306553,2628,1.0,"Madaminov, Mukhiddin",14210703,2560,0,31,W,4.0,5.0
+1,14,"Hakobyan, Aram",13306677,2625,0.5,"Sindarov, Javokhir",14205483,2722,1,45,B,0.0,0.5
+2,21,"Hakobyan, Aram",13306677,2625,0.0,"Nihal, Sarin",25092340,2693,0,38,W,0.5,0.5
+3,45,"Hakobyan, Aram",13306677,2625,0.5,"Robson, Ray",2023970,2674,1,32,B,0.5,1.0
+4,42,"Hakobyan, Aram",13306677,2625,0.5,"Artemiev, Vladislav",24101605,2664,1,25,B,1.0,1.5
+5,40,"Hakobyan, Aram",13306677,2625,0.5,"Wojtaszek, Radoslaw",1118358,2661,1,44,W,1.5,2.0
+6,38,"Hakobyan, Aram",13306677,2625,0.5,"Fedoseev, Vladimir",24130737,2731,1,38,B,2.0,2.5
+7,41,"Hakobyan, Aram",13306677,2625,1.0,"Deac, Bogdan-Daniel",1226380,2674,0,54,W,2.5,3.5
+8,26,"Hakobyan, Aram",13306677,2625,1.0,"Shankland, Sam",2004887,2670,0,46,W,3.5,4.5
+9,17,"Hakobyan, Aram",13306677,2625,0.5,"Dubov, Daniil",24126055,2691,1,31,B,4.5,5.0
+10,21,"Hakobyan, Aram",13306677,2625,0.5,"Grandelius, Nils",1710400,2648,1,33,W,5.0,5.5
+11,20,"Hakobyan, Aram",13306677,2625,0.5,"Sadhwani, Raunak",35093487,2658,1,12,B,5.5,6.0
+1,43,"Sargsyan, Shant",13306766,2653,0.5,"Gumularz, Szymon",1188062,2590,1,67,B,0.0,0.5
+2,41,"Sargsyan, Shant",13306766,2653,0.5,"Narayanan, S",5058422,2591,1,23,W,0.5,1.0
+3,34,"Sargsyan, Shant",13306766,2653,0.5,"Matlakov, Maxim",4168003,2609,1,30,B,1.0,1.5
+4,33,"Sargsyan, Shant",13306766,2653,1.0,"Madaminov, Mukhiddin",14210703,2560,0,58,W,1.5,2.5
+5,10,"Sargsyan, Shant",13306766,2653,0.5,"Aronian, Levon",13300474,2744,1,31,B,2.5,3.0
+6,14,"Sargsyan, Shant",13306766,2653,1.0,"Vachier-Lagrave, Maxime",623539,2738,0,33,W,3.0,4.0
+7,7,"Sargsyan, Shant",13306766,2653,0.5,"Mamedyarov, Shakhriyar",13401319,2741,1,45,B,4.0,4.5
+8,7,"Sargsyan, Shant",13306766,2653,0.5,"Erigaisi, Arjun",35009192,2771,1,31,W,4.5,5.0
+9,11,"Sargsyan, Shant",13306766,2653,0.5,"Vidit, Santosh Gujrathi",5029465,2712,1,98,B,5.0,5.5
+10,11,"Sargsyan, Shant",13306766,2653,0.5,"Rapport, Richard",738590,2711,1,31,W,5.5,6.0
+11,11,"Sargsyan, Shant",13306766,2653,0.5,"Sindarov, Javokhir",14205483,2722,1,34,B,6.0,6.5
+1,10,"Mamedyarov, Shakhriyar",13401319,2741,0.5,"Cheparinov, Ivan",2905540,2627,1,25,W,0.0,0.5
+2,14,"Mamedyarov, Shakhriyar",13401319,2741,0.5,"Sargissian, Gabriel",13300881,2626,1,47,B,0.5,1.0
+3,18,"Mamedyarov, Shakhriyar",13401319,2741,1.0,"Amin, Bassem",10601457,2636,0,41,W,1.0,2.0
+4,9,"Mamedyarov, Shakhriyar",13401319,2741,0.5,"Demchenko, Anton",4160258,2620,1,36,B,2.0,2.5
+5,12,"Mamedyarov, Shakhriyar",13401319,2741,1.0,"Salem, A.R. Saleh",9301348,2640,0,35,W,2.5,3.5
+6,6,"Mamedyarov, Shakhriyar",13401319,2741,0.5,"Erdogmus, Yagiz Kaan",44599790,2646,1,16,B,3.5,4.0
+7,7,"Mamedyarov, Shakhriyar",13401319,2741,0.5,"Sargsyan, Shant",13306766,2653,1,45,W,4.0,4.5
+8,9,"Mamedyarov, Shakhriyar",13401319,2741,0.0,"Van Foreest, Jorden",1039784,2692,0,50,B,4.5,4.5
+9,14,"Mamedyarov, Shakhriyar",13401319,2741,1.0,"Puranik, Abhimanyu",5061245,2640,0,35,W,4.5,5.5
+10,8,"Mamedyarov, Shakhriyar",13401319,2741,0.5,"Tabatabaei, M. Amin",12521213,2673,1,30,B,5.5,6.0
+11,9,"Mamedyarov, Shakhriyar",13401319,2741,1.0,"Oparin, Grigoriy",24125890,2660,0,47,W,6.0,7.0
+1,46,"Mamedov, Rauf",13401653,2651,0.5,"Aditya, Mittal",35042025,2589,1,59,W,0.0,0.5
+2,43,"Mamedov, Rauf",13401653,2651,0.0,"Bartel, Mateusz",1112635,2581,0,78,B,0.5,0.5
+3,50,"Mamedov, Rauf",13401653,2651,1.0,"Xu, Xiangyu",8608288,2615,0,46,W,0.5,1.5
+4,35,"Mamedov, Rauf",13401653,2651,0.5,"Lagarde, Maxime",662399,2609,1,30,B,1.5,2.0
+5,32,"Mamedov, Rauf",13401653,2651,1.0,"Moussard, Jules",642908,2591,0,41,W,2.0,3.0
+6,9,"Mamedov, Rauf",13401653,2651,0.5,"Praggnanandhaa, R",25059530,2785,1,56,B,3.0,3.5
+7,13,"Mamedov, Rauf",13401653,2651,0.0,"Nepomniachtchi, Ian",4168119,2742,0,45,W,3.5,3.5
+8,33,"Mamedov, Rauf",13401653,2651,1.0,"Matlakov, Maxim",4168003,2609,0,33,B,3.5,4.5
+9,15,"Mamedov, Rauf",13401653,2651,0.5,"Fedoseev, Vladimir",24130737,2731,1,30,W,4.5,5.0
+10,20,"Mamedov, Rauf",13401653,2651,0.0,"Predke, Alexandr",24107581,2609,0,73,B,5.0,5.0
+11,30,"Mamedov, Rauf",13401653,2651,1.0,"Dardha, Daniel",240990,2624,0,45,W,5.0,6.0
+1,45,"Muradli, Mahammad",13409301,2590,0.5,"Bjerre, Jonas Buhl",1444948,2651,1,62,W,0.0,0.5
+2,45,"Muradli, Mahammad",13409301,2590,0.0,"Yuffa, Daniil",24131423,2648,0,43,B,0.5,0.5
+3,51,"Muradli, Mahammad",13409301,2590,0.5,"Indjic, Aleksandar",911925,2650,1,40,W,0.5,1.0
+4,51,"Muradli, Mahammad",13409301,2590,0.0,"Lu, Shanglei",8603332,2647,0,61,B,1.0,1.0
+5,58,"Muradli, Mahammad",13409301,2590,0.0,"Abdisalimov, Abdimalik",14206323,2488,0,53,B,1.0,1.0
+6,56,"Muradli, Mahammad",13409301,2590,0.5,"Hammer, Jon Ludvig",1503707,2618,1,83,W,1.0,1.5
+7,56,"Muradli, Mahammad",13409301,2590,0.0,"Daneshvar, Bardiya",12576468,2598,0,44,B,1.5,1.5
+8,58,"Muradli, Mahammad",13409301,2590,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,58,W,1.5,2.5
+9,55,"Muradli, Mahammad",13409301,2590,1.0,"Suyarov, Mukhammadzokhid",14210495,2482,0,40,B,2.5,3.5
+10,50,"Muradli, Mahammad",13409301,2590,0.5,"Amin, Bassem",10601457,2636,1,80,W,3.5,4.0
+11,50,"Muradli, Mahammad",13409301,2590,0.0,"Sargissian, Gabriel",13300881,2626,0,39,B,4.0,4.0
+1,35,"Suleymanli, Aydin",13413937,2602,1.0,"Karthikeyan, Murali",5074452,2669,0,40,W,0.0,1.0
+2,8,"Suleymanli, Aydin",13413937,2602,0.5,"Gelfand, Boris",2805677,2652,1,36,W,1.0,1.5
+3,12,"Suleymanli, Aydin",13413937,2602,0.5,"Rapport, Richard",738590,2711,1,23,B,1.5,2.0
+4,15,"Suleymanli, Aydin",13413937,2602,0.5,"Esipenko, Andrey",24175439,2687,1,31,B,2.0,2.5
+5,20,"Suleymanli, Aydin",13413937,2602,0.0,"Tabatabaei, M. Amin",12521213,2673,0,57,W,2.5,2.5
+6,31,"Suleymanli, Aydin",13413937,2602,0.5,"Sadhwani, Raunak",35093487,2658,1,31,W,2.5,3.0
+7,33,"Suleymanli, Aydin",13413937,2602,0.5,"Grandelius, Nils",1710400,2648,1,39,B,3.0,3.5
+8,35,"Suleymanli, Aydin",13413937,2602,0.5,"Lu, Shanglei",8603332,2647,1,59,B,3.5,4.0
+9,28,"Suleymanli, Aydin",13413937,2602,0.5,"Grischuk, Alexander",4126025,2657,1,31,W,4.0,4.5
+10,34,"Suleymanli, Aydin",13413937,2602,0.5,"Puranik, Abhimanyu",5061245,2640,1,60,B,4.5,5.0
+11,35,"Suleymanli, Aydin",13413937,2602,0.0,"Shankland, Sam",2004887,2670,0,41,W,5.0,5.0
+1,44,"Jobava, Baadur",13601520,2590,0.0,"Gelfand, Boris",2805677,2652,0,23,B,0.0,0.0
+2,53,"Jobava, Baadur",13601520,2590,0.5,"Indjic, Aleksandar",911925,2650,1,33,B,0.0,0.5
+3,53,"Jobava, Baadur",13601520,2590,0.5,"Bacrot, Etienne",605506,2637,1,39,W,0.5,1.0
+4,46,"Jobava, Baadur",13601520,2590,0.5,"Saric, Ivan",14508150,2655,1,50,W,1.0,1.5
+5,48,"Jobava, Baadur",13601520,2590,0.5,"Sjugirov, Sanan",4189302,2627,1,40,B,1.5,2.0
+6,49,"Jobava, Baadur",13601520,2590,0.5,"Anton Guijarro, David",2285525,2625,1,77,W,2.0,2.5
+7,45,"Jobava, Baadur",13601520,2590,0.5,"Svane, Frederik",12923044,2643,1,63,B,2.5,3.0
+8,44,"Jobava, Baadur",13601520,2590,0.0,"Volokitin, Andrei",14107090,2628,0,44,W,3.0,3.0
+9,52,"Jobava, Baadur",13601520,2590,0.0,"Sargissian, Gabriel",13300881,2626,0,31,B,3.0,3.0
+10,54,"Jobava, Baadur",13601520,2590,0.0,"Martirosyan, Haik M.",13306553,2628,0,38,W,3.0,3.0
+11,58,"Jobava, Baadur",13601520,2590,0.5,"Olisa, Tennyson Ewomazino",8511390,2287,1,17,B,3.0,3.5
+1,33,"Ivanchuk, Vasyl",14100010,2608,0.5,"Murzin, Volodar",44155573,2670,1,43,W,0.0,0.5
+2,35,"Ivanchuk, Vasyl",14100010,2608,0.5,"Artemiev, Vladislav",24101605,2664,1,84,B,0.5,1.0
+3,37,"Ivanchuk, Vasyl",14100010,2608,1.0,"Lu, Shanglei",8603332,2647,0,50,W,1.0,2.0
+4,12,"Ivanchuk, Vasyl",14100010,2608,0.5,"Vidit, Santosh Gujrathi",5029465,2712,1,68,W,2.0,2.5
+5,17,"Ivanchuk, Vasyl",14100010,2608,0.5,"Sevian, Samuel",2040506,2692,1,56,B,2.5,3.0
+6,19,"Ivanchuk, Vasyl",14100010,2608,0.0,"Van Foreest, Jorden",1039784,2692,0,32,B,3.0,3.0
+7,35,"Ivanchuk, Vasyl",14100010,2608,0.5,"Vokhidov, Shamsiddin",14204223,2645,1,38,W,3.0,3.5
+8,28,"Ivanchuk, Vasyl",14100010,2608,0.0,"Oparin, Grigoriy",24125890,2660,0,27,B,3.5,3.5
+9,44,"Ivanchuk, Vasyl",14100010,2608,1.0,"Bacrot, Etienne",605506,2637,0,31,W,3.5,4.5
+10,30,"Ivanchuk, Vasyl",14100010,2608,1.0,"Bjerre, Jonas Buhl",1444948,2651,0,56,B,4.5,5.5
+11,22,"Ivanchuk, Vasyl",14100010,2608,0.5,"Grandelius, Nils",1710400,2648,1,76,W,5.5,6.0
+1,27,"Eljanov, Pavel",14102951,2682,0.5,"Najer, Evgeniy",4118987,2613,1,54,B,0.0,0.5
+2,27,"Eljanov, Pavel",14102951,2682,0.0,"Mendonca, Leon Luke",35028561,2615,0,36,W,0.5,0.5
+3,44,"Eljanov, Pavel",14102951,2682,1.0,"Sjugirov, Sanan",4189302,2627,0,41,B,0.5,1.5
+4,27,"Eljanov, Pavel",14102951,2682,0.5,"Ponomariov, Ruslan",14103320,2622,1,40,W,1.5,2.0
+5,26,"Eljanov, Pavel",14102951,2682,0.0,"Shirov, Alexei",2209390,2616,0,60,B,2.0,2.0
+6,39,"Eljanov, Pavel",14102951,2682,0.5,"Santos Latasa, Jaime",2293307,2620,1,60,W,2.0,2.5
+7,40,"Eljanov, Pavel",14102951,2682,0.0,"Anton Guijarro, David",2285525,2625,0,48,B,2.5,2.5
+8,47,"Eljanov, Pavel",14102951,2682,0.5,"Svane, Rasmus",4657101,2620,1,37,W,2.5,3.0
+9,47,"Eljanov, Pavel",14102951,2682,0.0,"Donchenko, Alexander",24603295,2624,0,64,B,3.0,3.0
+10,52,"Eljanov, Pavel",14102951,2682,0.5,"Wagner, Dennis",24650684,2608,1,54,W,3.0,3.5
+11,55,"Eljanov, Pavel",14102951,2682,0.5,"Yuffa, Daniil",24131423,2648,1,39,B,3.5,4.0
+1,17,"Ponomariov, Ruslan",14103320,2622,0.5,"Rapport, Richard",738590,2711,1,33,W,0.0,0.5
+2,20,"Ponomariov, Ruslan",14103320,2622,0.5,"Liang, Awonder",2056437,2698,1,68,B,0.5,1.0
+3,24,"Ponomariov, Ruslan",14103320,2622,0.5,"Van Foreest, Jorden",1039784,2692,1,41,W,1.0,1.5
+4,27,"Ponomariov, Ruslan",14103320,2622,0.5,"Eljanov, Pavel",14102951,2682,1,40,B,1.5,2.0
+5,27,"Ponomariov, Ruslan",14103320,2622,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,31,W,2.0,2.5
+6,28,"Ponomariov, Ruslan",14103320,2622,0.5,"Murzin, Volodar",44155573,2670,1,41,B,2.5,3.0
+7,28,"Ponomariov, Ruslan",14103320,2622,0.5,"Shankland, Sam",2004887,2670,1,59,W,3.0,3.5
+8,27,"Ponomariov, Ruslan",14103320,2622,0.5,"Artemiev, Vladislav",24101605,2664,1,59,B,3.5,4.0
+9,25,"Ponomariov, Ruslan",14103320,2622,0.5,"Vitiugov, Nikita",4152956,2666,1,30,W,4.0,4.5
+10,29,"Ponomariov, Ruslan",14103320,2622,0.5,"Grischuk, Alexander",4126025,2657,1,47,B,4.5,5.0
+11,31,"Ponomariov, Ruslan",14103320,2622,0.5,"Kollars, Dmitrij",12909572,2647,1,115,B,5.0,5.5
+1,23,"Korobov, Anton",14105730,2616,0.5,"Van Foreest, Jorden",1039784,2692,1,34,W,0.0,0.5
+2,25,"Korobov, Anton",14105730,2616,0.0,"Esipenko, Andrey",24175439,2687,0,56,B,0.5,0.5
+3,47,"Korobov, Anton",14105730,2616,0.5,"Grischuk, Alexander",4126025,2657,1,31,W,0.5,1.0
+4,47,"Korobov, Anton",14105730,2616,0.0,"Bjerre, Jonas Buhl",1444948,2651,0,52,B,1.0,1.0
+5,52,"Korobov, Anton",14105730,2616,1.0,"Karthikeyan, Murali",5074452,2669,0,31,W,1.0,2.0
+6,41,"Korobov, Anton",14105730,2616,1.0,"Wojtaszek, Radoslaw",1118358,2661,0,47,B,2.0,3.0
+7,25,"Korobov, Anton",14105730,2616,0.0,"Liang, Awonder",2056437,2698,0,44,W,3.0,3.0
+8,42,"Korobov, Anton",14105730,2616,1.0,"Amin, Bassem",10601457,2636,0,34,B,3.0,4.0
+9,24,"Korobov, Anton",14105730,2616,0.0,"Murzin, Volodar",44155573,2670,0,36,W,4.0,4.0
+10,43,"Korobov, Anton",14105730,2616,0.0,"Ivic, Velimir",950122,2630,0,53,B,4.0,4.0
+11,44,"Korobov, Anton",14105730,2616,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,37,W,4.0,4.5
+1,9,"Volokitin, Andrei",14107090,2628,0.5,"Nepomniachtchi, Ian",4168119,2742,1,37,W,0.0,0.5
+2,15,"Volokitin, Andrei",14107090,2628,0.0,"Vachier-Lagrave, Maxime",623539,2738,0,28,B,0.5,0.5
+3,43,"Volokitin, Andrei",14107090,2628,1.0,"Sarana, Alexey",24133795,2686,0,57,B,0.5,1.5
+4,26,"Volokitin, Andrei",14107090,2628,0.5,"Dubov, Daniil",24126055,2691,1,35,W,1.5,2.0
+5,24,"Volokitin, Andrei",14107090,2628,0.5,"Harikrishna, Pentala",5007003,2704,1,31,W,2.0,2.5
+6,25,"Volokitin, Andrei",14107090,2628,0.0,"Esipenko, Andrey",24175439,2687,0,31,B,2.5,2.5
+7,47,"Volokitin, Andrei",14107090,2628,0.5,"Moussard, Jules",642908,2591,1,48,W,2.5,3.0
+8,44,"Volokitin, Andrei",14107090,2628,1.0,"Jobava, Baadur",13601520,2590,0,44,B,3.0,4.0
+9,35,"Volokitin, Andrei",14107090,2628,0.0,"Aditya, Mittal",35042025,2589,0,73,W,4.0,4.0
+10,45,"Volokitin, Andrei",14107090,2628,1.0,"Abdisalimov, Abdimalik",14206323,2488,0,37,B,4.0,5.0
+11,25,"Volokitin, Andrei",14107090,2628,0.0,"Gukesh, D",46616543,2767,0,42,W,5.0,5.0
+1,36,"Kuzubov, Yuriy",14112906,2600,0.5,"Vitiugov, Nikita",4152956,2666,1,31,B,0.0,0.5
+2,36,"Kuzubov, Yuriy",14112906,2600,1.0,"Wojtaszek, Radoslaw",1118358,2661,0,60,W,0.5,1.5
+3,13,"Kuzubov, Yuriy",14112906,2600,0.5,"Nihal, Sarin",25092340,2693,1,60,B,1.5,2.0
+4,16,"Kuzubov, Yuriy",14112906,2600,0.0,"Yakubboev, Nodirbek",14203987,2681,0,40,W,2.0,2.0
+5,29,"Kuzubov, Yuriy",14112906,2600,0.5,"Sadhwani, Raunak",35093487,2658,1,42,B,2.0,2.5
+6,32,"Kuzubov, Yuriy",14112906,2600,0.0,"Saric, Ivan",14508150,2655,0,92,W,2.5,2.5
+7,44,"Kuzubov, Yuriy",14112906,2600,1.0,"Yuffa, Daniil",24131423,2648,0,37,B,2.5,3.5
+8,37,"Kuzubov, Yuriy",14112906,2600,0.5,"Xiong, Jeffery",2047640,2640,1,35,W,3.5,4.0
+9,23,"Kuzubov, Yuriy",14112906,2600,0.5,"Robson, Ray",2023970,2674,1,64,B,4.0,4.5
+10,33,"Kuzubov, Yuriy",14112906,2600,0.0,"Rodshtein, Maxim",2806851,2645,0,45,W,4.5,4.5
+11,41,"Kuzubov, Yuriy",14112906,2600,0.0,"Svane, Frederik",12923044,2643,0,74,B,4.5,4.5
+1,51,"Samunenkov, Ihor",14187086,2550,0.5,"Lu, Shanglei",8603332,2647,1,34,W,0.0,0.5
+2,48,"Samunenkov, Ihor",14187086,2550,0.5,"Theodorou, Nikolas",4262875,2646,1,37,B,0.5,1.0
+3,41,"Samunenkov, Ihor",14187086,2550,0.5,"Chigaev, Maksim",4108116,2638,1,36,W,1.0,1.5
+4,38,"Samunenkov, Ihor",14187086,2550,0.5,"Vokhidov, Shamsiddin",14204223,2645,1,56,B,1.5,2.0
+5,33,"Samunenkov, Ihor",14187086,2550,1.0,"Indjic, Aleksandar",911925,2650,0,73,W,2.0,3.0
+6,21,"Samunenkov, Ihor",14187086,2550,0.0,"Yu, Yangyi",8603820,2714,0,50,B,3.0,3.0
+7,36,"Samunenkov, Ihor",14187086,2550,0.0,"Salem, A.R. Saleh",9301348,2640,0,52,W,3.0,3.0
+8,43,"Samunenkov, Ihor",14187086,2550,0.5,"Hovhannisyan, Robert",13302507,2629,1,92,B,3.0,3.5
+9,45,"Samunenkov, Ihor",14187086,2550,0.5,"Ivic, Velimir",950122,2630,1,89,W,3.5,4.0
+10,46,"Samunenkov, Ihor",14187086,2550,1.0,"Sarana, Alexey",24133795,2686,0,40,B,4.0,5.0
+11,32,"Samunenkov, Ihor",14187086,2550,1.0,"Puranik, Abhimanyu",5061245,2640,0,43,W,5.0,6.0
+1,53,"Vakhidov, Jakhongir",14201801,2521,0.5,"Theodorou, Nikolas",4262875,2646,1,42,W,0.0,0.5
+2,49,"Vakhidov, Jakhongir",14201801,2521,0.5,"Vokhidov, Shamsiddin",14204223,2645,1,30,B,0.5,1.0
+3,42,"Vakhidov, Jakhongir",14201801,2521,0.0,"Harikrishna, Pentala",5007003,2704,0,61,W,1.0,1.0
+4,48,"Vakhidov, Jakhongir",14201801,2521,0.0,"Indjic, Aleksandar",911925,2650,0,38,B,1.0,1.0
+5,54,"Vakhidov, Jakhongir",14201801,2521,0.5,"Amin, Bassem",10601457,2636,1,23,W,1.0,1.5
+6,54,"Vakhidov, Jakhongir",14201801,2521,0.0,"Donchenko, Alexander",24603295,2624,0,51,B,1.5,1.5
+7,58,"Vakhidov, Jakhongir",14201801,2521,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,25,B,1.5,2.5
+8,54,"Vakhidov, Jakhongir",14201801,2521,0.5,"Sargissian, Gabriel",13300881,2626,1,20,W,2.5,3.0
+9,50,"Vakhidov, Jakhongir",14201801,2521,0.0,"Svane, Frederik",12923044,2643,0,47,B,3.0,3.0
+10,56,"Vakhidov, Jakhongir",14201801,2521,0.0,"Suyarov, Mukhammadzokhid",14210495,2482,0,69,W,3.0,3.0
+11,56,"Vakhidov, Jakhongir",14201801,2521,1.0,"Nigmatov, Ortik",14202131,2488,0,51,B,3.0,4.0
+1,55,"Nigmatov, Ortik",14202131,2488,0.5,"Vokhidov, Shamsiddin",14204223,2645,1,32,W,0.0,0.5
+2,50,"Nigmatov, Ortik",14202131,2488,0.0,"Fedoseev, Vladimir",24130737,2731,0,45,B,0.5,0.5
+3,55,"Nigmatov, Ortik",14202131,2488,1.0,"Ivic, Velimir",950122,2630,0,39,W,0.5,1.5
+4,37,"Nigmatov, Ortik",14202131,2488,0.0,"Theodorou, Nikolas",4262875,2646,0,70,B,1.5,1.5
+5,51,"Nigmatov, Ortik",14202131,2488,0.5,"Sarana, Alexey",24133795,2686,1,95,W,1.5,2.0
+6,47,"Nigmatov, Ortik",14202131,2488,1.0,"Martirosyan, Haik M.",13306553,2628,0,52,B,2.0,3.0
+7,38,"Nigmatov, Ortik",14202131,2488,0.0,"Chigaev, Maksim",4108116,2638,0,50,W,3.0,3.0
+8,45,"Nigmatov, Ortik",14202131,2488,0.0,"Dardha, Daniel",240990,2624,0,48,B,3.0,3.0
+9,49,"Nigmatov, Ortik",14202131,2488,0.0,"Wojtaszek, Radoslaw",1118358,2661,0,60,W,3.0,3.0
+10,55,"Nigmatov, Ortik",14202131,2488,0.0,"Santos Latasa, Jaime",2293307,2620,0,74,B,3.0,3.0
+11,56,"Nigmatov, Ortik",14202131,2488,0.0,"Vakhidov, Jakhongir",14201801,2521,0,51,W,3.0,3.0
+1,28,"Yakubboev, Nodirbek",14203987,2681,0.5,"Mishra, Abhimanyu",30920019,2611,1,31,W,0.0,0.5
+2,28,"Yakubboev, Nodirbek",14203987,2681,1.0,"Xu, Xiangyu",8608288,2615,0,29,B,0.5,1.5
+3,15,"Yakubboev, Nodirbek",14203987,2681,0.5,"Moussard, Jules",642908,2591,1,47,W,1.5,2.0
+4,16,"Yakubboev, Nodirbek",14203987,2681,1.0,"Kuzubov, Yuriy",14112906,2600,0,40,B,2.0,3.0
+5,7,"Yakubboev, Nodirbek",14203987,2681,0.5,"Gumularz, Szymon",1188062,2590,1,38,W,3.0,3.5
+6,8,"Yakubboev, Nodirbek",14203987,2681,0.5,"Pranav, V",25060783,2596,1,53,W,3.5,4.0
+7,4,"Yakubboev, Nodirbek",14203987,2681,0.0,"Firouzja, Alireza",12573981,2754,0,31,B,4.0,4.0
+8,18,"Yakubboev, Nodirbek",14203987,2681,0.5,"Woodward, Andy",30953499,2557,1,60,B,4.0,4.5
+9,19,"Yakubboev, Nodirbek",14203987,2681,1.0,"Demchenko, Anton",4160258,2620,0,23,W,4.5,5.5
+10,7,"Yakubboev, Nodirbek",14203987,2681,0.5,"Nepomniachtchi, Ian",4168119,2742,1,120,B,5.5,6.0
+11,10,"Yakubboev, Nodirbek",14203987,2681,1.0,"Fedoseev, Vladimir",24130737,2731,0,61,W,6.0,7.0
+1,6,"Abdusattorov, Nodirbek",14204118,2748,1.0,"Ivic, Velimir",950122,2630,0,54,W,0.0,1.0
+2,3,"Abdusattorov, Nodirbek",14204118,2748,0.5,"Svane, Frederik",12923044,2643,1,50,B,1.0,1.5
+3,6,"Abdusattorov, Nodirbek",14204118,2748,1.0,"Puranik, Abhimanyu",5061245,2640,0,82,W,1.5,2.5
+4,1,"Abdusattorov, Nodirbek",14204118,2748,0.5,"Maghsoodloo, Parham",12539929,2692,1,56,B,2.5,3.0
+5,6,"Abdusattorov, Nodirbek",14204118,2748,0.5,"Erdogmus, Yagiz Kaan",44599790,2646,1,190,W,3.0,3.5
+6,5,"Abdusattorov, Nodirbek",14204118,2748,0.5,"Rodshtein, Maxim",2806851,2645,1,38,B,3.5,4.0
+7,6,"Abdusattorov, Nodirbek",14204118,2748,1.0,"Tabatabaei, M. Amin",12521213,2673,0,38,W,4.0,5.0
+8,3,"Abdusattorov, Nodirbek",14204118,2748,0.5,"Mishra, Abhimanyu",30920019,2611,1,69,B,5.0,5.5
+9,2,"Abdusattorov, Nodirbek",14204118,2748,0.5,"Bluebaum, Matthias",24651516,2671,1,39,W,5.5,6.0
+10,4,"Abdusattorov, Nodirbek",14204118,2748,0.5,"Nihal, Sarin",25092340,2693,1,53,B,6.0,6.5
+11,4,"Abdusattorov, Nodirbek",14204118,2748,0.5,"Liang, Awonder",2056437,2698,1,47,W,6.5,7.0
+1,55,"Vokhidov, Shamsiddin",14204223,2645,0.5,"Nigmatov, Ortik",14202131,2488,1,32,B,0.0,0.5
+2,49,"Vokhidov, Shamsiddin",14204223,2645,0.5,"Vakhidov, Jakhongir",14201801,2521,1,30,W,0.5,1.0
+3,40,"Vokhidov, Shamsiddin",14204223,2645,0.5,"Madaminov, Mukhiddin",14210703,2560,1,35,B,1.0,1.5
+4,38,"Vokhidov, Shamsiddin",14204223,2645,0.5,"Samunenkov, Ihor",14187086,2550,1,56,W,1.5,2.0
+5,57,"Vokhidov, Shamsiddin",14204223,2645,1.0,"Divya, Deshmukh",35006916,2478,0,63,B,2.0,3.0
+6,15,"Vokhidov, Shamsiddin",14204223,2645,0.0,"Niemann, Hans Moke",2093596,2733,0,35,W,3.0,3.0
+7,35,"Vokhidov, Shamsiddin",14204223,2645,0.5,"Ivanchuk, Vasyl",14100010,2608,1,38,B,3.0,3.5
+8,36,"Vokhidov, Shamsiddin",14204223,2645,0.5,"Narayanan, S",5058422,2591,1,47,W,3.5,4.0
+9,32,"Vokhidov, Shamsiddin",14204223,2645,1.0,"Zemlyanskii, Ivan",24249971,2586,0,41,B,4.0,5.0
+10,23,"Vokhidov, Shamsiddin",14204223,2645,0.5,"Pranav, V",25060783,2596,1,41,W,5.0,5.5
+11,18,"Vokhidov, Shamsiddin",14204223,2645,0.5,"Dubov, Daniil",24126055,2691,1,37,B,5.5,6.0
+1,14,"Sindarov, Javokhir",14205483,2722,0.5,"Hakobyan, Aram",13306677,2625,1,45,W,0.0,0.5
+2,17,"Sindarov, Javokhir",14205483,2722,0.5,"Svane, Rasmus",4657101,2620,1,32,B,0.5,1.0
+3,21,"Sindarov, Javokhir",14205483,2722,0.0,"Cheparinov, Ivan",2905540,2627,0,60,W,1.0,1.0
+4,40,"Sindarov, Javokhir",14205483,2722,0.5,"Dardha, Daniel",240990,2624,1,56,B,1.0,1.5
+5,37,"Sindarov, Javokhir",14205483,2722,1.0,"Goryachkina, Aleksandra",4147103,2528,0,43,W,1.5,2.5
+6,22,"Sindarov, Javokhir",14205483,2722,0.5,"Salem, A.R. Saleh",9301348,2640,1,120,B,2.5,3.0
+7,23,"Sindarov, Javokhir",14205483,2722,1.0,"Hovhannisyan, Robert",13302507,2629,0,56,W,3.0,4.0
+8,13,"Sindarov, Javokhir",14205483,2722,0.5,"Puranik, Abhimanyu",5061245,2640,1,51,B,4.0,4.5
+9,16,"Sindarov, Javokhir",14205483,2722,1.0,"Chigaev, Maksim",4108116,2638,0,54,W,4.5,5.5
+10,9,"Sindarov, Javokhir",14205483,2722,0.5,"Van Foreest, Jorden",1039784,2692,1,40,B,5.5,6.0
+11,11,"Sindarov, Javokhir",14205483,2722,0.5,"Sargsyan, Shant",13306766,2653,1,34,W,6.0,6.5
+1,54,"Abdisalimov, Abdimalik",14206323,2488,0.0,"Rodshtein, Maxim",2806851,2645,0,66,B,0.0,0.0
+2,55,"Abdisalimov, Abdimalik",14206323,2488,0.0,"Amin, Bassem",10601457,2636,0,77,B,0.0,0.0
+3,58,"Abdisalimov, Abdimalik",14206323,2488,0.5,"Olisa, Tennyson Ewomazino",8511390,2287,1,47,W,0.0,0.5
+4,56,"Abdisalimov, Abdimalik",14206323,2488,0.0,"Ivic, Velimir",950122,2630,0,36,B,0.5,0.5
+5,58,"Abdisalimov, Abdimalik",14206323,2488,1.0,"Muradli, Mahammad",13409301,2590,0,53,W,0.5,1.5
+6,55,"Abdisalimov, Abdimalik",14206323,2488,0.5,"Karthikeyan, Murali",5074452,2669,1,31,B,1.5,2.0
+7,52,"Abdisalimov, Abdimalik",14206323,2488,1.0,"Martirosyan, Haik M.",13306553,2628,0,51,W,2.0,3.0
+8,40,"Abdisalimov, Abdimalik",14206323,2488,1.0,"Svane, Frederik",12923044,2643,0,37,W,3.0,4.0
+9,37,"Abdisalimov, Abdimalik",14206323,2488,0.0,"Harikrishna, Pentala",5007003,2704,0,26,B,4.0,4.0
+10,45,"Abdisalimov, Abdimalik",14206323,2488,0.0,"Volokitin, Andrei",14107090,2628,0,37,W,4.0,4.0
+11,52,"Abdisalimov, Abdimalik",14206323,2488,1.0,"Svane, Rasmus",4657101,2620,0,68,B,4.0,5.0
+1,56,"Suyarov, Mukhammadzokhid",14210495,2482,0.0,"Svane, Frederik",12923044,2643,0,46,B,0.0,0.0
+2,56,"Suyarov, Mukhammadzokhid",14210495,2482,0.5,"Ivic, Velimir",950122,2630,1,39,B,0.0,0.5
+3,56,"Suyarov, Mukhammadzokhid",14210495,2482,0.5,"Martirosyan, Haik M.",13306553,2628,1,61,W,0.5,1.0
+4,53,"Suyarov, Mukhammadzokhid",14210495,2482,0.5,"Gurel, Ediz",44507356,2631,1,32,W,1.0,1.5
+5,50,"Suyarov, Mukhammadzokhid",14210495,2482,0.5,"Anton Guijarro, David",2285525,2625,1,69,B,1.5,2.0
+6,50,"Suyarov, Mukhammadzokhid",14210495,2482,0.0,"Amin, Bassem",10601457,2636,0,63,B,2.0,2.0
+7,53,"Suyarov, Mukhammadzokhid",14210495,2482,0.0,"Dardha, Daniel",240990,2624,0,47,W,2.0,2.0
+8,55,"Suyarov, Mukhammadzokhid",14210495,2482,0.5,"Wagner, Dennis",24650684,2608,1,72,B,2.0,2.5
+9,55,"Suyarov, Mukhammadzokhid",14210495,2482,0.0,"Muradli, Mahammad",13409301,2590,0,40,W,2.5,2.5
+10,56,"Suyarov, Mukhammadzokhid",14210495,2482,1.0,"Vakhidov, Jakhongir",14201801,2521,0,69,B,2.5,3.5
+11,53,"Suyarov, Mukhammadzokhid",14210495,2482,0.5,"Sarana, Alexey",24133795,2686,1,120,W,3.5,4.0
+1,49,"Madaminov, Mukhiddin",14210703,2560,0.5,"Yuffa, Daniil",24131423,2648,1,54,W,0.0,0.5
+2,47,"Madaminov, Mukhiddin",14210703,2560,0.5,"Lu, Shanglei",8603332,2647,1,59,B,0.5,1.0
+3,40,"Madaminov, Mukhiddin",14210703,2560,0.5,"Vokhidov, Shamsiddin",14204223,2645,1,35,W,1.0,1.5
+4,33,"Madaminov, Mukhiddin",14210703,2560,0.0,"Sargsyan, Shant",13306766,2653,0,58,B,1.5,1.5
+5,49,"Madaminov, Mukhiddin",14210703,2560,0.5,"Sargissian, Gabriel",13300881,2626,1,42,W,1.5,2.0
+6,46,"Madaminov, Mukhiddin",14210703,2560,0.0,"Chigaev, Maksim",4108116,2638,0,69,B,2.0,2.0
+7,50,"Madaminov, Mukhiddin",14210703,2560,0.5,"Indjic, Aleksandar",911925,2650,1,30,W,2.0,2.5
+8,53,"Madaminov, Mukhiddin",14210703,2560,0.0,"Ivic, Velimir",950122,2630,0,55,B,2.5,2.5
+9,58,"Madaminov, Mukhiddin",14210703,2560,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,52,B,2.5,3.5
+10,51,"Madaminov, Mukhiddin",14210703,2560,0.5,"Svane, Rasmus",4657101,2620,1,37,W,3.5,4.0
+11,49,"Madaminov, Mukhiddin",14210703,2560,0.0,"Martirosyan, Haik M.",13306553,2628,0,31,B,4.0,4.0
+1,42,"Saric, Ivan",14508150,2655,0.5,"Warmerdam, Max",1048104,2591,1,28,W,0.0,0.5
+2,40,"Saric, Ivan",14508150,2655,0.0,"Moussard, Jules",642908,2591,0,38,B,0.5,0.5
+3,48,"Saric, Ivan",14508150,2655,0.5,"Donchenko, Alexander",24603295,2624,1,47,W,0.5,1.0
+4,46,"Saric, Ivan",14508150,2655,0.5,"Jobava, Baadur",13601520,2590,1,50,B,1.0,1.5
+5,42,"Saric, Ivan",14508150,2655,1.0,"Svane, Rasmus",4657101,2620,0,40,W,1.5,2.5
+6,32,"Saric, Ivan",14508150,2655,1.0,"Kuzubov, Yuriy",14112906,2600,0,92,B,2.5,3.5
+7,20,"Saric, Ivan",14508150,2655,0.5,"Bartel, Mateusz",1112635,2581,1,35,W,3.5,4.0
+8,21,"Saric, Ivan",14508150,2655,1.0,"Gumularz, Szymon",1188062,2590,0,55,B,4.0,5.0
+9,8,"Saric, Ivan",14508150,2655,0.5,"Nepomniachtchi, Ian",4168119,2742,1,70,W,5.0,5.5
+10,10,"Saric, Ivan",14508150,2655,0.0,"Vidit, Santosh Gujrathi",5029465,2712,0,58,W,5.5,5.5
+11,21,"Saric, Ivan",14508150,2655,1.0,"Lagarde, Maxime",662399,2609,0,32,B,5.5,6.5
+1,37,"Artemiev, Vladislav",24101605,2664,0.5,"Daneshvar, Bardiya",12576468,2598,1,38,B,0.0,0.5
+2,35,"Artemiev, Vladislav",24101605,2664,0.5,"Ivanchuk, Vasyl",14100010,2608,1,84,W,0.5,1.0
+3,32,"Artemiev, Vladislav",24101605,2664,0.0,"Maurizzi, Marcandria",36083534,2610,0,28,B,1.0,1.0
+4,42,"Artemiev, Vladislav",24101605,2664,0.5,"Hakobyan, Aram",13306677,2625,1,25,W,1.0,1.5
+5,39,"Artemiev, Vladislav",24101605,2664,0.5,"Santos Latasa, Jaime",2293307,2620,1,32,B,1.5,2.0
+6,40,"Artemiev, Vladislav",24101605,2664,0.5,"Aryan, Chopra",5084423,2619,1,42,W,2.0,2.5
+7,42,"Artemiev, Vladislav",24101605,2664,1.0,"Donchenko, Alexander",24603295,2624,0,34,B,2.5,3.5
+8,27,"Artemiev, Vladislav",24101605,2664,0.5,"Ponomariov, Ruslan",14103320,2622,1,59,W,3.5,4.0
+9,26,"Artemiev, Vladislav",24101605,2664,0.5,"Mendonca, Leon Luke",35028561,2615,1,31,B,4.0,4.5
+10,27,"Artemiev, Vladislav",24101605,2664,0.0,"Lagarde, Maxime",662399,2609,0,59,W,4.5,4.5
+11,38,"Artemiev, Vladislav",24101605,2664,0.0,"Henriquez Villagra, Cristobal",3409350,2594,0,56,B,4.5,4.5
+1,32,"Predke, Alexandr",24107581,2609,0.5,"Bluebaum, Matthias",24651516,2671,1,31,B,0.0,0.5
+2,30,"Predke, Alexandr",24107581,2609,1.0,"Robson, Ray",2023970,2674,0,63,W,0.5,1.5
+3,11,"Predke, Alexandr",24107581,2609,0.5,"Vidit, Santosh Gujrathi",5029465,2712,1,30,B,1.5,2.0
+4,13,"Predke, Alexandr",24107581,2609,0.0,"Rapport, Richard",738590,2711,0,32,W,2.0,2.0
+5,25,"Predke, Alexandr",24107581,2609,0.0,"Dubov, Daniil",24126055,2691,0,75,B,2.0,2.0
+6,44,"Predke, Alexandr",24107581,2609,1.0,"Kollars, Dmitrij",12909572,2647,0,38,W,2.0,3.0
+7,30,"Predke, Alexandr",24107581,2609,0.5,"Sadhwani, Raunak",35093487,2658,1,26,B,3.0,3.5
+8,34,"Predke, Alexandr",24107581,2609,0.5,"Grandelius, Nils",1710400,2648,1,57,W,3.5,4.0
+9,33,"Predke, Alexandr",24107581,2609,1.0,"Salem, A.R. Saleh",9301348,2640,0,33,B,4.0,5.0
+10,20,"Predke, Alexandr",24107581,2609,1.0,"Mamedov, Rauf",13401653,2651,0,73,W,5.0,6.0
+11,13,"Predke, Alexandr",24107581,2609,0.0,"Sevian, Samuel",2040506,2692,0,70,B,6.0,6.0
+1,7,"Giri, Anish",24116068,2746,1.0,"Hovhannisyan, Robert",13302507,2629,0,40,B,0.0,1.0
+2,4,"Giri, Anish",24116068,2746,0.5,"Salem, A.R. Saleh",9301348,2640,1,45,W,1.0,1.5
+3,7,"Giri, Anish",24116068,2746,0.5,"Svane, Frederik",12923044,2643,1,28,W,1.5,2.0
+4,6,"Giri, Anish",24116068,2746,0.5,"Cheparinov, Ivan",2905540,2627,1,32,B,2.0,2.5
+5,9,"Giri, Anish",24116068,2746,1.0,"Oparin, Grigoriy",24125890,2660,0,83,W,2.5,3.5
+6,3,"Giri, Anish",24116068,2746,1.0,"Maurizzi, Marcandria",36083534,2610,0,27,B,3.5,4.5
+7,3,"Giri, Anish",24116068,2746,0.5,"Mishra, Abhimanyu",30920019,2611,1,49,W,4.5,5.0
+8,4,"Giri, Anish",24116068,2746,0.5,"Maghsoodloo, Parham",12539929,2692,1,55,B,5.0,5.5
+9,4,"Giri, Anish",24116068,2746,1.0,"Van Foreest, Jorden",1039784,2692,0,53,W,5.5,6.5
+10,1,"Giri, Anish",24116068,2746,0.5,"Firouzja, Alireza",12573981,2754,1,18,B,6.5,7.0
+11,2,"Giri, Anish",24116068,2746,1.0,"Niemann, Hans Moke",2093596,2733,0,46,W,7.0,8.0
+1,39,"Oparin, Grigoriy",24125890,2660,0.5,"Henriquez Villagra, Cristobal",3409350,2594,1,30,B,0.0,0.5
+2,37,"Oparin, Grigoriy",24125890,2660,1.0,"Daneshvar, Bardiya",12576468,2598,0,74,W,0.5,1.5
+3,16,"Oparin, Grigoriy",24125890,2660,0.0,"Gumularz, Szymon",1188062,2590,0,55,B,1.5,1.5
+4,32,"Oparin, Grigoriy",24125890,2660,1.0,"Najer, Evgeniy",4118987,2613,0,70,W,1.5,2.5
+5,9,"Oparin, Grigoriy",24125890,2660,0.0,"Giri, Anish",24116068,2746,0,83,B,2.5,2.5
+6,30,"Oparin, Grigoriy",24125890,2660,0.5,"Matlakov, Maxim",4168003,2609,1,23,W,2.5,3.0
+7,29,"Oparin, Grigoriy",24125890,2660,0.5,"Lagarde, Maxime",662399,2609,1,60,B,3.0,3.5
+8,28,"Oparin, Grigoriy",24125890,2660,1.0,"Ivanchuk, Vasyl",14100010,2608,0,27,W,3.5,4.5
+9,20,"Oparin, Grigoriy",24125890,2660,0.5,"Gurel, Ediz",44507356,2631,1,34,B,4.5,5.0
+10,19,"Oparin, Grigoriy",24125890,2660,1.0,"Anton Guijarro, David",2285525,2625,0,49,W,5.0,6.0
+11,9,"Oparin, Grigoriy",24125890,2660,0.0,"Mamedyarov, Shakhriyar",13401319,2741,0,47,B,6.0,6.0
+1,24,"Dubov, Daniil",24126055,2691,0.5,"Shirov, Alexei",2209390,2616,1,19,W,0.0,0.5
+2,24,"Dubov, Daniil",24126055,2691,0.5,"Hammer, Jon Ludvig",1503707,2618,1,19,B,0.5,1.0
+3,25,"Dubov, Daniil",24126055,2691,0.5,"Lagarde, Maxime",662399,2609,1,54,W,1.0,1.5
+4,26,"Dubov, Daniil",24126055,2691,0.5,"Volokitin, Andrei",14107090,2628,1,35,B,1.5,2.0
+5,25,"Dubov, Daniil",24126055,2691,1.0,"Predke, Alexandr",24107581,2609,0,75,W,2.0,3.0
+6,20,"Dubov, Daniil",24126055,2691,0.5,"Bartel, Mateusz",1112635,2581,1,41,B,3.0,3.5
+7,17,"Dubov, Daniil",24126055,2691,0.5,"Woodward, Andy",30953499,2557,1,33,W,3.5,4.0
+8,16,"Dubov, Daniil",24126055,2691,0.5,"Chigaev, Maksim",4108116,2638,1,30,B,4.0,4.5
+9,17,"Dubov, Daniil",24126055,2691,0.5,"Hakobyan, Aram",13306677,2625,1,31,W,4.5,5.0
+10,17,"Dubov, Daniil",24126055,2691,0.5,"Aditya, Mittal",35042025,2589,1,30,B,5.0,5.5
+11,18,"Dubov, Daniil",24126055,2691,0.5,"Vokhidov, Shamsiddin",14204223,2645,1,37,W,5.5,6.0
+1,13,"Fedoseev, Vladimir",24130737,2731,0.0,"Anton Guijarro, David",2285525,2625,0,50,B,0.0,0.0
+2,50,"Fedoseev, Vladimir",24130737,2731,1.0,"Nigmatov, Ortik",14202131,2488,0,45,W,0.0,1.0
+3,20,"Fedoseev, Vladimir",24130737,2731,0.0,"Hovhannisyan, Robert",13302507,2629,0,68,B,1.0,1.0
+4,39,"Fedoseev, Vladimir",24130737,2731,1.0,"Martirosyan, Haik M.",13306553,2628,0,61,W,1.0,2.0
+5,22,"Fedoseev, Vladimir",24130737,2731,0.0,"Puranik, Abhimanyu",5061245,2640,0,49,B,2.0,2.0
+6,38,"Fedoseev, Vladimir",24130737,2731,0.5,"Hakobyan, Aram",13306677,2625,1,38,W,2.0,2.5
+7,39,"Fedoseev, Vladimir",24130737,2731,1.0,"Sargissian, Gabriel",13300881,2626,0,56,B,2.5,3.5
+8,22,"Fedoseev, Vladimir",24130737,2731,1.0,"Henriquez Villagra, Cristobal",3409350,2594,0,33,W,3.5,4.5
+9,15,"Fedoseev, Vladimir",24130737,2731,0.5,"Mamedov, Rauf",13401653,2651,1,30,B,4.5,5.0
+10,15,"Fedoseev, Vladimir",24130737,2731,1.0,"Xiong, Jeffery",2047640,2640,0,41,W,5.0,6.0
+11,10,"Fedoseev, Vladimir",24130737,2731,0.0,"Yakubboev, Nodirbek",14203987,2681,0,61,B,6.0,6.0
+1,49,"Yuffa, Daniil",24131423,2648,0.5,"Madaminov, Mukhiddin",14210703,2560,1,54,B,0.0,0.5
+2,45,"Yuffa, Daniil",24131423,2648,1.0,"Muradli, Mahammad",13409301,2590,0,43,W,0.5,1.5
+3,4,"Yuffa, Daniil",24131423,2648,0.0,"Gukesh, D",46616543,2767,0,35,W,1.5,1.5
+4,36,"Yuffa, Daniil",24131423,2648,0.5,"Bartel, Mateusz",1112635,2581,1,66,B,1.5,2.0
+5,34,"Yuffa, Daniil",24131423,2648,0.5,"Aditya, Mittal",35042025,2589,1,68,W,2.0,2.5
+6,36,"Yuffa, Daniil",24131423,2648,0.0,"Woodward, Andy",30953499,2557,0,54,B,2.5,2.5
+7,44,"Yuffa, Daniil",24131423,2648,0.0,"Kuzubov, Yuriy",14112906,2600,0,37,W,2.5,2.5
+8,52,"Yuffa, Daniil",24131423,2648,0.0,"Goryachkina, Aleksandra",4147103,2528,0,62,B,2.5,2.5
+9,53,"Yuffa, Daniil",24131423,2648,0.5,"Wagner, Dennis",24650684,2608,1,46,W,2.5,3.0
+10,53,"Yuffa, Daniil",24131423,2648,0.0,"Warmerdam, Max",1048104,2591,0,62,B,3.0,3.0
+11,55,"Yuffa, Daniil",24131423,2648,0.5,"Eljanov, Pavel",14102951,2682,1,39,W,3.0,3.5
+1,26,"Sarana, Alexey",24133795,2686,0.5,"Xu, Xiangyu",8608288,2615,1,22,W,0.0,0.5
+2,26,"Sarana, Alexey",24133795,2686,0.0,"Mishra, Abhimanyu",30920019,2611,0,45,B,0.5,0.5
+3,43,"Sarana, Alexey",24133795,2686,0.0,"Volokitin, Andrei",14107090,2628,0,57,W,0.5,0.5
+4,54,"Sarana, Alexey",24133795,2686,0.5,"Wagner, Dennis",24650684,2608,1,35,B,0.5,1.0
+5,51,"Sarana, Alexey",24133795,2686,0.5,"Nigmatov, Ortik",14202131,2488,1,95,B,1.0,1.5
+6,51,"Sarana, Alexey",24133795,2686,0.5,"Svane, Rasmus",4657101,2620,1,31,W,1.5,2.0
+7,48,"Sarana, Alexey",24133795,2686,0.5,"Warmerdam, Max",1048104,2591,1,30,B,2.0,2.5
+8,46,"Sarana, Alexey",24133795,2686,0.5,"Donchenko, Alexander",24603295,2624,1,36,W,2.5,3.0
+9,46,"Sarana, Alexey",24133795,2686,0.5,"Daneshvar, Bardiya",12576468,2598,1,57,B,3.0,3.5
+10,46,"Sarana, Alexey",24133795,2686,0.0,"Samunenkov, Ihor",14187086,2550,0,40,W,3.5,3.5
+11,53,"Sarana, Alexey",24133795,2686,0.5,"Suyarov, Mukhammadzokhid",14210495,2482,1,120,B,3.5,4.0
+1,25,"Esipenko, Andrey",24175439,2687,0.5,"Mendonca, Leon Luke",35028561,2615,1,31,B,0.0,0.5
+2,25,"Esipenko, Andrey",24175439,2687,1.0,"Korobov, Anton",14105730,2616,0,56,W,0.5,1.5
+3,14,"Esipenko, Andrey",24175439,2687,0.5,"Henriquez Villagra, Cristobal",3409350,2594,1,30,B,1.5,2.0
+4,15,"Esipenko, Andrey",24175439,2687,0.5,"Suleymanli, Aydin",13413937,2602,1,31,W,2.0,2.5
+5,19,"Esipenko, Andrey",24175439,2687,0.0,"Pranav, V",25060783,2596,0,98,B,2.5,2.5
+6,25,"Esipenko, Andrey",24175439,2687,1.0,"Volokitin, Andrei",14107090,2628,0,31,W,2.5,3.5
+7,18,"Esipenko, Andrey",24175439,2687,0.5,"Shirov, Alexei",2209390,2616,1,14,B,3.5,4.0
+8,17,"Esipenko, Andrey",24175439,2687,0.5,"Gurel, Ediz",44507356,2631,1,41,W,4.0,4.5
+9,18,"Esipenko, Andrey",24175439,2687,0.5,"Anton Guijarro, David",2285525,2625,1,32,B,4.5,5.0
+10,18,"Esipenko, Andrey",24175439,2687,1.0,"Sjugirov, Sanan",4189302,2627,0,50,W,5.0,6.0
+11,8,"Esipenko, Andrey",24175439,2687,1.0,"Nepomniachtchi, Ian",4168119,2742,0,40,W,6.0,7.0
+1,47,"Zemlyanskii, Ivan",24249971,2586,1.0,"Indjic, Aleksandar",911925,2650,0,67,W,0.0,1.0
+2,9,"Zemlyanskii, Ivan",24249971,2586,0.0,"Praggnanandhaa, R",25059530,2785,0,33,B,1.0,1.0
+3,39,"Zemlyanskii, Ivan",24249971,2586,0.0,"Rodshtein, Maxim",2806851,2645,0,46,W,1.0,1.0
+4,52,"Zemlyanskii, Ivan",24249971,2586,0.5,"Bacrot, Etienne",605506,2637,1,32,B,1.0,1.5
+5,47,"Zemlyanskii, Ivan",24249971,2586,1.0,"Ivic, Velimir",950122,2630,0,34,W,1.5,2.5
+6,37,"Zemlyanskii, Ivan",24249971,2586,0.5,"Lu, Shanglei",8603332,2647,1,57,B,2.5,3.0
+7,27,"Zemlyanskii, Ivan",24249971,2586,0.5,"Murzin, Volodar",44155573,2670,1,55,W,3.0,3.5
+8,38,"Zemlyanskii, Ivan",24249971,2586,0.5,"Cheparinov, Ivan",2905540,2627,1,82,B,3.5,4.0
+9,32,"Zemlyanskii, Ivan",24249971,2586,0.0,"Vokhidov, Shamsiddin",14204223,2645,0,41,W,4.0,4.0
+10,39,"Zemlyanskii, Ivan",24249971,2586,0.5,"Karthikeyan, Murali",5074452,2669,1,59,B,4.0,4.5
+11,42,"Zemlyanskii, Ivan",24249971,2586,1.0,"Chigaev, Maksim",4108116,2638,0,0,W,4.5,5.5
+1,16,"Donchenko, Alexander",24603295,2624,0.0,"Vidit, Santosh Gujrathi",5029465,2712,0,37,B,0.0,0.0
+2,57,"Donchenko, Alexander",24603295,2624,0.5,"Divya, Deshmukh",35006916,2478,1,41,W,0.0,0.5
+3,48,"Donchenko, Alexander",24603295,2624,0.5,"Saric, Ivan",14508150,2655,1,47,B,0.5,1.0
+4,41,"Donchenko, Alexander",24603295,2624,0.5,"Robson, Ray",2023970,2674,1,27,W,1.0,1.5
+5,43,"Donchenko, Alexander",24603295,2624,0.0,"Grandelius, Nils",1710400,2648,0,43,B,1.5,1.5
+6,54,"Donchenko, Alexander",24603295,2624,1.0,"Vakhidov, Jakhongir",14201801,2521,0,51,W,1.5,2.5
+7,42,"Donchenko, Alexander",24603295,2624,0.0,"Artemiev, Vladislav",24101605,2664,0,34,W,2.5,2.5
+8,46,"Donchenko, Alexander",24603295,2624,0.5,"Sarana, Alexey",24133795,2686,1,36,B,2.5,3.0
+9,47,"Donchenko, Alexander",24603295,2624,1.0,"Eljanov, Pavel",14102951,2682,0,64,W,3.0,4.0
+10,37,"Donchenko, Alexander",24603295,2624,0.5,"Aronian, Levon",13300474,2744,1,41,B,4.0,4.5
+11,37,"Donchenko, Alexander",24603295,2624,1.0,"Karthikeyan, Murali",5074452,2669,0,50,W,4.5,5.5
+1,34,"Wagner, Dennis",24650684,2608,0.0,"Shankland, Sam",2004887,2670,0,49,B,0.0,0.0
+2,51,"Wagner, Dennis",24650684,2608,0.5,"Harikrishna, Pentala",5007003,2704,1,30,W,0.0,0.5
+3,52,"Wagner, Dennis",24650684,2608,0.0,"Xiong, Jeffery",2047640,2640,0,41,B,0.5,0.5
+4,54,"Wagner, Dennis",24650684,2608,0.5,"Sarana, Alexey",24133795,2686,1,35,W,0.5,1.0
+5,55,"Wagner, Dennis",24650684,2608,0.0,"Martirosyan, Haik M.",13306553,2628,0,99,B,1.0,1.0
+6,58,"Wagner, Dennis",24650684,2608,1.0,"Olisa, Tennyson Ewomazino",8511390,2287,0,43,W,1.0,2.0
+7,51,"Wagner, Dennis",24650684,2608,0.0,"Kollars, Dmitrij",12909572,2647,0,66,B,2.0,2.0
+8,55,"Wagner, Dennis",24650684,2608,0.5,"Suyarov, Mukhammadzokhid",14210495,2482,1,72,W,2.0,2.5
+9,53,"Wagner, Dennis",24650684,2608,0.5,"Yuffa, Daniil",24131423,2648,1,46,B,2.5,3.0
+10,52,"Wagner, Dennis",24650684,2608,0.5,"Eljanov, Pavel",14102951,2682,1,54,B,3.0,3.5
+11,54,"Wagner, Dennis",24650684,2608,0.5,"Hammer, Jon Ludvig",1503707,2618,1,31,W,3.5,4.0
+1,32,"Bluebaum, Matthias",24651516,2671,0.5,"Predke, Alexandr",24107581,2609,1,31,W,0.0,0.5
+2,32,"Bluebaum, Matthias",24651516,2671,0.5,"Lagarde, Maxime",662399,2609,1,30,B,0.5,1.0
+3,28,"Bluebaum, Matthias",24651516,2671,1.0,"Hammer, Jon Ludvig",1503707,2618,0,24,W,1.0,2.0
+4,17,"Bluebaum, Matthias",24651516,2671,1.0,"Henriquez Villagra, Cristobal",3409350,2594,0,44,B,2.0,3.0
+5,2,"Bluebaum, Matthias",24651516,2671,1.0,"Praggnanandhaa, R",25059530,2785,0,55,W,3.0,4.0
+6,2,"Bluebaum, Matthias",24651516,2671,0.5,"Mishra, Abhimanyu",30920019,2611,1,30,W,4.0,4.5
+7,2,"Bluebaum, Matthias",24651516,2671,1.0,"Erigaisi, Arjun",35009192,2771,0,51,B,4.5,5.5
+8,1,"Bluebaum, Matthias",24651516,2671,0.5,"Nihal, Sarin",25092340,2693,1,21,W,5.5,6.0
+9,2,"Bluebaum, Matthias",24651516,2671,0.5,"Abdusattorov, Nodirbek",14204118,2748,1,39,B,6.0,6.5
+10,2,"Bluebaum, Matthias",24651516,2671,0.5,"Keymer, Vincent",12940690,2751,1,63,B,6.5,7.0
+11,1,"Bluebaum, Matthias",24651516,2671,0.5,"Firouzja, Alireza",12573981,2754,1,56,W,7.0,7.5
+1,1,"Praggnanandhaa, R",25059530,2785,0.5,"Xiong, Jeffery",2047640,2640,1,31,B,0.0,0.5
+2,9,"Praggnanandhaa, R",25059530,2785,1.0,"Zemlyanskii, Ivan",24249971,2586,0,33,W,0.5,1.5
+3,3,"Praggnanandhaa, R",25059530,2785,1.0,"Gelfand, Boris",2805677,2652,0,65,B,1.5,2.5
+4,2,"Praggnanandhaa, R",25059530,2785,0.5,"Mishra, Abhimanyu",30920019,2611,1,57,W,2.5,3.0
+5,2,"Praggnanandhaa, R",25059530,2785,0.0,"Bluebaum, Matthias",24651516,2671,0,55,B,3.0,3.0
+6,9,"Praggnanandhaa, R",25059530,2785,0.5,"Mamedov, Rauf",13401653,2651,1,56,W,3.0,3.5
+7,11,"Praggnanandhaa, R",25059530,2785,1.0,"Rodshtein, Maxim",2806851,2645,0,42,W,3.5,4.5
+8,6,"Praggnanandhaa, R",25059530,2785,0.5,"Rapport, Richard",738590,2711,1,39,B,4.5,5.0
+9,6,"Praggnanandhaa, R",25059530,2785,0.5,"Liang, Awonder",2056437,2698,1,58,W,5.0,5.5
+10,6,"Praggnanandhaa, R",25059530,2785,0.0,"Niemann, Hans Moke",2093596,2733,0,38,B,5.5,5.5
+11,15,"Praggnanandhaa, R",25059530,2785,0.5,"Theodorou, Nikolas",4262875,2646,1,33,B,5.5,6.0
+1,38,"Pranav, V",25060783,2596,0.5,"Wojtaszek, Radoslaw",1118358,2661,1,22,B,0.0,0.5
+2,34,"Pranav, V",25060783,2596,0.5,"Vitiugov, Nikita",4152956,2666,1,40,W,0.5,1.0
+3,36,"Pranav, V",25060783,2596,1.0,"Kollars, Dmitrij",12909572,2647,0,55,B,1.0,2.0
+4,14,"Pranav, V",25060783,2596,0.5,"Nihal, Sarin",25092340,2693,1,77,W,2.0,2.5
+5,19,"Pranav, V",25060783,2596,1.0,"Esipenko, Andrey",24175439,2687,0,98,W,2.5,3.5
+6,8,"Pranav, V",25060783,2596,0.5,"Yakubboev, Nodirbek",14203987,2681,1,53,B,3.5,4.0
+7,10,"Pranav, V",25060783,2596,0.5,"Van Foreest, Jorden",1039784,2692,1,44,W,4.0,4.5
+8,8,"Pranav, V",25060783,2596,0.5,"Nepomniachtchi, Ian",4168119,2742,1,32,B,4.5,5.0
+9,13,"Pranav, V",25060783,2596,0.0,"Tabatabaei, M. Amin",12521213,2673,0,45,W,5.0,5.0
+10,23,"Pranav, V",25060783,2596,0.5,"Vokhidov, Shamsiddin",14204223,2645,1,41,B,5.0,5.5
+11,23,"Pranav, V",25060783,2596,1.0,"Lu, Shanglei",8603332,2647,0,54,W,5.5,6.5
+1,20,"Nihal, Sarin",25092340,2693,0.5,"Svane, Rasmus",4657101,2620,1,31,W,0.0,0.5
+2,21,"Nihal, Sarin",25092340,2693,1.0,"Hakobyan, Aram",13306677,2625,0,38,B,0.5,1.5
+3,13,"Nihal, Sarin",25092340,2693,0.5,"Kuzubov, Yuriy",14112906,2600,1,60,W,1.5,2.0
+4,14,"Nihal, Sarin",25092340,2693,0.5,"Pranav, V",25060783,2596,1,77,B,2.0,2.5
+5,16,"Nihal, Sarin",25092340,2693,1.0,"Mendonca, Leon Luke",35028561,2615,0,60,W,2.5,3.5
+6,7,"Nihal, Sarin",25092340,2693,1.0,"Gumularz, Szymon",1188062,2590,0,22,B,3.5,4.5
+7,1,"Nihal, Sarin",25092340,2693,1.0,"Maghsoodloo, Parham",12539929,2692,0,42,W,4.5,5.5
+8,1,"Nihal, Sarin",25092340,2693,0.5,"Bluebaum, Matthias",24651516,2671,1,21,B,5.5,6.0
+9,1,"Nihal, Sarin",25092340,2693,0.0,"Firouzja, Alireza",12573981,2754,0,82,W,6.0,6.0
+10,4,"Nihal, Sarin",25092340,2693,0.5,"Abdusattorov, Nodirbek",14204118,2748,1,53,W,6.0,6.5
+11,5,"Nihal, Sarin",25092340,2693,0.5,"Vachier-Lagrave, Maxime",623539,2738,1,31,B,6.5,7.0
+1,28,"Mishra, Abhimanyu",30920019,2611,0.5,"Yakubboev, Nodirbek",14203987,2681,1,31,B,0.0,0.5
+2,26,"Mishra, Abhimanyu",30920019,2611,1.0,"Sarana, Alexey",24133795,2686,0,45,W,0.5,1.5
+3,10,"Mishra, Abhimanyu",30920019,2611,1.0,"Yu, Yangyi",8603820,2714,0,92,W,1.5,2.5
+4,2,"Mishra, Abhimanyu",30920019,2611,0.5,"Praggnanandhaa, R",25059530,2785,1,57,B,2.5,3.0
+5,4,"Mishra, Abhimanyu",30920019,2611,1.0,"Gukesh, D",46616543,2767,0,61,W,3.0,4.0
+6,2,"Mishra, Abhimanyu",30920019,2611,0.5,"Bluebaum, Matthias",24651516,2671,1,30,B,4.0,4.5
+7,3,"Mishra, Abhimanyu",30920019,2611,0.5,"Giri, Anish",24116068,2746,1,49,B,4.5,5.0
+8,3,"Mishra, Abhimanyu",30920019,2611,0.5,"Abdusattorov, Nodirbek",14204118,2748,1,69,W,5.0,5.5
+9,5,"Mishra, Abhimanyu",30920019,2611,0.5,"Niemann, Hans Moke",2093596,2733,1,104,B,5.5,6.0
+10,5,"Mishra, Abhimanyu",30920019,2611,0.5,"Vachier-Lagrave, Maxime",623539,2738,1,30,W,6.0,6.5
+11,7,"Mishra, Abhimanyu",30920019,2611,0.5,"Vidit, Santosh Gujrathi",5029465,2712,1,31,B,6.5,7.0
+1,50,"Woodward, Andy",30953499,2557,0.5,"Kollars, Dmitrij",12909572,2647,1,60,B,0.0,0.5
+2,44,"Woodward, Andy",30953499,2557,0.5,"Grandelius, Nils",1710400,2648,1,80,W,0.5,1.0
+3,33,"Woodward, Andy",30953499,2557,1.0,"Sadhwani, Raunak",35093487,2658,0,39,B,1.0,2.0
+4,20,"Woodward, Andy",30953499,2557,0.5,"Rodshtein, Maxim",2806851,2645,1,18,W,2.0,2.5
+5,21,"Woodward, Andy",30953499,2557,0.0,"Vachier-Lagrave, Maxime",623539,2738,0,48,B,2.5,2.5
+6,36,"Woodward, Andy",30953499,2557,1.0,"Yuffa, Daniil",24131423,2648,0,54,W,2.5,3.5
+7,17,"Woodward, Andy",30953499,2557,0.5,"Dubov, Daniil",24126055,2691,1,33,B,3.5,4.0
+8,18,"Woodward, Andy",30953499,2557,0.5,"Yakubboev, Nodirbek",14203987,2681,1,60,W,4.0,4.5
+9,22,"Woodward, Andy",30953499,2557,1.0,"Aronian, Levon",13300474,2744,0,34,B,4.5,5.5
+10,13,"Woodward, Andy",30953499,2557,1.0,"Maghsoodloo, Parham",12539929,2692,0,39,W,5.5,6.5
+11,6,"Woodward, Andy",30953499,2557,0.5,"Yu, Yangyi",8603820,2714,1,46,W,6.5,7.0
+1,57,"Divya, Deshmukh",35006916,2478,0.0,"Puranik, Abhimanyu",5061245,2640,0,51,W,0.0,0.0
+2,57,"Divya, Deshmukh",35006916,2478,0.5,"Donchenko, Alexander",24603295,2624,1,41,B,0.0,0.5
+3,57,"Divya, Deshmukh",35006916,2478,0.5,"Karthikeyan, Murali",5074452,2669,1,101,W,0.5,1.0
+4,57,"Divya, Deshmukh",35006916,2478,1.0,"Amin, Bassem",10601457,2636,0,47,B,1.0,2.0
+5,57,"Divya, Deshmukh",35006916,2478,0.0,"Vokhidov, Shamsiddin",14204223,2645,0,63,W,2.0,2.0
+6,57,"Divya, Deshmukh",35006916,2478,0.5,"Sargissian, Gabriel",13300881,2626,1,31,B,2.0,2.5
+7,57,"Divya, Deshmukh",35006916,2478,1.0,"Ivic, Velimir",950122,2630,0,49,W,2.5,3.5
+8,57,"Divya, Deshmukh",35006916,2478,0.5,"Gukesh, D",46616543,2767,1,103,B,3.5,4.0
+9,57,"Divya, Deshmukh",35006916,2478,0.0,"Sjugirov, Sanan",4189302,2627,0,60,W,4.0,4.0
+10,57,"Divya, Deshmukh",35006916,2478,0.5,"Indjic, Aleksandar",911925,2650,1,41,B,4.0,4.5
+11,57,"Divya, Deshmukh",35006916,2478,0.5,"Cheparinov, Ivan",2905540,2627,1,48,W,4.5,5.0
+1,2,"Erigaisi, Arjun",35009192,2771,0.5,"Chigaev, Maksim",4108116,2638,1,54,W,0.0,0.5
+2,10,"Erigaisi, Arjun",35009192,2771,1.0,"Martirosyan, Haik M.",13306553,2628,0,54,B,0.5,1.5
+3,2,"Erigaisi, Arjun",35009192,2771,1.0,"Demchenko, Anton",4160258,2620,0,65,W,1.5,2.5
+4,3,"Erigaisi, Arjun",35009192,2771,0.5,"Gukesh, D",46616543,2767,1,46,B,2.5,3.0
+5,3,"Erigaisi, Arjun",35009192,2771,1.0,"Vitiugov, Nikita",4152956,2666,0,37,W,3.0,4.0
+6,1,"Erigaisi, Arjun",35009192,2771,0.5,"Maghsoodloo, Parham",12539929,2692,1,38,B,4.0,4.5
+7,2,"Erigaisi, Arjun",35009192,2771,0.0,"Bluebaum, Matthias",24651516,2671,0,51,W,4.5,4.5
+8,7,"Erigaisi, Arjun",35009192,2771,0.5,"Sargsyan, Shant",13306766,2653,1,31,B,4.5,5.0
+9,7,"Erigaisi, Arjun",35009192,2771,1.0,"Sevian, Samuel",2040506,2692,0,51,W,5.0,6.0
+10,3,"Erigaisi, Arjun",35009192,2771,0.5,"Yu, Yangyi",8603820,2714,1,54,B,6.0,6.5
+11,3,"Erigaisi, Arjun",35009192,2771,0.5,"Keymer, Vincent",12940690,2751,1,49,W,6.5,7.0
+1,25,"Mendonca, Leon Luke",35028561,2615,0.5,"Esipenko, Andrey",24175439,2687,1,31,W,0.0,0.5
+2,27,"Mendonca, Leon Luke",35028561,2615,1.0,"Eljanov, Pavel",14102951,2682,0,36,B,0.5,1.5
+3,9,"Mendonca, Leon Luke",35028561,2615,0.5,"Vachier-Lagrave, Maxime",623539,2738,1,30,W,1.5,2.0
+4,11,"Mendonca, Leon Luke",35028561,2615,0.5,"Niemann, Hans Moke",2093596,2733,1,58,W,2.0,2.5
+5,16,"Mendonca, Leon Luke",35028561,2615,0.0,"Nihal, Sarin",25092340,2693,0,60,B,2.5,2.5
+6,26,"Mendonca, Leon Luke",35028561,2615,1.0,"Deac, Bogdan-Daniel",1226380,2674,0,104,B,2.5,3.5
+7,14,"Mendonca, Leon Luke",35028561,2615,0.0,"Yu, Yangyi",8603820,2714,0,48,W,3.5,3.5
+8,25,"Mendonca, Leon Luke",35028561,2615,0.5,"Murzin, Volodar",44155573,2670,1,52,B,3.5,4.0
+9,26,"Mendonca, Leon Luke",35028561,2615,0.5,"Artemiev, Vladislav",24101605,2664,1,31,W,4.0,4.5
+10,26,"Mendonca, Leon Luke",35028561,2615,0.5,"Vitiugov, Nikita",4152956,2666,1,35,B,4.5,5.0
+11,29,"Mendonca, Leon Luke",35028561,2615,0.0,"Grischuk, Alexander",4126025,2657,0,90,W,5.0,5.0
+1,46,"Aditya, Mittal",35042025,2589,0.5,"Mamedov, Rauf",13401653,2651,1,59,B,0.0,0.5
+2,46,"Aditya, Mittal",35042025,2589,0.5,"Kollars, Dmitrij",12909572,2647,1,112,W,0.5,1.0
+3,35,"Aditya, Mittal",35042025,2589,1.0,"Grandelius, Nils",1710400,2648,0,49,B,1.0,2.0
+4,19,"Aditya, Mittal",35042025,2589,0.0,"Erdogmus, Yagiz Kaan",44599790,2646,0,42,W,2.0,2.0
+5,34,"Aditya, Mittal",35042025,2589,0.5,"Yuffa, Daniil",24131423,2648,1,68,B,2.0,2.5
+6,33,"Aditya, Mittal",35042025,2589,0.5,"Gelfand, Boris",2805677,2652,1,31,W,2.5,3.0
+7,37,"Aditya, Mittal",35042025,2589,0.5,"Xiong, Jeffery",2047640,2640,1,33,B,3.0,3.5
+8,29,"Aditya, Mittal",35042025,2589,0.5,"Sadhwani, Raunak",35093487,2658,1,106,W,3.5,4.0
+9,35,"Aditya, Mittal",35042025,2589,1.0,"Volokitin, Andrei",14107090,2628,0,73,B,4.0,5.0
+10,17,"Aditya, Mittal",35042025,2589,0.5,"Dubov, Daniil",24126055,2691,1,30,W,5.0,5.5
+11,17,"Aditya, Mittal",35042025,2589,0.5,"Maghsoodloo, Parham",12539929,2692,1,27,B,5.5,6.0
+1,40,"Sadhwani, Raunak",35093487,2658,0.5,"Moussard, Jules",642908,2591,1,31,W,0.0,0.5
+2,38,"Sadhwani, Raunak",35093487,2658,0.5,"Warmerdam, Max",1048104,2591,1,30,B,0.5,1.0
+3,33,"Sadhwani, Raunak",35093487,2658,0.0,"Woodward, Andy",30953499,2557,0,39,W,1.0,1.0
+4,44,"Sadhwani, Raunak",35093487,2658,1.0,"Hammer, Jon Ludvig",1503707,2618,0,41,B,1.0,2.0
+5,29,"Sadhwani, Raunak",35093487,2658,0.5,"Kuzubov, Yuriy",14112906,2600,1,42,W,2.0,2.5
+6,31,"Sadhwani, Raunak",35093487,2658,0.5,"Suleymanli, Aydin",13413937,2602,1,31,B,2.5,3.0
+7,30,"Sadhwani, Raunak",35093487,2658,0.5,"Predke, Alexandr",24107581,2609,1,26,W,3.0,3.5
+8,29,"Sadhwani, Raunak",35093487,2658,0.5,"Aditya, Mittal",35042025,2589,1,106,B,3.5,4.0
+9,27,"Sadhwani, Raunak",35093487,2658,0.5,"Dardha, Daniel",240990,2624,1,31,W,4.0,4.5
+10,28,"Sadhwani, Raunak",35093487,2658,1.0,"Demchenko, Anton",4160258,2620,0,55,B,4.5,5.5
+11,20,"Sadhwani, Raunak",35093487,2658,0.5,"Hakobyan, Aram",13306677,2625,1,12,W,5.5,6.0
+1,29,"Maurizzi, Marcandria",36083534,2610,0.5,"Deac, Bogdan-Daniel",1226380,2674,1,31,W,0.0,0.5
+2,31,"Maurizzi, Marcandria",36083534,2610,0.5,"Tabatabaei, M. Amin",12521213,2673,1,45,B,0.5,1.0
+3,32,"Maurizzi, Marcandria",36083534,2610,1.0,"Artemiev, Vladislav",24101605,2664,0,28,W,1.0,2.0
+4,10,"Maurizzi, Marcandria",36083534,2610,1.0,"Vachier-Lagrave, Maxime",623539,2738,0,38,B,2.0,3.0
+5,5,"Maurizzi, Marcandria",36083534,2610,1.0,"Keymer, Vincent",12940690,2751,0,55,W,3.0,4.0
+6,3,"Maurizzi, Marcandria",36083534,2610,0.0,"Giri, Anish",24116068,2746,0,27,W,4.0,4.0
+7,9,"Maurizzi, Marcandria",36083534,2610,0.0,"Vidit, Santosh Gujrathi",5029465,2712,0,49,B,4.0,4.0
+8,20,"Maurizzi, Marcandria",36083534,2610,1.0,"Vitiugov, Nikita",4152956,2666,0,52,B,4.0,5.0
+9,10,"Maurizzi, Marcandria",36083534,2610,0.0,"Yu, Yangyi",8603820,2714,0,65,W,5.0,5.0
+10,22,"Maurizzi, Marcandria",36083534,2610,0.5,"Erdogmus, Yagiz Kaan",44599790,2646,1,43,B,5.0,5.5
+11,19,"Maurizzi, Marcandria",36083534,2610,0.5,"Murzin, Volodar",44155573,2670,1,32,W,5.5,6.0
+1,33,"Murzin, Volodar",44155573,2670,0.5,"Ivanchuk, Vasyl",14100010,2608,1,43,B,0.0,0.5
+2,33,"Murzin, Volodar",44155573,2670,0.5,"Matlakov, Maxim",4168003,2609,1,49,W,0.5,1.0
+3,29,"Murzin, Volodar",44155573,2670,0.5,"Najer, Evgeniy",4118987,2613,1,31,B,1.0,1.5
+4,30,"Murzin, Volodar",44155573,2670,0.5,"Narayanan, S",5058422,2591,1,24,W,1.5,2.0
+5,28,"Murzin, Volodar",44155573,2670,0.5,"Lagarde, Maxime",662399,2609,1,33,B,2.0,2.5
+6,28,"Murzin, Volodar",44155573,2670,0.5,"Ponomariov, Ruslan",14103320,2622,1,41,W,2.5,3.0
+7,27,"Murzin, Volodar",44155573,2670,0.5,"Zemlyanskii, Ivan",24249971,2586,1,55,B,3.0,3.5
+8,25,"Murzin, Volodar",44155573,2670,0.5,"Mendonca, Leon Luke",35028561,2615,1,52,W,3.5,4.0
+9,24,"Murzin, Volodar",44155573,2670,1.0,"Korobov, Anton",14105730,2616,0,36,B,4.0,5.0
+10,14,"Murzin, Volodar",44155573,2670,0.5,"Shirov, Alexei",2209390,2616,1,50,W,5.0,5.5
+11,19,"Murzin, Volodar",44155573,2670,0.5,"Maurizzi, Marcandria",36083534,2610,1,32,B,5.5,6.0
+1,5,"Gurel, Ediz",44507356,2631,0.5,"Keymer, Vincent",12940690,2751,1,36,W,0.0,0.5
+2,13,"Gurel, Ediz",44507356,2631,0.0,"Nepomniachtchi, Ian",4168119,2742,0,58,B,0.5,0.5
+3,54,"Gurel, Ediz",44507356,2631,0.5,"Goryachkina, Aleksandra",4147103,2528,1,95,W,0.5,1.0
+4,53,"Gurel, Ediz",44507356,2631,0.5,"Suyarov, Mukhammadzokhid",14210495,2482,1,32,B,1.0,1.5
+5,46,"Gurel, Ediz",44507356,2631,1.0,"Warmerdam, Max",1048104,2591,0,45,W,1.5,2.5
+6,23,"Gurel, Ediz",44507356,2631,0.5,"Harikrishna, Pentala",5007003,2704,1,33,B,2.5,3.0
+7,21,"Gurel, Ediz",44507356,2631,1.0,"Gukesh, D",46616543,2767,0,52,W,3.0,4.0
+8,17,"Gurel, Ediz",44507356,2631,0.5,"Esipenko, Andrey",24175439,2687,1,41,B,4.0,4.5
+9,20,"Gurel, Ediz",44507356,2631,0.5,"Oparin, Grigoriy",24125890,2660,1,34,W,4.5,5.0
+10,16,"Gurel, Ediz",44507356,2631,0.0,"Sevian, Samuel",2040506,2692,0,32,B,5.0,5.0
+11,34,"Gurel, Ediz",44507356,2631,0.5,"Moussard, Jules",642908,2591,1,36,W,5.0,5.5
+1,52,"Erdogmus, Yagiz Kaan",44599790,2646,1.0,"Goryachkina, Aleksandra",4147103,2528,0,47,W,0.0,1.0
+2,1,"Erdogmus, Yagiz Kaan",44599790,2646,0.5,"Gukesh, D",46616543,2767,1,46,B,1.0,1.5
+3,5,"Erdogmus, Yagiz Kaan",44599790,2646,0.5,"Keymer, Vincent",12940690,2751,1,74,W,1.5,2.0
+4,19,"Erdogmus, Yagiz Kaan",44599790,2646,1.0,"Aditya, Mittal",35042025,2589,0,42,B,2.0,3.0
+5,6,"Erdogmus, Yagiz Kaan",44599790,2646,0.5,"Abdusattorov, Nodirbek",14204118,2748,1,190,B,3.0,3.5
+6,6,"Erdogmus, Yagiz Kaan",44599790,2646,0.5,"Mamedyarov, Shakhriyar",13401319,2741,1,16,W,3.5,4.0
+7,8,"Erdogmus, Yagiz Kaan",44599790,2646,0.0,"Niemann, Hans Moke",2093596,2733,0,26,B,4.0,4.0
+8,11,"Erdogmus, Yagiz Kaan",44599790,2646,1.0,"Aronian, Levon",13300474,2744,0,49,W,4.0,5.0
+9,9,"Erdogmus, Yagiz Kaan",44599790,2646,0.0,"Vachier-Lagrave, Maxime",623539,2738,0,73,B,5.0,5.0
+10,22,"Erdogmus, Yagiz Kaan",44599790,2646,0.5,"Maurizzi, Marcandria",36083534,2610,1,43,W,5.0,5.5
+11,24,"Erdogmus, Yagiz Kaan",44599790,2646,0.5,"Narayanan, S",5058422,2591,1,30,B,5.5,6.0
+1,3,"Gukesh, D",46616543,2767,1.0,"Bacrot, Etienne",605506,2637,0,45,B,0.0,1.0
+2,1,"Gukesh, D",46616543,2767,0.5,"Erdogmus, Yagiz Kaan",44599790,2646,1,46,W,1.0,1.5
+3,4,"Gukesh, D",46616543,2767,1.0,"Yuffa, Daniil",24131423,2648,0,35,B,1.5,2.5
+4,3,"Gukesh, D",46616543,2767,0.5,"Erigaisi, Arjun",35009192,2771,1,46,W,2.5,3.0
+5,4,"Gukesh, D",46616543,2767,0.0,"Mishra, Abhimanyu",30920019,2611,0,61,B,3.0,3.0
+6,10,"Gukesh, D",46616543,2767,0.0,"Theodorou, Nikolas",4262875,2646,0,47,W,3.0,3.0
+7,21,"Gukesh, D",46616543,2767,0.0,"Gurel, Ediz",44507356,2631,0,52,B,3.0,3.0
+8,57,"Gukesh, D",46616543,2767,0.5,"Divya, Deshmukh",35006916,2478,1,103,W,3.0,3.5
+9,38,"Gukesh, D",46616543,2767,0.5,"Hovhannisyan, Robert",13302507,2629,1,57,B,3.5,4.0
+10,36,"Gukesh, D",46616543,2767,1.0,"Sargissian, Gabriel",13300881,2626,0,42,W,4.0,5.0
+11,25,"Gukesh, D",46616543,2767,1.0,"Volokitin, Andrei",14107090,2628,0,42,B,5.0,6.0

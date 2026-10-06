@@ -1,0 +1,11 @@
+{
+ "early_top": {
+  "n": 26,
+  "draws": 16
+ },
+ "last_top": {
+  "n": 7,
+  "draws": 6
+ },
+ "fisher_p_last_vs_early_top": 0.3784374613768385
+}
